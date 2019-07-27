@@ -343,7 +343,10 @@
     "achievement_earned_word": "Earned",
     "achievement_name": "%s (%d Points)",
     "no_desc": "No desciption for this achievement",
-    "maximum_stun_chance": "Maximum Stun Chance"
+    "maximum_stun_chance": "Maximum Stun Chance",
+    "reset_price_title": "Reseting your attributes",
+    "sure_to_reset_title": "Are you sure to reset your attributes?",
+    "reset_cancel": "You've cancelled your attributes reset"
   },
   "economic": {
     "sell_for_x": "You sold your item for %dG",
@@ -410,7 +413,10 @@
     "critical_hit": "Critical hit",
     "stun_hit": "Stun hit",
     "win": "You won the fight!",
-    "loose": "You lost the fight!"
+    "loose": "You lost the fight!",
+    "now_muted": "Fight notifications are now deactivated",
+    "now_unmuted": "Fight notifications are now activated",
+    "settings_menu_mute": "%s Fight notifications"
   },
   "rarities": {
     "common": "Common",
@@ -488,7 +494,8 @@
     "level": "Level Leaderboard",
     "craftlevel": "Craft Level Leaderboard",
     "wb_damage": "World Boss: Damage",
-    "wb_attacks": "World Boss: Attack Count"
+    "wb_attacks": "World Boss: Attack Count",
+    "wb_have_not_participate": "You have not yet participated in a boss fight"
   },
   "world_bosses": {
     "no_world_boss": "There is no world boss here",

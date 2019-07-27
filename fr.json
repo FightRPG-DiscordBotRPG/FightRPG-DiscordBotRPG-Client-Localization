@@ -343,7 +343,10 @@
     "achievement_earned_word": "Obtenu",
     "achievement_name": "%s (%d Points)",
     "no_desc": "Pas de description pour ce haut fait",
-    "maximum_stun_chance": "Chance Maximum d'Assommer"
+    "maximum_stun_chance": "Chance Maximum d'Assommer",
+    "reset_price_title": "Réinitialiser vos attributs",
+    "sure_to_reset_title": "Êtes-vous sûr de vouloir réinitialiser vos attributs ?",
+    "reset_cancel": "Vous avez annulé la réinitialisation de vos attributs"
   },
   "economic": {
     "sell_for_x": "Vous avez vendu votre objet pour %dG",
@@ -410,7 +413,10 @@
     "critical_hit": "Coup Critique",
     "stun_hit": "Coup Assomant",
     "win": "Vous avez gagné le combat !",
-    "loose": "Vous avez perdu le combat !"
+    "loose": "Vous avez perdu le combat !",
+    "now_muted": "Les notifications en rapport avec les combats sont maintenant désactivées",
+    "now_unmuted": "Les notifications en rapport avec les combats sont maintenant activées",
+    "settings_menu_mute": "%s les notifications en rapport avec les combats"
   },
   "rarities": {
     "common": "Commun",

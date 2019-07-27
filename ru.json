@@ -343,7 +343,10 @@
     "achievement_earned_word": "Earned",
     "achievement_name": "%s (%d Points)",
     "no_desc": "No desciption for this achievement",
-    "maximum_stun_chance": "Maximum Stun Chance"
+    "maximum_stun_chance": "Maximum Stun Chance",
+    "reset_price_title": "Reseting your attributes",
+    "sure_to_reset_title": "Are you sure to reset your attributes?",
+    "reset_cancel": "You've cancelled your attributes reset"
   },
   "economic": {
     "sell_for_x": "Вы продали свой предмет за %dG",
@@ -410,7 +413,10 @@
     "critical_hit": "Критический удар",
     "stun_hit": "Оглушающий удар",
     "win": "Вы выиграли бой!",
-    "loose": "Вы проиграли бой!"
+    "loose": "Вы проиграли бой!",
+    "now_muted": "Fight notifications are now deactivated",
+    "now_unmuted": "Fight notifications are now activated",
+    "settings_menu_mute": "%s Fight notifications"
   },
   "rarities": {
     "common": "Обычный",
