@@ -125,7 +125,22 @@
     "shop_item_dont_exist": "Vous devez choisir un objet qui existe",
     "shop_no_building": "Il n'y a pas de magasin dans cette zone",
     "already_doing_something_command": "Vous devez attendre que votre dernière action soit terminée",
-    "travel_missing_achievements": "Vous ne pouvez pas accéder à cette zone, il vous manque les hauts faits suivants : \"%s\""
+    "travel_missing_achievements": "Vous ne pouvez pas accéder à cette zone, il vous manque les hauts faits suivants : \"%s\"",
+    "trade_not_in_trade": "Vous n'êtes pas en train d'échanger",
+    "trade_cant_propose_more": "Vous avez déjà proposé un échange à quelqu'un, annulez ou terminez l'échange en cours pour pouvoir en proposer un autre",
+    "trade_proposal_waiting": "Cette personne à déjà un requête de trade en cours",
+    "trade_propose_already_in_trade": "Cette personne échange déjà avec quelqu'un",
+    "trade_user_not_connected": "Vous ne pouvez échanger uniquement avec quelqu'un de connecté",
+    "trade_cant_propose_yourself": "Vous ne pouvez pas échanger avec vous-même",
+    "trade_already_in_trade": "Vous êtes déjà entrain de faire un échange, annulez ou terminez l'échange en cours pour pouvoir faire cette action",
+    "trade_inventory_changed": "Un ou plusieurs objets de l'échange ne sont plus disponibles suite à un changement d'inventaire, veuillez vérifier à nouveau l'échange en utilisant la commande pour l'afficher",
+    "trade_not_in_same_area": "Pour pouvoir valider l'échange vous devez vous situer dans la même zone que la personne avec qui vous échangez",
+    "trade_you_dont_receive_invitation": "Vous n'avez pas reçu de demande d'échange",
+    "trade_dont_have_that_many_items": "Vous n'avez pas assez d'exemplaire de cet objet",
+    "trade_dont_have_item": "Vous n'avez pas cet objet",
+    "trade_item_dont_exist": "Cet objet n'existe ou ne vous appartient pas",
+    "trade_not_enough_money": "Vous n'avez pas autant d'argent à mettre dans l'échange",
+    "trade_unable_find_item": "Impossible de trouver cet objet"
   },
   "craft": {
     "header_required": "Nom - Type - Sous-Type - Rareté - Nombre",
@@ -134,8 +149,8 @@
     "craft_done": "Vous avez fabriqué l'objet suivant : \"%s\""
   },
   "marketplace": {
-    "placed": "Votre objet à été mis en vente",
-    "placed_plur": "Vos objets ont été mis en vente",
+    "placed": "Votre %s [x%d] à été mis en vente (id: %d)",
+    "placed_plur": "Vos %s [x%d] ont été mis en vente (id: %d)",
     "header_str": "Joueur - idObjet - Nom - Type - Niveau - Rareté - Puissance - Nombre - Prix Unitaire",
     "retrieve": "Vous avez récupéré votre objet",
     "retrieve_plur": "Vous avez récupéré vos objets",
@@ -322,6 +337,37 @@
     "sellall_total_value": "Valeur total des objets",
     "sellall_are_you_sure": "Êtes-vous sûr de vouloir vendre ces objets ?",
     "sellall_cancel": "Vous avez annulé la vente"
+  },
+  "mounts": {
+    "reduction": "Bonus/Malus en temps de voyage pour les climats/terrains suivants:",
+    "all_areas": "Toutes les zones: %d%",
+    "everything_else": "Tout le reste: %d%",
+    "tempered": "Tempéré: %d%",
+    "desert": "Désertique: %d%",
+    "hills": "Collines: %d%",
+    "snowy": "Enneigé : %d%"
+  },
+  "trade": {
+    "settings_menu_mute": "%s les notifications en rapport avec les échanges",
+    "now_muted": "Les notifications en rapport avec les combats sont maintenant désactivées",
+    "now_unmuted": "Les notifications en rapport avec les combats sont maintenant activées",
+    "you_cancelled": "Vous avez annulé l'échange",
+    "someone_proposed_you": "%s vous propose de faire un échange",
+    "proposal_sent": "Demande d'échange envoyé",
+    "you_accepted": "Vous avez accepté la demande d'échange",
+    "notification_accepted": "%s a accepté la demande d'échange",
+    "notification_cancelled": "%s a annulé l'échange",
+    "done": "Échange effectué, les objets et/ou l'argent de l'échange devraient être dans votre inventaire",
+    "notification_await_validation": "La personne avec qui vous êtes en train d'échanger a validé l'échange, en attente de votre validation",
+    "await_validation": "Échange validé, en attente de l'autre personne",
+    "notification_add_item": "%s a ajouté à l'échange l'objet: \"%s\" [x%d]",
+    "add_item": "Vous avez ajouté avec succès l'objet \"%s\" [x%d] à l'échange",
+    "notification_remove_item": "%s a retiré à l'échange l'objet: \"%s\" [x%d]",
+    "remove_item": "Vous avez retiré avec succès l'objet \"%s\" [x%d] de l'échange",
+    "notification_set_money": "%s vous propose %dG pour cet échange",
+    "set_money": "Vous avez proposé %dG pour cet échange",
+    "title": "Échange entre %s et %s",
+    "is_proposing": "%s propose"
   },
   "character": {
     "reset_done": "Réinitialisation terminée !",
@@ -614,7 +660,17 @@
     "wblastinfo": "Affiche vos statistiques à propos du précédent Boss Mondial que vous avez tué",
     "wbleaderboard": "Affiche le classement des meilleurs joueurs en terme soit de dégâts (damage) soit de nombre d'attaques (attacks) pour le dernier Boss Mondial auquel vous avez participé. Les types sont: damage,attacks",
     "settings": "Affiche le menu des paramètres",
-    "achievements": "Affiche les hauts faits"
+    "achievements": "Affiche les hauts faits",
+    "trade_title": "Échanges",
+    "tpropose": "Propose un échange à la personne mentionnée",
+    "taccept": "Accepte une demande d'échange",
+    "tcancel": "Annule l'échange en cours",
+    "tshow": "Affiche l'échange",
+    "titem": "Affiche l'objet <idInTrade> de l'échange",
+    "tadd": "Ajoute un ou plusieurs objets <idItemInInventory> à l'échange",
+    "tremove": "Supprime un ou plusieurs objets de l'échange",
+    "tsetmoney": "Défini le montant d'argent que vous mettez dans l'échange",
+    "tvalidate": "Valide l'échange. Vous devez être dans la même zone que la personne avec qui vous faites l'échange. Quand vous avez tous les deux validé, l'échange est fini. Tout le monde doit revalider la transaction si des changements sont effectués"
   },
   "settings_menu": {
     "title": "Paramètres"

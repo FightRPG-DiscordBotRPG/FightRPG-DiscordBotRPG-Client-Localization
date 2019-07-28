@@ -125,7 +125,22 @@
     "shop_item_dont_exist": "Вы должны выбрать существующий элемент",
     "shop_no_building": "В этом районе нет магазина.",
     "already_doing_something_command": "Вы должны подождать, пока не завершится ваше последнее действие.",
-    "travel_missing_achievements": "You cannot access this area, you are missing the following achievements: \"%s\""
+    "travel_missing_achievements": "You cannot access this area, you are missing the following achievements: \"%s\"",
+    "trade_not_in_trade": "You are not trading",
+    "trade_cant_propose_more": "You have already proposed a trade to someone, cancel or terminate the current trade so that you can propose another one",
+    "trade_proposal_waiting": "This person already has a pending trade request",
+    "trade_propose_already_in_trade": "This person is already trading with someone",
+    "trade_user_not_connected": "You can only trade with someone who is connected",
+    "trade_cant_propose_yourself": "You cannot trade with yourself",
+    "trade_already_in_trade": "You are already making a trade, cancel or terminate the current trade to be able to perform this action",
+    "trade_inventory_changed": "One or more items of the trade are no longer available due to a change in inventory, please check the trade again using the command to display it",
+    "trade_not_in_same_area": "In order to validate the trade you must be in the same area as the person with whom you are trading",
+    "trade_you_dont_receive_invitation": "You have not received a trading request",
+    "trade_dont_have_that_many_items": "You don't have enough units of this item",
+    "trade_dont_have_item": "You don't have this item",
+    "trade_item_dont_exist": "This item does not exist or belong to you",
+    "trade_not_enough_money": "You don't have that much money to put in the trade",
+    "trade_unable_find_item": "Unable to find this item"
   },
   "craft": {
     "header_required": "Имя - Тип - Подтип - Редкость - Число",
@@ -322,6 +337,37 @@
     "sellall_total_value": "Total value of items",
     "sellall_are_you_sure": "Are you sure you want to sell these items?",
     "sellall_cancel": "You cancelled the sale"
+  },
+  "mounts": {
+    "reduction": "Bonuses/Penalties in travel time for the following climate/terrain:",
+    "all_areas": "All areas: %d%",
+    "everything_else": "Everything else: %d%",
+    "tempered": "Tempered: %d%",
+    "desert": "Desert: %d%",
+    "hills": "Hills: %d%",
+    "snowy": "Snowy: %d%"
+  },
+  "trade": {
+    "settings_menu_mute": "%s Trade notifications",
+    "now_muted": "Trade notifications are now deactivated",
+    "now_unmuted": "Trade notifications are now activated",
+    "you_cancelled": "You cancelled the trade",
+    "someone_proposed_you": "%s invites you to make a trade",
+    "proposal_sent": "Trade request sent",
+    "you_accepted": "You have accepted the trade request",
+    "notification_accepted": "%s accepted the trade request",
+    "notification_cancelled": "%s cancelled the trade",
+    "done": "Trade finished, the items and/or money of the trade should be in your inventory",
+    "notification_await_validation": "The person with whom you are trading has validated the trade, awaiting your validation",
+    "await_validation": "Trade validated, waiting for the other person",
+    "notification_add_item": "%s added an item to the trade: \"%s\" [x%d]",
+    "add_item": "You have successfully added the item \"%s\" [x%d] to the trade",
+    "notification_remove_item": "%s removed an item to the trade: \"%s\" [x%d]",
+    "remove_item": "You have successfully removed the item \"%s\" [x%d] from the trade",
+    "notification_set_money": "%s offers you %dG for this trade",
+    "set_money": "You have proposed %dG for this trade",
+    "title": "Trade between %s and %s",
+    "is_proposing": "%s is proposing"
   },
   "character": {
     "reset_done": "Сброс завершен!",
@@ -614,7 +660,17 @@
     "wblastinfo": "Покажите вашу статистику по последнему боссу, которого вы убили.",
     "wbleaderboard": "Displays the ranking of the best players in terms of either damage (damage) or attack counts (attacks) for the last World Boss in which you participated. The types are: damage,attacks",
     "settings": "Показывает меню настроек",
-    "achievements": "Displays Achievements"
+    "achievements": "Displays Achievements",
+    "trade_title": "Trades",
+    "tpropose": "Propose a trade @someone",
+    "taccept": "Accept a trade proposal",
+    "tcancel": "Cancel the current trade",
+    "tshow": "Displays the trade",
+    "titem": "Shows the item <idInTrade> in the trade",
+    "tadd": "Add one or more item using <idItemInInventory> to the trade",
+    "tremove": "Remove one or more item from the trade",
+    "tsetmoney": "Set the amount of gold you want to trade",
+    "tvalidate": "Validates the trade. You must be in the same area as the person you are trading with. When you both validated, the trade is over. Everyone must re-validate the trade after changes were made"
   },
   "settings_menu": {
     "title": "Настроики"
