@@ -210,7 +210,7 @@
     "conquest_ongoing": "Завоевание продолжается",
     "area_progression": "Прогрессирование территории",
     "level_up": "Повышен уровень территории",
-    "bonus_list_header": "Идентификатор => Означать",
+    "bonus_list_header": "Идентификатор → Означать",
     "up_stat": "Бонус %s набрал %d очков",
     "areas": "Территории",
     "list": "Список территорий",
@@ -413,7 +413,7 @@
     "gold_price_title": "Ожидаемая стоимость в золоте",
     "gold_price_body": "%d G",
     "sure_to_travel_title": "Вы уверены, что хотите путешествовать?",
-    "sure_to_travel_body": "%s => да\n%s => Нет",
+    "sure_to_travel_body": "%s → да\n%s → Нет",
     "travel_cancel": "Вы отменили свою поездку"
   },
   "fight_pve": {

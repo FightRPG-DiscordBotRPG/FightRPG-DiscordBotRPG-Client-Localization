@@ -210,7 +210,7 @@
     "conquest_ongoing": "Incursão em progresso",
     "area_progression": "Progressão da área",
     "level_up": "A área passou de nível",
-    "bonus_list_header": "Identificador => Refere-se à",
+    "bonus_list_header": "Identificador → Refere-se à",
     "up_stat": "Este bônus %s ganhou %d points",
     "areas": "Áreas",
     "list": "Lista de áreas",
@@ -413,7 +413,7 @@
     "gold_price_title": "Custo de ouro estimado",
     "gold_price_body": "%d G",
     "sure_to_travel_title": "Você tem certeza que quer viajar?",
-    "sure_to_travel_body": "%s => Sim\n%s => Não",
+    "sure_to_travel_body": "%s → Sim\n%s → Não",
     "travel_cancel": "Você cancelou sua viagem"
   },
   "fight_pve": {

@@ -210,7 +210,7 @@
     "conquest_ongoing": "Conquest ongoing",
     "area_progression": "Area progression",
     "level_up": "The area has level up",
-    "bonus_list_header": "Identifier => Refers to",
+    "bonus_list_header": "Identifier → Refers to",
     "up_stat": "The bonus %s have gained %d points",
     "areas": "Areas",
     "list": "List of areas",
@@ -413,7 +413,7 @@
     "gold_price_title": "Expected gold cost",
     "gold_price_body": "%d G",
     "sure_to_travel_title": "Are you sure you want to travel?",
-    "sure_to_travel_body": "%s => Yes\n%s => No",
+    "sure_to_travel_body": "%s → Yes\n%s → No",
     "travel_cancel": "You've cancelled your trip"
   },
   "fight_pve": {
