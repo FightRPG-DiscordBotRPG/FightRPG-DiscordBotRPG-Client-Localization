@@ -150,7 +150,7 @@
   },
   "marketplace": {
     "placed": "Your %s [x%d] is now on sale (id: %d)",
-    "placed_plur": "Your %s [x%d is now on sale (id: %d)",
+    "placed_plur": "Your %s [x%d] are now on sale (id: %d)",
     "header_str": "Player - idItem - Name - Type - Level - Rarity - Power - Number - Unit Price",
     "retrieve": "You've recovered your item",
     "retrieve_plur": "You've recovered your items",
