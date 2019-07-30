@@ -477,6 +477,7 @@
     "en": "Inglés",
     "pt-BR": "Brazileño Portugués",
     "ru": "Ruso",
+    "es": "Español",
     "list_of_languages": "Lista de lenguajes disponibles (Usa la abreviación para cambiar entre lenguajes)",
     "lang_changed": "Lenguaje cambiado correctamente, el bot ahora está en %s"
   },
