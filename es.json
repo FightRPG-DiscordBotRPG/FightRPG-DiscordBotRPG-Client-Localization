@@ -140,7 +140,8 @@
     "trade_dont_have_item": "No tienes este item",
     "trade_item_dont_exist": "Este item no existe o te pertenece",
     "trade_not_enough_money": "No tienes tanto dinero para poner en el comercio",
-    "trade_unable_find_item": "No se puede encontrar este item"
+    "trade_unable_find_item": "No se puede encontrar este item",
+    "trade_not_accepted": "The other person must accept the trade before you can do this action"
   },
   "craft": {
     "header_required": "Nombre - Tipo - Subtipo - Rareza - Número",
