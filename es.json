@@ -337,7 +337,8 @@
     "sellall_going_to_sell_level": "Todos los items de nivel %d que no fueron marcados como favoritos",
     "sellall_total_value": "Valor total de los items",
     "sellall_are_you_sure": "¿Estas seguro que quieres vender estos items?",
-    "sellall_cancel": "Cancelaste la venta"
+    "sellall_cancel": "Cancelaste la venta",
+    "sellall_going_to_sell_power_sup": "All items with a power greater than or equal to %d"
   },
   "mounts": {
     "reduction": "Bonificaciones/penalizaciones del tiempo de viaje segun el clima/terreno:",
