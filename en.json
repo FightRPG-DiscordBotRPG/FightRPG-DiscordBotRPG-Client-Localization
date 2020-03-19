@@ -48,6 +48,7 @@
     "area_at_max_level": "The area is at the maximum level",
     "area_bonus_not_available": "This bonus is not available in this area",
     "area_dont_have_enough_stat_points": "You can't allocate this amount of points to this area",
+    "area_reset_wait_x": "Your guild has already reset this area's bonuses today, you can reset this area again at:\n%s",
     "collect_enter_id_to_collect": "Please enter the ID of the resource to collect",
     "collect_tired_wait_x_seconds": "You are too tired to collect these resources, you still have to wait: %s seconds",
     "collect_dont_have_required_level": "You don't have the required crafting level to collect this resource, you must be at least level %d",
