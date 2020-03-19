@@ -207,7 +207,7 @@
     "owned_by": "Owned by: %s",
     "monster_group": "ID: %s | %s (+%d more) | Avg Lv: %s | Type: %s",
     "conquest": "Conquest",
-    "conquest_next": "Next conquest :\n- %s\n- Number of guilds enrolled: %d",
+    "conquest_next": "Next conquest:\n- %s\n- Number of guilds enrolled: %d",
     "conquest_ongoing": "Conquest ongoing",
     "area_progression": "Area progression",
     "level_up": "The area has level up",
