@@ -141,7 +141,7 @@
     "trade_item_dont_exist": "Este item no existe o te pertenece",
     "trade_not_enough_money": "No tienes tanto dinero para poner en el comercio",
     "trade_unable_find_item": "No se puede encontrar este item",
-    "trade_not_accepted": "The other person must accept the trade before you can do this action"
+    "trade_not_accepted": "La otra persona debe aceptar el oficio antes de que usted pueda hacer esta acción"
   },
   "craft": {
     "header_required": "Nombre - Tipo - Subtipo - Rareza - Número",
@@ -307,7 +307,8 @@
     "unenroll": "Tu gremio ya no está inscrito en inguna conquista",
     "you_paid_x": "Tu gremio a pagado %dG",
     "renamed": "Has renombrado el nombre de tu gremio a \"%s\"",
-    "guild_territories": "Propiedades territoriales de tu gremio (%d)"
+    "guild_territories": "Propiedades territoriales de tu gremio (%d)",
+    "guild_territory_enroll": "Registro de Conquista"
   },
   "inventory_equipment": {
     "item_equiped": "Tu item ahora está equipado",

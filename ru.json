@@ -306,8 +306,9 @@
     "enroll": "Ваша гильдия теперь зарегистрирована для следующего Завоевания в этой территории",
     "unenroll": "Теперь ваша гильдия освобождена от Завоеваний этой территории",
     "you_paid_x": "Ваша гильдия заплатила %dG",
-    "renamed": "You have renamed your guild \"%s\"",
-    "guild_territories": "Territories owned by your guild (%d)"
+    "renamed": "Ты переименовал свою гильдию в \"%s\"",
+    "guild_territories": "Территории, принадлежащие вашей гильдии (%d)",
+    "guild_territory_enroll": "Регистрация на право получения"
   },
   "inventory_equipment": {
     "item_equiped": "Теперь ваш предмет экипирован",

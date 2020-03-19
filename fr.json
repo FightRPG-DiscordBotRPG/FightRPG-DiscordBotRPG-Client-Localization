@@ -307,7 +307,8 @@
     "unenroll": "Votre guilde n'est plus enrôlée dans une conquête",
     "you_paid_x": "Votre guilde a payé %dG",
     "renamed": "Vous avez renommé votre guilde en : \"%s\"",
-    "guild_territories": "Territoires détenus par votre guilde (%d)"
+    "guild_territories": "Territoires détenus par votre guilde (%d)",
+    "guild_territory_enroll": "Inscription de Conquête"
   },
   "inventory_equipment": {
     "item_equiped": "Votre objet a été équipé",

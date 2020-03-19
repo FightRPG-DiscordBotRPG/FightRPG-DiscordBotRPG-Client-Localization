@@ -307,7 +307,8 @@
     "unenroll": "Your guild is now no longer enrolled to any conquest",
     "you_paid_x": "Your guild paid %dG",
     "renamed": "You have renamed your guild \"%s\"",
-    "guild_territories": "Territories owned by your guild (%d)"
+    "guild_territories": "Territories owned by your guild (%d)",
+    "guild_territory_enroll": "Conquest Registration"
   },
   "inventory_equipment": {
     "item_equiped": "Your item is now equipped",
