@@ -461,6 +461,7 @@
     "combat_log": "Combat log",
     "critical_hit": "Critical hit",
     "stun_hit": "Stun hit",
+    "critstun_hit": "Critical stun hit",
     "win": "You won the fight!",
     "loose": "You lost the fight!",
     "now_muted": "Fight notifications are now deactivated",
@@ -554,7 +555,7 @@
     "boss_fight_recap_damage_dealt": "Damage Dealt: %d (Rank: %d)",
     "boss_fight_recap_attack_count": "Attack Count: %d (Rank: %d)",
     "boss_fight_damage_inflicted": "You've inflicted %d damage points",
-    "boss_fight_damage_inflicted_critical": "You've inflicted %d damage points (Critical Hit !)"
+    "boss_fight_damage_inflicted_critical": "You've inflicted %d damage points (Critical Hit!)"
   },
   "potions": {
     "drink": "You drank: \"%s\"\n",

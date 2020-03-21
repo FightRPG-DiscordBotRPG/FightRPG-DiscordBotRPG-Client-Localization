@@ -461,6 +461,7 @@
     "combat_log": "Registro de combate",
     "critical_hit": "Acerto crítico",
     "stun_hit": "Acerto atordoante",
+    "critstun_hit": "Acerto atordoante crítico",
     "win": "Você ganhou a luta!",
     "loose": "Você perdeu a luta!",
     "now_muted": "Notificações de luta agora estão desativadas",
