@@ -423,8 +423,8 @@
     "ganked_by_monster": "Vous n'avez pas été assez discret, vous vous faites attaquer par un monstre ! (Il vous faut plus de perception)",
     "user_get_attacked": "%s se fait attaquer par : %s !",
     "user_attacked": "%s attaque %s !",
-    "onfight_user_attack": "%s attaque le monstre %s et lui inflige %d points de dégâts",
-    "onfight_monster_attack": "%s attaque le joueur %s et lui inflige %d points de dégâts",
+    "onfight_user_attack": "%s attaque le monstre %s et lui inflige **%d** points de dégâts",
+    "onfight_monster_attack": "%s attaque le joueur %s et lui inflige **%d** points de dégâts",
     "drop_item": "Vous avez gagné un équipement (%s) ! Bravo !",
     "drop_item_equip": "Vous avez gagné un équipement (%s) !",
     "drop_item_equip_plur": "Vous avez gagné des équipements (%s) !",
@@ -447,7 +447,7 @@
     "group_pm_won_fight": "Votre groupe a gagné le combat"
   },
   "fight_pvp": {
-    "onfight_user_attack": "%s attaque %s et lui inflige %d points de dégâts",
+    "onfight_user_attack": "%s attaque %s et lui inflige **%d** points de dégâts",
     "honor_gain": "Vous gagnez : %d d'honneur !",
     "honor_lose": "Vous perdez : %d d'honneur !",
     "honor_not_honorable": "Combat peu honorable, vous perdez : %d d'honneur !"

@@ -423,8 +423,8 @@
     "ganked_by_monster": "You weren't stealthy enough, a monster is attacking you! (You need more perception)",
     "user_get_attacked": "%s was attacked by: %s!",
     "user_attacked": "%s attacked %s!",
-    "onfight_user_attack": "%s attacks the monster %s and inflicts %d damage points",
-    "onfight_monster_attack": "%s attacks the player %s and inflicts %d damage points",
+    "onfight_user_attack": "%s attacks the monster %s and inflicts **%d** damage points",
+    "onfight_monster_attack": "%s attacks the player %s and inflicts **%d** damage points",
     "drop_item": "You won an item (%s)! Congrats!",
     "drop_item_equip": "You've won equipment (%s)!",
     "drop_item_equip_plur": "You've won equipment (%s)!",
@@ -447,7 +447,7 @@
     "group_pm_won_fight": "Your group won the fight"
   },
   "fight_pvp": {
-    "onfight_user_attack": "%s attacks %s and inflicts %d damage points",
+    "onfight_user_attack": "%s attacks %s and inflicts **%d** damage points",
     "honor_gain": "You win: %d honor points!",
     "honor_lose": "You lose: %d honor points!",
     "honor_not_honorable": "Fight not honorable, you lose: %d honor points!"
