@@ -589,6 +589,7 @@
     "use": "Usa o item especificado",
     "character_title": "Personagem",
     "info": "Mostra as informações do seu personagem",
+    "attributes": "Mostra os atributos totais do seu personagem",
     "up": "Adiciona ao atributo <statName> um número de Pontos",
     "leaderboard": "Mostra sua classificação baseado no argumento (arena, gold, level, craftlevel)",
     "reset": "Lhe permite redefinir seus atributos",

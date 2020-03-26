@@ -589,6 +589,7 @@
     "use": "Use the specified item",
     "character_title": "Character",
     "info": "Shows your character's information",
+    "attributes": "Shows your character's total attributes",
     "up": "Adds to attribute statName number Points",
     "leaderboard": "Shows your ranking based on the argument (arena, gold, level, craftlevel)",
     "reset": "Allows you to reset your attributes",
