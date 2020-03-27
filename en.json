@@ -578,6 +578,7 @@
     "itemunfav": "Untag and item tag as favorite",
     "sell": "Sells the selected item",
     "sellall": "Sells all the inventory items",
+    "sellall_filter": "Sells all items in your inventory that match your <filter>. Filters are: rarity, level, type",
     "sendmoney": "Send money to a player",
     "filters_title": "Filters",
     "rarities": "Displays the ids of every rarity",
