@@ -39,7 +39,7 @@
     "guild_cant_invite_players": "Você não tem direitos suficientes para aceitar pessoas para sua guilda",
     "guild_already_max_level": "Sua guilda já alcançou o nível máximo",
     "guild_tournament_started": "Sua guilda está inscrita em uma incursão que já começou, então você não pode dissolvê-la agora, por favor espere até que a incursão tenha acabado",
-    "guild_have_to_be_gm_to_enroll": "Você precisa ser o mestre da guilda para inscrever sua guilda nesta incursão",
+    "guild_have_to_be_gm_to_enroll": "Você precisa ser o mestre da guilda ou um oficial para inscrever sua guilda nesta incursão",
     "guild_already_enroll_in_tournament": "Esta guilda já está inscrita em uma incursão",
     "guild_tournament_started_generic": "Já que a incursão já começou, você não pode fazer isso agora",
     "guild_not_enrolled_in_tournament": "Sua guilda não está inscrita em uma incursão",
