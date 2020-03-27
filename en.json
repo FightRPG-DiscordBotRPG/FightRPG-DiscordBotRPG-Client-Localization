@@ -39,7 +39,7 @@
     "guild_cant_invite_players": "You don't have the rights to accept people in your guild",
     "guild_already_max_level": "Your guild already reached the maximum level",
     "guild_tournament_started": "Your guild is enroll in a conquest that have already started, so you can't disband now, please wait until the conquest is ended",
-    "guild_have_to_be_gm_to_enroll": "You must be the guild master to enroll your guild in this conquest",
+    "guild_have_to_be_gm_to_enroll": "You must be the guild master or an officer to enroll your guild in this conquest",
     "guild_already_enroll_in_tournament": "You guild is already enrolled in a conquest",
     "guild_tournament_started_generic": "Since the conquest have already started, you can't do that now",
     "guild_not_enrolled_in_tournament": "Your guild is not enrolled in an conquest",
