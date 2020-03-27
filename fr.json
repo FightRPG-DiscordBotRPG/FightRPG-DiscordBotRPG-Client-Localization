@@ -589,6 +589,7 @@
     "use": "Utilise l'objet choisi",
     "character_title": "Personnage",
     "info": "Affiche les informations sur votre personnage",
+    "attributes": "Affiche l'ensemble des caractéristiques de votre personnage",
     "up": "Ajoute à la caractéristique statName number Points",
     "leaderboard": "Affiche ton rang en fonction de l'argument choisi (arena, gold, level, craftlevel)",
     "reset": "Te permet de réinitialiser tes caractéristiques",

@@ -589,6 +589,7 @@
     "use": "Usa el objeto especificado",
     "character_title": "Personaje",
     "info": "Muestra la información de tu personaje",
+    "attributes": "Muestra los atributos totales de tu personaje",
     "up": "Añade al atributo seleccionado el numero de puntos especificados (ejemplo:up str 5)",
     "leaderboard": "Muestra tu Clasificación según su tipo (arena, oro, nivel, nivel para elaboración)",
     "reset": "Te permite reiniciar tus atributos",
