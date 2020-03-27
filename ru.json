@@ -589,7 +589,7 @@
     "use": "Использует указанный предмет",
     "character_title": "Персонаж",
     "info": "Показывает информацию о вашем персонаже",
-    "attributes": "\"Показывает общие атрибуты вашего персонажа,",
+    "attributes": "Показывает общие атрибуты вашего персонажа",
     "up": "Добавляет к характеристике statName количество Очков",
     "leaderboard": "Shows your ranking based on the argument (arena, gold, level, craftlevel)",
     "reset": "Позволяет сбросить характеристики",
