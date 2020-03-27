@@ -461,6 +461,7 @@
     "combat_log": "Résumé du combat",
     "critical_hit": "Coup Critique",
     "stun_hit": "Coup Assomant",
+    "critstun_hit": "Coup Assomant Critique",
     "win": "Vous avez gagné le combat !",
     "loose": "Vous avez perdu le combat !",
     "now_muted": "Les notifications en rapport avec les combats sont maintenant désactivées",

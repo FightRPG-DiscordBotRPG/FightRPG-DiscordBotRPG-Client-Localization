@@ -461,6 +461,7 @@
     "combat_log": "Боевой лог",
     "critical_hit": "Критический удар",
     "stun_hit": "Оглушающий удар",
+    "critstun_hit": "Критический шоковый удар",
     "win": "Вы выиграли бой!",
     "loose": "Вы проиграли бой!",
     "now_muted": "Fight notifications are now deactivated",

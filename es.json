@@ -459,8 +459,9 @@
   },
   "fight_general": {
     "combat_log": "Reguistro de batalla",
-    "critical_hit": "Golpe crítico",
-    "stun_hit": "golpe de aturdimiento",
+    "critical_hit": "Ataque crítico",
+    "stun_hit": "Ataque de aturdimiento",
+    "critstun_hit": "Ataque de aturdimiento crítico",
     "win": "Ganaste la batalla!",
     "loose": "Perdiste la batalla!",
     "now_muted": "Las nitificaciones de batalla están ahora desactivadas",
