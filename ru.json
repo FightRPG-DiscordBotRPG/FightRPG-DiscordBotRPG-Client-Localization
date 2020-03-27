@@ -578,6 +578,7 @@
     "itemunfav": "Снимает статус избранного с предмета",
     "sell": "Продает выбранный предмет",
     "sellall": "Продает все предметы в инвентаре",
+    "sellall_filter": "Sells all items in your inventory that match your <filter>. Filters are: rarity, level, type",
     "sendmoney": "Отправляет деньги игроку",
     "filters_title": "фильтры",
     "rarities": "Отображает идентификационные данные всех колесниц.",
