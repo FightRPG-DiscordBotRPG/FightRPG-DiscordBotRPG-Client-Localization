@@ -311,7 +311,7 @@
     "guild_territory_enroll": "Conquest Registration"
   },
   "inventory_equipment": {
-    "item_equiped": "Your item is now equipped",
+    "item_equiped": "Your item is now equipped (%s)",
     "item_unequiped": "The item has been unequipped",
     "id": "id",
     "name": "Name",
