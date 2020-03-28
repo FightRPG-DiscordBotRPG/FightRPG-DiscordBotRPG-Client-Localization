@@ -311,7 +311,7 @@
     "guild_territory_enroll": "Registro de Incursão"
   },
   "inventory_equipment": {
-    "item_equiped": "Seu item agora está equipado",
+    "item_equiped": "Seu item agora está equipado (%s)",
     "item_unequiped": "O item foi desequipado",
     "id": "ID",
     "name": "Nome",

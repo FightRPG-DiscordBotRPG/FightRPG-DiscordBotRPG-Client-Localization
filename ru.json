@@ -311,7 +311,7 @@
     "guild_territory_enroll": "Регистрация на право получения"
   },
   "inventory_equipment": {
-    "item_equiped": "Теперь ваш предмет экипирован",
+    "item_equiped": "Теперь ваш предмет экипирован (%s)",
     "item_unequiped": "Предмет был снят",
     "id": "id",
     "name": "Имя",

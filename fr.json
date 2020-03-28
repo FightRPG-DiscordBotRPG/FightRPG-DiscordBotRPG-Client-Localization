@@ -311,7 +311,7 @@
     "guild_territory_enroll": "Inscription de Conquête"
   },
   "inventory_equipment": {
-    "item_equiped": "Votre objet a été équipé",
+    "item_equiped": "Votre objet a été équipé (%s)",
     "item_unequiped": "L'objet a été déséquipé",
     "id": "id",
     "name": "Nom",
