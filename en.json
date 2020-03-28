@@ -375,8 +375,8 @@
   "character": {
     "reset_done": "Reset done!",
     "attribute_up_to": "The attribute %s has increased and is now up to %d points",
-    "attribute_x_points_available": "There is %d point to allocate left",
-    "attribute_x_points_available_plural": "There are %d points to allocate left",
+    "attribute_x_points_available": "There is %d point left to allocate",
+    "attribute_x_points_available_plural": "There are %d points left to allocate",
     "info_attributes_title": "Attributes | %d point to distribute (Reset price %dG)",
     "info_attributes_title_plur": "Attributes | %d points to distribute (Reset price %dG)",
     "maximum_level": "Max. Level",
