@@ -311,7 +311,7 @@
     "guild_territory_enroll": "Inscription de Conquête"
   },
   "inventory_equipment": {
-    "item_equiped": "Votre objet a été équipé",
+    "item_equiped": "Votre objet a été équipé (%s)",
     "item_unequiped": "L'objet a été déséquipé",
     "id": "id",
     "name": "Nom",
@@ -578,6 +578,7 @@
     "itemunfav": "Enlève la marque favori d'un objet pour qu'il puisse être vendu",
     "sell": "Vend l'objet choisi",
     "sellall": "Vend tous les objets de l'inventaire",
+    "sellall_filter": "Sells all items in your inventory that match your <filter>. Filters are: rarity, level, type",
     "sendmoney": "Envoi de l'argent à un joueur",
     "filters_title": "Filtres",
     "rarities": "Affiche les identifiants correspondants à chaque rareté",

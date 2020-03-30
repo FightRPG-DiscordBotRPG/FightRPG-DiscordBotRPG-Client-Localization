@@ -311,7 +311,7 @@
     "guild_territory_enroll": "Registro de Conquista"
   },
   "inventory_equipment": {
-    "item_equiped": "Tu item ahora está equipado",
+    "item_equiped": "Tu item ahora está equipado (%s)",
     "item_unequiped": "El item ha sido desequipado",
     "id": "id",
     "name": "Nombre",
@@ -578,6 +578,7 @@
     "itemunfav": "Quita la etiqueta de favorito a un objeto",
     "sell": "Vende el objeto seleccionado",
     "sellall": "Vende todos los objetos del inventario",
+    "sellall_filter": "Sells all items in your inventory that match your <filter>. Filters are: rarity, level, type",
     "sendmoney": "Envía dinero a un jugador",
     "filters_title": "Filtros",
     "rarities": "Muestra los ID de todas las rarezas",
