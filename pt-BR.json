@@ -65,7 +65,7 @@
     "character_you_dont_have_enough_to_reset": "Você não tem dinheiro suficiente para redefinir seus atributos!",
     "economic_enter_id_item_to_sell": "Você precisa digitar o ID do item para vendê-lo",
     "economic_have_to_be_in_town": "Você precisa estar em uma cidade para vender seus itens",
-    "economic_cant_sell_nothing": "Nada pode vender nada, seu inventário está vazio",
+    "economic_cant_sell_nothing": "Nada para vender! Todos itens estão protegidos, nenhum corresponde ou seu inventário está vazio",
     "economic_cant_send_money_to_youself": "Você não pode enviar dinheiro para si mesmo",
     "economic_minimum_send_gold": "Você precisa enviar pelo menos 1G",
     "economic_dont_have_enough_money": "Você não tem essa quantidade de dinheiro",
