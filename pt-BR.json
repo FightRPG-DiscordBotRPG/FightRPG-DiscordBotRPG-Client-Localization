@@ -339,8 +339,9 @@
     "sellall_total_value": "Valor total dos itens",
     "sellall_are_you_sure": "Você tem certeza que quer vender esses itens?",
     "sellall_cancel": "Você cancelou as vendas",
-    "sellall_going_to_sell_power_sup": "All items with a power greater than or equal to %d",
-    "sellall_going_to_sell_power_inf": "All items with a power lower than or equal to %d"
+    "sellall_going_to_sell_power_sup": "Todos os itens com uma potência maior ou igual a %d",
+    "sellall_going_to_sell_power_inf": "Todos os itens com uma potência menor ou igual a %d",
+    "travel_area_cant_travel": "Você não pode viajar para esta área"
   },
   "mounts": {
     "reduction": "Bônuses/Penalidades em tempo de viagem para os seguintes climas/terrenos:",
