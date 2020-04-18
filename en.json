@@ -346,11 +346,25 @@
   "mounts": {
     "reduction": "Bonuses/Penalties in travel time for the following climate/terrain:",
     "all_areas": "All areas: %d%",
-    "everything_else": "Everything else: %d%",
-    "tempered": "Tempered: %d%",
-    "desert": "Desert: %d%",
-    "hills": "Hills: %d%",
-    "snowy": "Snowy: %d%"
+    "everything_else": "Everything else: %d%"
+  },
+  "climates": {
+    "temperate_oceanic": "Temperate oceanic",
+    "volcanic_hell": "Volcanic hell",
+    "hot_desert": "Hot desert",
+    "eternal_snow": "Eternal snow",
+    "interior":  "Interior"
+  },
+  "weather": {
+    "sunny": "Sunny",
+    "cloudy": "Cloudy",
+    "foggy": "Foggy",
+    "rainy": "Rainy",
+    "rainstorm": "Rainstorm",
+    "snowy": "Snowy",
+    "firestorm": "Firestorm",
+    "sandstorm": "Sandstorm",
+    "snowstorm": "Snowstorm"
   },
   "trade": {
     "settings_menu_mute": "%s Trade notifications",

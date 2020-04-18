@@ -346,11 +346,25 @@
   "mounts": {
     "reduction": "Бонусы/пункты во времени путешествия для следующего климата/поезда:",
     "all_areas": "Все площади: %d%",
-    "everything_else": "Все остальное: %d%",
-    "tempered": "Закаленный: %d%",
-    "desert": "Пустыня: %d%",
-    "hills": "Хиллз: %d%",
-    "snowy": "Снежный: %d%"
+    "everything_else": "Все остальное: %d%"
+  },
+  "climates": {
+    "temperate_oceanic": "умеренно-океанический",
+    "volcanic_hell": "Вулканический ад",
+    "hot_desert": "Горячая пустыня",
+    "eternal_snow": "Вечный снег",
+    "interior": "интерьер"
+  },
+  "weather": {
+    "sunny": "Солнечный",
+    "cloudy": "Облачно",
+    "foggy": "Туманный",
+    "rainy": "Дождливый",
+    "rainstorm": "Буря",
+    "snowy": "Снежный",
+    "firestorm": "Огненная буря",
+    "sandstorm": "Песчаная буря",
+    "snowstorm": "Метель"
   },
   "trade": {
     "settings_menu_mute": "%s Trade notifications",
