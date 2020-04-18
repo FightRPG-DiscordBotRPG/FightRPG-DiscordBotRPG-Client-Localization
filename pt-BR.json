@@ -347,7 +347,7 @@
     "reduction": "Bônuses/Penalidades em tempo de viagem para os seguintes climas/terrenos:",
     "all_areas": "Todas áreas: %d%",
     "everything_else": "Todo o resto: %d%"
-  },,
+  },
   "climates": {
     "temperate_oceanic": "Temperate oceanic",
     "volcanic_hell": "Inferno vulcânico",
