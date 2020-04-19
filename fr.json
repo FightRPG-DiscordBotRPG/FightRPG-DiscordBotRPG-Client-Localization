@@ -237,7 +237,8 @@
     "collect_drop": "Drop de ressources",
     "no_bonuses": "Aucun bonus disponible",
     "harvest_tiredness": "Fatigue due à la récolte",
-    "travel_tiredness": "Fatigue due aux voyages"
+    "travel_tiredness": "Fatigue due aux voyages",
+    "impact": "Conséquences dues à la méteo"
   },
   "resources": {
     "wood": "Bois",

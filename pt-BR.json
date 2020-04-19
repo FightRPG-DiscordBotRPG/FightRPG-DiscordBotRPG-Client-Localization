@@ -236,7 +236,8 @@
     "collect_drop": "Pilhagem em Coletas",
     "no_bonuses": "Nenhum bônus disponível",
     "harvest_tiredness": "Harvest tiredness",
-    "travel_tiredness": "Travel tiredness"
+    "travel_tiredness": "Travel tiredness",
+    "impact": "Weather-related impacts"
   },
   "resources": {
     "wood": "Madeira",

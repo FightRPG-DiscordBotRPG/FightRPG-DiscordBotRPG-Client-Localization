@@ -359,7 +359,7 @@
     "interior": "Interior"
   },
   "weather": {
-    "weather":  "Weather",
+    "weather": "Weather",
     "sunny": "Sunny",
     "cloudy": "Cloudy",
     "foggy": "Foggy",
@@ -368,7 +368,8 @@
     "snowy": "Snowy",
     "firestorm": "Firestorm",
     "sandstorm": "Sandstorm",
-    "snowstorm": "Snowstorm"
+    "snowstorm": "Snowstorm",
+    "impact": "Weather-related impacts"
   },
   "trade": {
     "settings_menu_mute": "%s Trade notifications",
