@@ -349,6 +349,7 @@
     "everything_else": "Todo o resto: %d%"
   },
   "climates": {
+    "climate": "Clima",
     "temperate_oceanic": "Temperate oceanic",
     "volcanic_hell": "Inferno vulcânico",
     "hot_desert": "Deserto_quente",
@@ -356,6 +357,7 @@
     "interior": "Interior"
   },
   "weather": {
+    "weather": "Meteorologia",
     "sunny": "Ensolarado",
     "cloudy": "Nublado",
     "foggy": "Nebuloso",

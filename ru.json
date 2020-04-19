@@ -349,6 +349,7 @@
     "everything_else": "Все остальное: %d%"
   },
   "climates": {
+    "climate": "Климат",
     "temperate_oceanic": "умеренно-океанический",
     "volcanic_hell": "Вулканический ад",
     "hot_desert": "Горячая пустыня",
@@ -356,6 +357,7 @@
     "interior": "интерьер"
   },
   "weather": {
+    "weather": "Погода",
     "sunny": "Солнечный",
     "cloudy": "Облачно",
     "foggy": "Туманный",

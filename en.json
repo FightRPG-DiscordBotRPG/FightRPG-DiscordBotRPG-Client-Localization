@@ -349,13 +349,15 @@
     "everything_else": "Everything else: %d%"
   },
   "climates": {
+    "climate": "Climate",
     "temperate_oceanic": "Temperate oceanic",
     "volcanic_hell": "Volcanic hell",
     "hot_desert": "Hot desert",
     "eternal_snow": "Eternal snow",
-    "interior":  "Interior"
+    "interior": "Interior"
   },
   "weather": {
+    "weather":  "Weather",
     "sunny": "Sunny",
     "cloudy": "Cloudy",
     "foggy": "Foggy",
