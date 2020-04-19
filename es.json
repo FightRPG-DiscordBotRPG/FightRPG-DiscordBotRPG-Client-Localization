@@ -482,7 +482,9 @@
     "loose": "Perdiste la batalla!",
     "now_muted": "Las nitificaciones de batalla están ahora desactivadas",
     "now_unmuted": "Las notificaciones de batalla están ahora activadas",
-    "settings_menu_mute": "%s Notoficaciones de batalla"
+    "settings_menu_mute": "%s Notoficaciones de batalla",
+    "status_of_fight": "Estado da batalha: %s",
+    "battle_ongoing": "Você está lutando!"
   },
   "rarities": {
     "common": "Común",

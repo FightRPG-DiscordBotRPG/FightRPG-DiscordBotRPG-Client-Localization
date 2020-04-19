@@ -482,7 +482,9 @@
     "loose": "Вы проиграли бой!",
     "now_muted": "Fight notifications are now deactivated",
     "now_unmuted": "Fight notifications are now activated",
-    "settings_menu_mute": "%s Fight notifications"
+    "settings_menu_mute": "%s Fight notifications",
+    "status_of_fight": "Battle status: %s",
+    "battle_ongoing": "You're fighting!"
   },
   "rarities": {
     "common": "Обычный",

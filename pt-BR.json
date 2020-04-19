@@ -482,7 +482,9 @@
     "loose": "Você perdeu a luta!",
     "now_muted": "Notificações de luta agora estão desativadas",
     "now_unmuted": "Notificações de luta agora estão ativadas",
-    "settings_menu_mute": "%s Notificações de luta"
+    "settings_menu_mute": "%s Notificações de luta",
+    "status_of_fight": "Estado do combata: %s",
+    "battle_ongoing": "Você está lutando!"
   },
   "rarities": {
     "common": "Comum",
