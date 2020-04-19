@@ -237,8 +237,7 @@
     "collect_drop": "Drop de ressources",
     "no_bonuses": "Aucun bonus disponible",
     "harvest_tiredness": "Fatigue due à la récolte",
-    "travel_tiredness": "Fatigue due aux voyages",
-    "impact": "Conséquences dues à la méteo"
+    "travel_tiredness": "Fatigue due aux voyages"
   },
   "resources": {
     "wood": "Bois",
@@ -369,7 +368,8 @@
     "snowy": "Neigeux",
     "firestorm": "Tempête de feu",
     "sandstorm": "Tempête de sable",
-    "snowstorm": "Tempête de neige"
+    "snowstorm": "Tempête de neige",
+    "impact": "Conséquences dues à la méteo"
   },
   "trade": {
     "settings_menu_mute": "%s les notifications en rapport avec les échanges",

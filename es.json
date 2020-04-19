@@ -237,8 +237,7 @@
     "collect_drop": "Colección Drop",
     "no_bonuses": "No hay bonus disponible",
     "harvest_tiredness": "Harvest tiredness",
-    "travel_tiredness": "Travel tiredness",
-    "impact": "Weather-related impacts"
+    "travel_tiredness": "Travel tiredness"
   },
   "resources": {
     "wood": "Madera",
@@ -369,7 +368,8 @@
     "snowy": "Nevado",
     "firestorm": "Tormenta de fuego",
     "sandstorm": "Tormenta de arena",
-    "snowstorm": "Tormenta de nieve"
+    "snowstorm": "Tormenta de nieve",
+    "impact": "Weather-related impacts"
   },
   "trade": {
     "settings_menu_mute": "%s Notificaciones de intercambio",

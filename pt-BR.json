@@ -236,8 +236,7 @@
     "collect_drop": "Pilhagem em Coletas",
     "no_bonuses": "Nenhum bônus disponível",
     "harvest_tiredness": "Harvest tiredness",
-    "travel_tiredness": "Travel tiredness",
-    "impact": "Weather-related impacts"
+    "travel_tiredness": "Travel tiredness"
   },
   "resources": {
     "wood": "Madeira",
@@ -369,7 +368,8 @@
     "snowy": "Nevoso",
     "firestorm": "Tempestade de fogo",
     "sandstorm": "Tempestade de areia",
-    "snowstorm": "Tempestade de Neve"
+    "snowstorm": "Tempestade de Neve",
+    "impact": "Weather-related impacts"
   },
   "trade": {
     "settings_menu_mute": "%s Notificações de troca",
