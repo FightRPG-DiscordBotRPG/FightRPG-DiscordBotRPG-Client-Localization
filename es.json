@@ -369,7 +369,8 @@
     "firestorm": "Tormenta de fuego",
     "sandstorm": "Tormenta de arena",
     "snowstorm": "Tormenta de nieve",
-    "impact": "Weather-related impacts"
+    "impact": "Weather-related impacts",
+    "time_before_ends": "Time remaining before weather change"
   },
   "trade": {
     "settings_menu_mute": "%s Notificaciones de intercambio",

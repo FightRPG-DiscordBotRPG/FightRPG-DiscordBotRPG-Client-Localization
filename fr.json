@@ -369,7 +369,8 @@
     "firestorm": "Tempête de feu",
     "sandstorm": "Tempête de sable",
     "snowstorm": "Tempête de neige",
-    "impact": "Conséquences dues à la méteo"
+    "impact": "Conséquences dues à la méteo",
+    "time_before_ends": "Temps restant avant le changement de météo"
   },
   "trade": {
     "settings_menu_mute": "%s les notifications en rapport avec les échanges",

@@ -369,7 +369,8 @@
     "firestorm": "Firestorm",
     "sandstorm": "Sandstorm",
     "snowstorm": "Snowstorm",
-    "impact": "Weather-related impacts"
+    "impact": "Weather-related impacts",
+    "time_before_ends": "Time remaining before weather change"
   },
   "trade": {
     "settings_menu_mute": "%s Trade notifications",
