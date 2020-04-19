@@ -234,7 +234,9 @@
     "gold_drop": "Pilhagem de Ouro",
     "item_drop": "Pilhagem de Itens",
     "collect_drop": "Pilhagem em Coletas",
-    "no_bonuses": "Nenhum bônus disponível"
+    "no_bonuses": "Nenhum bônus disponível",
+    "harvest_tiredness": "Harvest tiredness",
+    "travel_tiredness": "Travel tiredness"
   },
   "resources": {
     "wood": "Madeira",

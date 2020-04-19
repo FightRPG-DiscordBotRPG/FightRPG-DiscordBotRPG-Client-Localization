@@ -235,7 +235,9 @@
     "gold_drop": "Выпадение Золота",
     "item_drop": "Выпадение Предметов",
     "collect_drop": "Выпадения при Собирательстве",
-    "no_bonuses": "Нет доступных бонусов"
+    "no_bonuses": "Нет доступных бонусов",
+    "harvest_tiredness": "Harvest tiredness",
+    "travel_tiredness": "Travel tiredness"
   },
   "resources": {
     "wood": "Древесина",

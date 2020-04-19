@@ -232,10 +232,12 @@
     "xp_fight": "Fight XP",
     "xp_collect": "Collect XP",
     "xp_craft": "Craft XP",
-    "gold_drop": "Gold Drop",
-    "item_drop": "Item Drop",
-    "collect_drop": "Collect Drop",
-    "no_bonuses": "No available bonuses"
+    "gold_drop": "Gold drop",
+    "item_drop": "Item drop",
+    "collect_drop": "Collect drop",
+    "no_bonuses": "No available bonuses",
+    "harvest_tiredness": "Harvest tiredness",
+    "travel_tiredness": "Travel tiredness"
   },
   "resources": {
     "wood": "Wood",

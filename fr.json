@@ -235,7 +235,9 @@
     "gold_drop": "Drop d'argent",
     "item_drop": "Drop d'objets",
     "collect_drop": "Drop de ressources",
-    "no_bonuses": "Aucun bonus disponible"
+    "no_bonuses": "Aucun bonus disponible",
+    "harvest_tiredness": "Fatigue due à la récolte",
+    "travel_tiredness": "Fatigue due aux voyages"
   },
   "resources": {
     "wood": "Bois",
