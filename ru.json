@@ -313,7 +313,7 @@
     "guild_territories": "Территории, принадлежащие вашей гильдии (%d)",
     "guild_territory_enroll": "Регистрация на право получения",
     "head_disband": "You are about to disband your guild",
-    "body_disband": "Dissolving your guild is an irreversible action, all the money in the bank will disappear and all your members will be expelled, your territories will also be abandoned.",
+    "body_disband": "Dissolving your guild is an irreversible action, all the guild money will disappear, all guild members will be kicked and all guild territories will be abandoned",
     "disband_cancelled": "Disband cancelled"
   },
   "inventory_equipment": {
