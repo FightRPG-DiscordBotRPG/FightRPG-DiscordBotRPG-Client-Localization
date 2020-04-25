@@ -344,7 +344,9 @@
     "sellall_cancel": "Vous avez annulé la vente",
     "sellall_going_to_sell_power_sup": "Tous les objets dont la puissance est supérieure ou égale à %d",
     "sellall_going_to_sell_power_inf": "Tous les objets dont la puissance est inférieure ou égale à %d",
-    "sellall_going_to_sell_name": "Tous les objets dont le nom contient \"%s\""
+    "sellall_going_to_sell_name": "Tous les objets dont le nom contient \"%s\"",
+    "head_disband": "Vous êtes sur le point de dissoudre votre guilde",
+    "head_body": "Dissoudre votre guilde est une action irréversible, l'ensemble de l'argent en banque va disparaître et tous vos membres vont être expulsés, vos territoires seront eux aussi laissés à l'abandon."
   },
   "mounts": {
     "reduction": "Bonus/Malus en temps de voyage pour les climats/terrains suivants:",
