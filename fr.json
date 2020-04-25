@@ -311,7 +311,10 @@
     "you_paid_x": "Votre guilde a payé %dG",
     "renamed": "Vous avez renommé votre guilde en : \"%s\"",
     "guild_territories": "Territoires détenus par votre guilde (%d)",
-    "guild_territory_enroll": "Inscription de Conquête"
+    "guild_territory_enroll": "Inscription de Conquête",
+    "head_disband": "Vous êtes sur le point de dissoudre votre guilde",
+    "body_disband": "Dissoudre votre guilde est une action irréversible, l'ensemble de l'argent en banque va disparaître et tous vos membres vont être expulsés, vos territoires seront eux aussi laissés à l'abandon.",
+    "disband_cancelled": "Dissolution annulée"
   },
   "inventory_equipment": {
     "item_equiped": "Votre objet a été équipé (%s)",
@@ -344,10 +347,7 @@
     "sellall_cancel": "Vous avez annulé la vente",
     "sellall_going_to_sell_power_sup": "Tous les objets dont la puissance est supérieure ou égale à %d",
     "sellall_going_to_sell_power_inf": "Tous les objets dont la puissance est inférieure ou égale à %d",
-    "sellall_going_to_sell_name": "Tous les objets dont le nom contient \"%s\"",
-    "head_disband": "Vous êtes sur le point de dissoudre votre guilde",
-    "body_disband": "Dissoudre votre guilde est une action irréversible, l'ensemble de l'argent en banque va disparaître et tous vos membres vont être expulsés, vos territoires seront eux aussi laissés à l'abandon.",
-    "disband_cancelled": "Dissolution annulée"
+    "sellall_going_to_sell_name": "Tous les objets dont le nom contient \"%s\""
   },
   "mounts": {
     "reduction": "Bonus/Malus en temps de voyage pour les climats/terrains suivants:",
