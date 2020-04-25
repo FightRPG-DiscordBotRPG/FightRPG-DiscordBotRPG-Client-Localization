@@ -338,7 +338,7 @@
     "sellall_going_to_sell_all": "Todos los items que no estén marcados como favoritos",
     "sellall_going_to_sell_rarity": "Todos los items de calidad \"%s\" que no fueron marcados como favoritos",
     "sellall_going_to_sell_type": "Todos los items de tipo \"%s\" que no fueron marcados como favoritos",
-    "sellall_going_to_sell_level": "Todos los items de nivel %d que no fueron marcados como favoritos",
+    "sellall_going_to_sell_level": "Todos los objetos con su nivel mayor o igual a %d que no están marcados como favoritos",
     "sellall_total_value": "Valor total de los items",
     "sellall_are_you_sure": "¿Estas seguro que quieres vender estos items?",
     "sellall_cancel": "Cancelaste la venta",

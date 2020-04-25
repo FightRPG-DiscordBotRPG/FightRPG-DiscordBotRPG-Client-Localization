@@ -338,7 +338,7 @@
     "sellall_going_to_sell_all": "All items that are not marked as favorites",
     "sellall_going_to_sell_rarity": "All items of \"%s\" quality that are not marked as favorites",
     "sellall_going_to_sell_type": "All items of \"%s\" type that are not marked as favorites",
-    "sellall_going_to_sell_level": "All %d level items that are not marked as favorites",
+    "sellall_going_to_sell_level": "All items with their level greater then or equal to %d that are not marked as favorites",
     "sellall_total_value": "Total value of items",
     "sellall_are_you_sure": "Are you sure you want to sell these items?",
     "sellall_cancel": "You cancelled the sale",

@@ -338,7 +338,7 @@
     "sellall_going_to_sell_all": "Tous les objets qui ne sont pas en favori",
     "sellall_going_to_sell_rarity": "Tous les objets de qualité \"%s\" qui ne sont pas marqué comme favori",
     "sellall_going_to_sell_type": "Tous les objets de type \"%s\" qui ne sont pas marqué comme favori",
-    "sellall_going_to_sell_level": "Tous les objets de niveau %d qui ne sont pas marqué comme favori",
+    "sellall_going_to_sell_level": "Tous les objets de niveau %d ou supérieur qui ne sont pas marqué comme favori",
     "sellall_total_value": "Valeur total des objets",
     "sellall_are_you_sure": "Êtes-vous sûr de vouloir vendre ces objets ?",
     "sellall_cancel": "Vous avez annulé la vente",
