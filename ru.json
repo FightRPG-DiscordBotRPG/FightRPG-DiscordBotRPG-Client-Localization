@@ -343,7 +343,8 @@
     "sellall_are_you_sure": "Вы уверены, что хотите продать эти вещи?",
     "sellall_cancel": "Вы отменили продажу",
     "sellall_going_to_sell_power_sup": "Все предметы с мощностью больше или равной %d",
-    "sellall_going_to_sell_power_inf": "Все предметы с мощностью ниже или равной %d"
+    "sellall_going_to_sell_power_inf": "Все предметы с мощностью ниже или равной %d",
+    "sellall_going_to_sell_name": "All items whose name contains \"%s\""
   },
   "mounts": {
     "reduction": "Бонусы/пункты во времени путешествия для следующего климата/поезда:",

@@ -343,7 +343,8 @@
     "sellall_are_you_sure": "Are you sure you want to sell these items?",
     "sellall_cancel": "You cancelled the sale",
     "sellall_going_to_sell_power_sup": "All items with a power greater than or equal to %d",
-    "sellall_going_to_sell_power_inf": "All items with a power lower than or equal to %d"
+    "sellall_going_to_sell_power_inf": "All items with a power lower than or equal to %d",
+    "sellall_going_to_sell_name": "All items whose name contains \"%s\""
   },
   "mounts": {
     "reduction": "Bonuses/Penalties in travel time for the following climate/terrain:",
