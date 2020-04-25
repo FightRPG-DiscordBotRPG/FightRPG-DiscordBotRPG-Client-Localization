@@ -313,7 +313,8 @@
     "guild_territories": "Propiedades territoriales de tu gremio (%d)",
     "guild_territory_enroll": "Registro de Conquista",
     "head_disband": "You are about to disband your guild",
-    "head_body": "Dissolving your guild is an irreversible action, all the money in the bank will disappear and all your members will be expelled, your territories will also be abandoned."
+    "head_body": "Dissolving your guild is an irreversible action, all the money in the bank will disappear and all your members will be expelled, your territories will also be abandoned.",
+    "disband_cancelled": "Disband cancelled"
   },
   "inventory_equipment": {
     "item_equiped": "Tu item ahora está equipado (%s)",
