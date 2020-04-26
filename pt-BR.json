@@ -637,6 +637,7 @@
     "areaupbonus": "Melhora um dos bônus disponíveis",
     "travel": "Lhe permite viajar para a área areaID",
     "travelregion": "Lhe permite viajar para a região regionID",
+    "traveldirect": "Allows you to travel to one area, using it's real areaID",
     "guilds_title": "Guildas",
     "guild": "Mostra a informação da guilda na qual você está",
     "guilds": "Mostra as guildas",

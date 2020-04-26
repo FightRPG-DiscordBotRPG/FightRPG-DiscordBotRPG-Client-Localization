@@ -638,6 +638,7 @@
     "areaplayers": "Affiche les joueurs de la zone",
     "travel": "Permet de voyager à la zone areaID",
     "travelregion": "Permet de voyager à la région regionID",
+    "traveldirect": "Permet de voyager vers une zone, en utilisant son vrai areaID",
     "guilds_title": "Guildes",
     "guild": "Affiche les informations de la guilde dans laquelle vous êtes",
     "guilds": "Affiche les guildes",

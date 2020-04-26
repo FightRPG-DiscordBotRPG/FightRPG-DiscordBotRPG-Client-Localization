@@ -638,6 +638,7 @@
     "areaupbonus": "Mejora uno de las bonificaciones disponibles",
     "travel": "Te permite viajar al área seleccionada (ejemplo: travel 2)",
     "travelregion": "Te permite viajar a la región seleccionada (ejemplo: travelregion 1)",
+    "traveldirect": "Allows you to travel to one area, using it's real areaID",
     "guilds_title": "Gremios",
     "guild": "Muestra la información del gremio al que perteneces",
     "guilds": "Muestra los gremios existentes",

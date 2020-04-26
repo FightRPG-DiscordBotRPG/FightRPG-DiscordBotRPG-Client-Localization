@@ -638,6 +638,7 @@
     "areaupbonus": "Upgrade one of the available bonuses",
     "travel": "Allows you to travel to the area areaID",
     "travelregion": "Allows you to travel to the region regionID",
+    "traveldirect": "Allows you to travel to one area, using it's real areaID",
     "guilds_title": "Guilds",
     "guild": "Shows the information of the guild you're in",
     "guilds": "Shows the guilds",

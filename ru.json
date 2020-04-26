@@ -638,6 +638,7 @@
     "areaupbonus": "Обновляет один из доступных бонусов",
     "travel": "Позволяет путешествовать по территориям (ID территории)",
     "travelregion": "Позволяет путешествовать по регионам (ID региона)",
+    "traveldirect": "Allows you to travel to one area, using it's real areaID",
     "guilds_title": "Гильдии",
     "guild": "Показывает информацию о гильдии, в которой вы находитесь",
     "guilds": "Показывает гильдии",
