@@ -443,7 +443,8 @@
     "gold_price_body": "%d G",
     "sure_to_travel_title": "Вы уверены, что хотите путешествовать?",
     "sure_to_travel_body": "%s → да\n%s → Нет",
-    "travel_cancel": "Вы отменили свою поездку"
+    "travel_cancel": "Вы отменили свою поездку",
+    "total_without_weather": "Total travel time without weather impact"
   },
   "fight_pve": {
     "ganked_by_monster": "Вы не были достаточно скрытными, монстр нападает на вас! (Вам нужно больше восприятия)",

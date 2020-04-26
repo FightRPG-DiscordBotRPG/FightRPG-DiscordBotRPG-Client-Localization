@@ -443,7 +443,8 @@
     "gold_price_body": "%d G",
     "sure_to_travel_title": "Estas seguro que quieres viajar?",
     "sure_to_travel_body": "%s => Si\n%s => No",
-    "travel_cancel": "Has cancelado tu viaje"
+    "travel_cancel": "Has cancelado tu viaje",
+    "total_without_weather": "Total travel time without weather impact"
   },
   "fight_pve": {
     "ganked_by_monster": "No fuiste lo suficientemente sigiloso/a, un monstruo te ataca! (Necesitas mas persepción)",
