@@ -322,6 +322,7 @@
     "id": "id",
     "name": "Name",
     "type": "Type",
+    "subtype": "Subtype",
     "level": "Level",
     "rarity": "Rarity",
     "empty_inventory": "Empty Inventory",

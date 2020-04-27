@@ -322,6 +322,7 @@
     "id": "id",
     "name": "Nom",
     "type": "Type",
+    "subtype": "Sous-type",
     "level": "Niveau",
     "rarity": "Rareté",
     "empty_inventory": "Inventaire Vide",
