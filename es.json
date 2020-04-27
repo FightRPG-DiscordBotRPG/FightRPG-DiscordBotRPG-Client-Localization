@@ -195,7 +195,7 @@
   "area": {
     "monster": "ID: %s | %s | Lvl: %s | Tipo: %s",
     "resources": "Recursos del area:",
-    "resource": "- ID: %s | %s | %s",
+    "resource": "ID: %s | %s | %s",
     "list_of_players_in_area": "Lista de jugadores de la %s area:",
     "player": "ID: %s | Nombre: %s | Nivel: %d",
     "wild_area": "%d | %s | Nivel: %s",

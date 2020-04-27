@@ -195,7 +195,7 @@
   "area": {
     "monster": "ID: %s | %s | Уровень: %s | Тип: %s",
     "resources": "Ресурсы территории:",
-    "resource": "- ID: %s | %s | %s",
+    "resource": "ID: %s | %s | %s",
     "list_of_players_in_area": "Список игроков территории %s:",
     "player": "ID: %s | Имя: %s | Уровень: %d",
     "wild_area": "%d | %s | Уровни: %s",
