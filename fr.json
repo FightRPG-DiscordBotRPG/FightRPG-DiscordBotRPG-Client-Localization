@@ -272,7 +272,8 @@
     "enable": "Activer",
     "disable": "Désactiver",
     "region": "Région",
-    "modular": "Modulaire"
+    "modular": "Modulaire",
+    "and": "et"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",

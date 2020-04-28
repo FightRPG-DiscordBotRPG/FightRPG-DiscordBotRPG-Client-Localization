@@ -272,7 +272,8 @@
     "enable": "Habilitar",
     "disable": "Inhabilitar",
     "region": "Región",
-    "modular": "Modular"
+    "modular": "Modular",
+    "and": "and"
   },
   "guild": {
     "you_dont_have_a_guild": "No tienes un gremio",

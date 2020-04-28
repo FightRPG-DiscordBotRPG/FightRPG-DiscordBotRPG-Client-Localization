@@ -272,7 +272,8 @@
     "enable": "Включать",
     "disable": "Отключать",
     "region": "Регион",
-    "modular": "Модульный"
+    "modular": "Модульный",
+    "and": "and"
   },
   "guild": {
     "you_dont_have_a_guild": "У вас нет гильдии.",
