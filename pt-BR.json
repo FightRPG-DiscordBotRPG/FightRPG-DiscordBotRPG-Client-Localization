@@ -218,6 +218,7 @@
     "list_regions_connected": "Regiões conectadas",
     "no_connected_regions": "Nenhuma região conectada à esta região",
     "follow_the_link": "Você pode ter a lista de recursos através do link abaixo.",
+    "services": "Services",
     "service_marketplace": "Mercado (Taxa: %d%)",
     "service_forge": "Ferreiro (Criação: Nvl. %d - %d)",
     "service_shop": "Loja (Taxa: %d%)",

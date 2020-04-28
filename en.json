@@ -219,6 +219,7 @@
     "list_regions_connected": "Connected regions",
     "no_connected_regions": "No regions connected to this region",
     "follow_the_link": "You can have the list of resources at the link bellow.",
+    "services":  "Services",
     "service_marketplace": "Marketplace (Tax: %d%)",
     "service_forge": "Blacksmith (Craft: Lvl. %d - %d)",
     "service_shop": "Shop (Tax: %d%)",

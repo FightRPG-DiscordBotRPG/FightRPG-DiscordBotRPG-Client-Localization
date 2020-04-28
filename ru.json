@@ -219,6 +219,7 @@
     "list_regions_connected": "Связанные регионы",
     "no_connected_regions": "Нет регионов, связанных с этим регионом",
     "follow_the_link": "Вы можете получить список ресурсов по ссылке ниже.",
+    "services": "Services",
     "service_marketplace": "Рынок (Налог: %d%)",
     "service_forge": "Кузнец (ремесло: Ур. %d - %d)",
     "service_shop": "Магазин (Налог: %d%)",

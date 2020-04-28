@@ -219,6 +219,7 @@
     "list_regions_connected": "Régions connectés",
     "no_connected_regions": "Pas de régions connectés à cette région",
     "follow_the_link": "Vous pouvez obtenir la liste des ressources à l'adresse suivante:",
+    "services": "Services",
     "service_marketplace": "Hotel de Vente (Taxes : %d%)",
     "service_forge": "Forge (Fabrication : Niv. %d - %d)",
     "service_shop": "Magasin (Taxes : %d%)",
