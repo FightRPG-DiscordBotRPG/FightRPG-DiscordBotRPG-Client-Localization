@@ -316,7 +316,9 @@
     "guild_territory_enroll": "Inscription de Conquête",
     "head_disband": "Vous êtes sur le point de dissoudre votre guilde",
     "body_disband": "Dissoudre votre guilde est une action irréversible, l'ensemble de l'argent en banque va disparaître et tous vos membres vont être expulsés, vos territoires seront eux aussi laissés à l'abandon.",
-    "disband_cancelled": "Dissolution annulée"
+    "disband_cancelled": "Dissolution annulée",
+    "total_player_power": "Puissance Totale des membres %d",
+    "total_player_level": "Niveau Total des membres %d"
   },
   "inventory_equipment": {
     "item_equiped": "Votre objet a été équipé (%s)",

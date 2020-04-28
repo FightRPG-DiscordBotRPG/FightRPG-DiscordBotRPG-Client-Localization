@@ -316,7 +316,9 @@
     "guild_territory_enroll": "Conquest Registration",
     "head_disband": "You are about to disband your guild",
     "body_disband": "Dissolving your guild is an irreversible action, all the guild money will disappear, all guild members will be kicked and all guild territories will be abandoned",
-    "disband_cancelled": "Disband cancelled"
+    "disband_cancelled": "Disband cancelled",
+    "total_player_power": "Total Power of members %d",
+    "total_player_level": "Total Level of members %d"
   },
   "inventory_equipment": {
     "item_equiped": "Your item is now equipped (%s)",
