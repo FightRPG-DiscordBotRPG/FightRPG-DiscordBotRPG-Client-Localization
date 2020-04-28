@@ -318,7 +318,8 @@
     "body_disband": "Dissolving your guild is an irreversible action, all the guild money will disappear, all guild members will be kicked and all guild territories will be abandoned",
     "disband_cancelled": "Disband cancelled",
     "total_player_power": "Total Power of members %d",
-    "total_player_level": "Total Level of members %d"
+    "total_player_level": "Total Level of members %d",
+    "current_applications": "Current applications"
   },
   "inventory_equipment": {
     "item_equiped": "Your item is now equipped (%s)",
