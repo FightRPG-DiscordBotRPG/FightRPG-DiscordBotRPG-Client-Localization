@@ -629,7 +629,7 @@
     "info": "Affiche les informations sur votre personnage",
     "attributes": "Affiche l'ensemble des caractéristiques de votre personnage",
     "up": "Ajoute à la caractéristique statName number Points",
-    "leaderboard": "Affiche ton rang en fonction de l'argument choisi (arena, gold, level, craftlevel)",
+    "leaderboard": "Affiche ton rang en fonction de l'argument choisi (arena, gold, level, craftlevel, power)",
     "reset": "Te permet de réinitialiser tes caractéristiques",
     "fight_title": "Combats",
     "fight": "Permet de tenter d'attaquer le/les monstres choisis",

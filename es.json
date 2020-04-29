@@ -629,7 +629,7 @@
     "info": "Muestra la información de tu personaje",
     "attributes": "Muestra los atributos totales de tu personaje",
     "up": "Añade al atributo seleccionado el numero de puntos especificados (ejemplo:up str 5)",
-    "leaderboard": "Muestra tu Clasificación según su tipo (arena, oro, nivel, nivel para elaboración)",
+    "leaderboard": "Muestra tu Clasificación según su tipo (arena, gold, level, craftlevel, power)",
     "reset": "Te permite reiniciar tus atributos",
     "fight_title": "Batallas",
     "fight": "Te permite intentar atacar al monstruo/monstruos seleccionado/seleccionados",

@@ -628,7 +628,7 @@
     "info": "Mostra as informações do seu personagem",
     "attributes": "Mostra os atributos totais do seu personagem",
     "up": "Adiciona ao atributo <statName> um número de Pontos",
-    "leaderboard": "Mostra sua classificação baseado no argumento (arena, gold, level, craftlevel)",
+    "leaderboard": "Mostra sua classificação baseado no argumento (arena, gold, level, craftlevel, power)",
     "reset": "Lhe permite redefinir seus atributos",
     "fight_title": "Lutas",
     "fight": "Lhe permite tentar atacar o(s) monstro(s) selecionado(s)",

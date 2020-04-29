@@ -629,7 +629,7 @@
     "info": "Показывает информацию о вашем персонаже",
     "attributes": "Показывает общие атрибуты вашего персонажа",
     "up": "Добавляет к характеристике statName количество Очков",
-    "leaderboard": "Shows your ranking based on the argument (arena, gold, level, craftlevel)",
+    "leaderboard": "Shows your ranking based on the argument (arena, gold, level, craftlevel, power)",
     "reset": "Позволяет сбросить характеристики",
     "fight_title": "Сражения",
     "fight": "Позволяет попробовать атаковать выбранного монстра/монстров",
