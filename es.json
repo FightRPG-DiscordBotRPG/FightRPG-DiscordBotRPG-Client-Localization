@@ -582,7 +582,8 @@
     "wb_damage": "Jefe Global: Daño",
     "wb_attacks": "Jefe Global: Número de ataques",
     "wb_have_not_participate": "Aún no has participado en una batalla contra el jefe",
-    "your_rank": "(Your rank: %d)"
+    "your_rank": "Your rank: #%d out of %d players",
+    "power": "Power Leaderboard | Total power among all players: %d"
   },
   "world_bosses": {
     "no_world_boss": "No hay un Jefe Global aquí",

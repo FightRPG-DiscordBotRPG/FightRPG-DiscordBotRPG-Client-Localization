@@ -581,7 +581,8 @@
     "wb_damage": "Chefe Global: Dano",
     "wb_attacks": "Chefe Global: Número de Ataques",
     "wb_have_not_participate": "You have not yet participated in a boss fight",
-    "your_rank": "(Your rank: %d)"
+    "your_rank": "Your rank: #%d out of %d players",
+    "power": "Power Leaderboard | Total power among all players: %d"
   },
   "world_bosses": {
     "no_world_boss": "Não há chefe global aqui",

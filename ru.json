@@ -582,7 +582,8 @@
     "wb_damage": "Всемирный босс: повреждение",
     "wb_attacks": "Всемирный босс: Атака графа",
     "wb_have_not_participate": "You have not yet participated in a boss fight",
-    "your_rank": "(Your rank: %d)"
+    "your_rank": "Your rank: #%d out of %d players",
+    "power": "Power Leaderboard | Total power among all players: %d"
   },
   "world_bosses": {
     "no_world_boss": "Здесь нет мирового босса",

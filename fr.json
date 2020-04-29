@@ -582,7 +582,8 @@
     "wb_damage": "Boss Mondial: Dégâts",
     "wb_attacks": "Boss Mondial: Nombre d'Attaques",
     "wb_have_not_participate": "Vous n'avez pas encore participé à un combat de boss",
-    "your_rank": "(Votre rang: %d)"
+    "your_rank": "Votre rang: #%d sur %d joueurs",
+    "power": "Classement de Puissance | Puissance totale des joueurs: %d"
   },
   "world_bosses": {
     "no_world_boss": "Il n'y a pas de Boss Mondiaux ici",
