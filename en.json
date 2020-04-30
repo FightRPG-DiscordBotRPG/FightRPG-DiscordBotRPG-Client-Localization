@@ -236,7 +236,7 @@
     "gold_drop": "Gold drop",
     "item_drop": "Item drop",
     "collect_drop": "Collect drop",
-    "no_bonuses": "No available bonuses",
+    "no_bonuses": "No active bonuses",
     "harvest_tiredness": "Harvest tiredness",
     "travel_tiredness": "Travel tiredness"
   },
