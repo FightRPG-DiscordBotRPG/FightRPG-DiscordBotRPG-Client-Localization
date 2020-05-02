@@ -558,7 +558,10 @@
     "random_loot_box_equipment": "Coffre d'équipements aléatoire",
     "horse": "Cheval",
     "crystal": "Cristal",
-    "energy_potion": "Potion Tonifiante"
+    "energy_potion": "Potion Tonifiante",
+    "salamander": "Salamandre",
+    "camel": "Chameau",
+    "polar_bear": "Ours Polaire"
   },
   "stats": {
     "strength": "Force",

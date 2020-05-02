@@ -558,7 +558,10 @@
     "random_loot_box_equipment": "Caja de equipamiento aleatorio",
     "horse": "Caballo",
     "crystal": "Cristal",
-    "energy_potion": "Poción energizante"
+    "energy_potion": "Poción energizante",
+    "salamander": "Salamander",
+    "camel": "Camel",
+    "polar_bear": "Polar Bear"
   },
   "stats": {
     "strength": "Fuerza",

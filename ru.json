@@ -558,7 +558,10 @@
     "random_loot_box_equipment": "Random Equipment Box",
     "horse": "Лошадь",
     "crystal": "Кирсталь",
-    "energy_potion": "Тонизирующее зелье"
+    "energy_potion": "Тонизирующее зелье",
+    "salamander": "Salamander",
+    "camel": "Camel",
+    "polar_bear": "Polar Bear"
   },
   "stats": {
     "strength": "Сила",
