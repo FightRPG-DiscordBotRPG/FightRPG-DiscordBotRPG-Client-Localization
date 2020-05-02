@@ -121,6 +121,7 @@
     "craft_dont_have_required_level": "No tienes el minimo nivel requerido para elaborar este item. Tienes que ser al menos nivel: %d",
     "craft_dont_have_required_items": "No tienes los recursos necesarios para elaborar este item",
     "craft_tired_wait_x_seconds": "Estas muy cansado para elaborar este item, todavia necesitas esperar: %s segundos",
+    "craft_level_incorrect": "No puedes fabricar un ítem de este nivel aquí",
     "prefix_max_length": "El prefijo no debe exceder una longitud de %d caracteres",
     "prefix_undefined": "El prefijo tiene que tener al menos 1 carácter",
     "prefix_not_owner_server": "Tienes que ser el creador de este servidor para cambiar el prefijo",
