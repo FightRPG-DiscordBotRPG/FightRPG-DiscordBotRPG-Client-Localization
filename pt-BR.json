@@ -215,7 +215,7 @@
     "area_progression": "Progressão da área",
     "level_up": "A área passou de nível",
     "bonus_list_header": "Identificador → Refere-se à",
-    "up_stat": "Este bônus %s ganhou %d points",
+    "up_stat": "O bônus %s ganhou %d points",
     "reset_stats": "Os pontos desta area foram reembolsados",
     "areas": "Áreas",
     "list": "Lista de áreas",
