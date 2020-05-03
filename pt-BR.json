@@ -600,7 +600,10 @@
     "boss_fight_damage_inflicted": "Você infligiu %d pontos de dano",
     "boss_fight_damage_inflicted_critical": "Você causou %d pontos de dano (Acerto Crítico!)",
     "boss_you_particpate_dead": "The world boss \"%s\" you were fighting against is now dead.",
-    "boss_already_dead": "This world boss is already dead"
+    "boss_already_dead": "This world boss is already dead",
+    "now_unmuted": "World Bosses notifications are now activated",
+    "now_muted": "World Bosses notifications are now deactivated",
+    "settings_menu_mute": "%s World Bosses notifications"
   },
   "potions": {
     "drink": "Você bebeu: \"%s\"\n",

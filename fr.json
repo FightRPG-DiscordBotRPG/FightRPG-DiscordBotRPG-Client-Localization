@@ -601,7 +601,10 @@
     "boss_fight_damage_inflicted": "Vous avez infligé %d points de dégâts",
     "boss_fight_damage_inflicted_critical": "Vous avez infligé %d points de dégâts (Coup Critique !)",
     "boss_you_particpate_dead": "Le boss mondial: \"%s\" contre lequel vous vous battiez est mort.",
-    "boss_already_dead": "Ce boss mondial est déjà mort"
+    "boss_already_dead": "Ce boss mondial est déjà mort",
+    "now_unmuted": "Les notifications en rapport avec les boss mondiaux sont maintenant activées",
+    "now_muted": "Les notifications en rapport avec les boss mondiaux sont maintenant désactivées",
+    "settings_menu_mute": "%s les notifications en rapport avec les boss mondiaux"
   },
   "potions": {
     "drink": "Vous avez bu : \"%s\"\n",

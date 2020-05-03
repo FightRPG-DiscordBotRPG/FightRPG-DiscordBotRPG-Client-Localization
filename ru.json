@@ -601,7 +601,10 @@
     "boss_fight_damage_inflicted": "Вы нанесли %d очков урона.",
     "boss_fight_damage_inflicted_critical": "You've inflicted %d damage points (Critical Hit !)",
     "boss_you_particpate_dead": "The world boss \"%s\" you were fighting against is now dead.",
-    "boss_already_dead": "This world boss is already dead"
+    "boss_already_dead": "This world boss is already dead",
+    "now_unmuted": "World Bosses notifications are now activated",
+    "now_muted": "World Bosses notifications are now deactivated",
+    "settings_menu_mute": "%s World Bosses notifications"
   },
   "potions": {
     "drink": "Вы выпили: \"%s\"\n",

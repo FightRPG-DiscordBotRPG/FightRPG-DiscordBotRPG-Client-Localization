@@ -601,7 +601,10 @@
     "boss_fight_damage_inflicted": "Has inflingido %d de daño",
     "boss_fight_damage_inflicted_critical": "Has inflingido %d de daño (Golpe Crítico!)",
     "boss_you_particpate_dead": "The world boss \"%s\" you were fighting against is now dead.",
-    "boss_already_dead": "This world boss is already dead"
+    "boss_already_dead": "This world boss is already dead",
+    "now_unmuted": "World Bosses notifications are now activated",
+    "now_muted": "World Bosses notifications are now deactivated",
+    "settings_menu_mute": "%s World Bosses notifications"
   },
   "potions": {
     "drink": "Bebiste: \"%s\"\n",
