@@ -599,7 +599,8 @@
     "boss_fight_recap_damage_dealt": "Dommages Infligés : %d (Rang : %d)",
     "boss_fight_recap_attack_count": "Nombre d'Attaques : %d (Rang : %d)",
     "boss_fight_damage_inflicted": "Vous avez infligé %d points de dégâts",
-    "boss_fight_damage_inflicted_critical": "Vous avez infligé %d points de dégâts (Coup Critique !)"
+    "boss_fight_damage_inflicted_critical": "Vous avez infligé %d points de dégâts (Coup Critique !)",
+    "boss_you_particpate_dead": "Le boss mondial: \"%s\" contre lequel vous vous battiez est mort."
   },
   "potions": {
     "drink": "Vous avez bu : \"%s\"\n",

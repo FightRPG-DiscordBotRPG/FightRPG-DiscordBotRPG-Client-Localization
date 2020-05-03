@@ -599,7 +599,8 @@
     "boss_fight_recap_damage_dealt": "Daño realizado: %d (Rango: %d)",
     "boss_fight_recap_attack_count": "Recuento de ataques: %d (Rango: %d)",
     "boss_fight_damage_inflicted": "Has inflingido %d de daño",
-    "boss_fight_damage_inflicted_critical": "Has inflingido %d de daño (Golpe Crítico!)"
+    "boss_fight_damage_inflicted_critical": "Has inflingido %d de daño (Golpe Crítico!)",
+    "boss_you_particpate_dead": "The world boss \"%s\" you were fighting against is now dead."
   },
   "potions": {
     "drink": "Bebiste: \"%s\"\n",
