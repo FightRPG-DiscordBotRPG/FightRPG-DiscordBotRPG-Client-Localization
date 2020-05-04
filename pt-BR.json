@@ -558,9 +558,9 @@
     "horse": "Cavalo",
     "crystal": "Cristal",
     "energy_potion": "Poção de Tonificação",
-    "salamander": "Salamander",
-    "camel": "Camel",
-    "polar_bear": "Polar Bear"
+    "salamander": "Salamandra",
+    "camel": "Camelo",
+    "polar_bear": "Urso Polar"
   },
   "stats": {
     "strength": "Força",
@@ -599,11 +599,11 @@
     "boss_fight_recap_attack_count": "Número de Ataques: %d (Classificação: %d)",
     "boss_fight_damage_inflicted": "Você infligiu %d pontos de dano",
     "boss_fight_damage_inflicted_critical": "Você causou %d pontos de dano (Acerto Crítico!)",
-    "boss_you_particpate_dead": "The world boss \"%s\" you were fighting against is now dead.",
-    "boss_already_dead": "This world boss is already dead",
-    "now_unmuted": "World Bosses notifications are now activated",
-    "now_muted": "World Bosses notifications are now deactivated",
-    "settings_menu_mute": "%s World Bosses notifications"
+    "boss_you_particpate_dead": "O chefe global \"%s\" que você enfrentava agora está morto.",
+    "boss_already_dead": "Este chefe global já faleceu",
+    "now_unmuted": "Notificações de Chefes Globais agora estão ativadas",
+    "now_muted": "Notificações de Chefes Globais agora estão desativadas",
+    "settings_menu_mute": "%s notificações de Chefes Globais"
   },
   "potions": {
     "drink": "Você bebeu: \"%s\"\n",
