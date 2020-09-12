@@ -339,6 +339,7 @@
     "page_x_out_of": "Страница %d/%d",
     "currently_equipped": "В Настоящее Время Оборудованно",
     "attributes": "Характеристики",
+    "secondaryAttributes": "Secondary Attributes",
     "nothing_in_this_slot": "У вас нет никакого экипированного предмета в этом слоте",
     "nothing_equipped": "Вы не имеете никакого экипированного предмета",
     "power": "Мощность",

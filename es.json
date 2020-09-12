@@ -339,6 +339,7 @@
     "page_x_out_of": "Página %d/%d",
     "currently_equipped": "Actualmente equipado",
     "attributes": "Atributos",
+    "secondaryAttributes": "Secondary Attributes",
     "nothing_in_this_slot": "No tienes ningun item equipado en este espacio",
     "nothing_equipped": "No tienes ningun item equipado",
     "power": "Poder",
