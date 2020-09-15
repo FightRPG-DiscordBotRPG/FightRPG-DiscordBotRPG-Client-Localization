@@ -506,7 +506,15 @@
     "now_unmuted": "Fight notifications are now activated",
     "settings_menu_mute": "%s Fight notifications",
     "status_of_fight": "Battle status: %s",
-    "battle_ongoing": "You're fighting!"
+    "battle_ongoing": "You're fighting!",
+    "missed": "Missed!",
+    "status_removed": "Status removed: %s",
+    "status_added": "Status added: %s",
+    "results_lost": "Lost:",
+    "results_gain": "Gain:",
+    "results_health_points": "%d hp.",
+    "results_mana_points": "%d mp.",
+    "results_energy_points": "%d energy."
   },
   "rarities": {
     "common": "Common",
