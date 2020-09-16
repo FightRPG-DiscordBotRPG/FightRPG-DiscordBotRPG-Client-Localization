@@ -560,7 +560,7 @@
     "plant": "Plant",
     "sword": "Sword",
     "whip": "Whip",
-    "armor": "Armor",
+    "metal": "Metal",
     "loot_box_equipment": "Equipment Box",
     "reset_time_potion": "Anti-Tiredness",
     "founder_box": "Founder Reward",
@@ -570,7 +570,13 @@
     "energy_potion": "Toning Potion",
     "salamander": "Salamander",
     "camel": "Camel",
-    "polar_bear":  "Polar Bear"
+    "polar_bear": "Polar Bear",
+    "cloth": "Cloth",
+    "leather": "Leather",
+    "bow": "Bow",
+    "dagger": "Dagger",
+    "wand": "Wand",
+    "staff": "Staff"
   },
   "stats": {
     "strength": "Strength",

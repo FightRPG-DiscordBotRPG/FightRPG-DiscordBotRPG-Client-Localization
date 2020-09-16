@@ -559,7 +559,7 @@
     "plant": "Planta",
     "sword": "Espada",
     "whip": "Chicote",
-    "armor": "Armadura",
+    "metal": "Metal",
     "loot_box_equipment": "Caixa de Equipamento",
     "reset_time_potion": "Anti-Cansaço",
     "founder_box": "Recompensa de Fundador",
@@ -569,7 +569,13 @@
     "energy_potion": "Poção de Tonificação",
     "salamander": "Salamandra",
     "camel": "Camelo",
-    "polar_bear": "Urso Polar"
+    "polar_bear": "Urso Polar",
+    "cloth": "Cloth",
+    "leather": "Leather",
+    "bow": "Bow",
+    "dagger": "Dagger",
+    "wand": "Wand",
+    "staff": "Staff"
   },
   "stats": {
     "strength": "Força",

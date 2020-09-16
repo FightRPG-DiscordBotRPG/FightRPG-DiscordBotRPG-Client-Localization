@@ -560,9 +560,9 @@
     "plant": "Planta",
     "sword": "Espada",
     "whip": "Látigo",
-    "armor": "Armadura",
+    "metal": "Metal",
     "loot_box_equipment": "Caja de equipamiento",
-    "reset_time_potion": "anti-cansancio",
+    "reset_time_potion": "Anti-cansancio",
     "founder_box": "Recompensa encontrada",
     "random_loot_box_equipment": "Caja de equipamiento aleatorio",
     "horse": "Caballo",
@@ -570,7 +570,13 @@
     "energy_potion": "Poción energizante",
     "salamander": "Salamander",
     "camel": "Camel",
-    "polar_bear": "Polar Bear"
+    "polar_bear": "Polar Bear",
+    "cloth": "Cloth",
+    "leather": "Leather",
+    "bow": "Bow",
+    "dagger": "Dagger",
+    "wand": "Wand",
+    "staff": "Staff"
   },
   "stats": {
     "strength": "Fuerza",

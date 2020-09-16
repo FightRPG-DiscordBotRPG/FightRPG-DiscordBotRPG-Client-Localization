@@ -560,7 +560,7 @@
     "plant": "Plante",
     "sword": "Epée",
     "whip": "Fouet",
-    "armor": "Armure",
+    "metal": "Métal",
     "loot_box_equipment": "Coffre d'équipements",
     "reset_time_potion": "Anti-Fatigue",
     "founder_box": "Récompense de Fondateur",
@@ -570,7 +570,13 @@
     "energy_potion": "Potion Tonifiante",
     "salamander": "Salamandre",
     "camel": "Chameau",
-    "polar_bear": "Ours Polaire"
+    "polar_bear": "Ours Polaire",
+    "cloth": "Tissu",
+    "leather": "Cuir",
+    "bow": "Arc",
+    "dagger": "Dague",
+    "wand": "Baguette",
+    "staff": "Baton"
   },
   "stats": {
     "strength": "Force",

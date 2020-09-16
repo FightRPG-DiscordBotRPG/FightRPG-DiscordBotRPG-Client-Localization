@@ -560,7 +560,7 @@
     "plant": "Растение",
     "sword": "Меч",
     "whip": "Кнут",
-    "armor": "Броня",
+    "metal": "Metal",
     "loot_box_equipment": "Коробка Снаряжения",
     "reset_time_potion": "Анти-Усталость",
     "founder_box": "Вознаграждение Основателя",
@@ -570,7 +570,13 @@
     "energy_potion": "Тонизирующее зелье",
     "salamander": "Salamander",
     "camel": "Camel",
-    "polar_bear": "Polar Bear"
+    "polar_bear": "Polar Bear",
+    "cloth": "Cloth",
+    "leather": "Leather",
+    "bow": "Bow",
+    "dagger": "Dagger",
+    "wand": "Wand",
+    "staff": "Staff"
   },
   "stats": {
     "strength": "Сила",
