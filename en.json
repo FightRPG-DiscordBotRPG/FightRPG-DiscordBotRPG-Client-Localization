@@ -223,7 +223,7 @@
     "list_regions_connected": "Connected regions",
     "no_connected_regions": "No regions connected to this region",
     "follow_the_link": "You can have the list of resources at the link bellow.",
-    "services":  "Services",
+    "services": "Services",
     "service_marketplace": "Marketplace (Tax: %d%)",
     "service_forge": "Blacksmith (Craft: Lvl. %d - %d)",
     "service_shop": "Shop (Tax: %d%)",
@@ -278,7 +278,7 @@
     "disable": "Disable",
     "region": "Region",
     "modular": "Modular",
-    "and":  "and"
+    "and": "and"
   },
   "guild": {
     "you_dont_have_a_guild": "You don't have a guild",
@@ -531,7 +531,8 @@
     "ru": "Russian",
     "es": "Spanish",
     "list_of_languages": "List of available languages (use the shortcut to switch languages)",
-    "lang_changed": "Language successfully changed, the bot will now answer in %s"
+    "lang_changed": "Language successfully changed, the bot will now answer in %s",
+    "vi": "Vietnamese"
   },
   "other": {
     "loading_character": "Loading your character",
@@ -624,7 +625,7 @@
     "wb_attacks": "World Boss: Attack Count",
     "wb_have_not_participate": "You have not yet participated in a boss fight",
     "your_rank": "Your rank: #%d out of %d players",
-    "power":  "Power Leaderboard | Total power among all players: %d"
+    "power": "Power Leaderboard | Total power among all players: %d"
   },
   "world_bosses": {
     "no_world_boss": "There is no world boss here",

@@ -530,7 +530,8 @@
     "ru": "Russo",
     "es": "Espanhol",
     "list_of_languages": "Lista de línguas disponíveis (use o atalho para mudar de língua)",
-    "lang_changed": "Língua alterada com sucesso, o bot agora responderá em %s"
+    "lang_changed": "Língua alterada com sucesso, o bot agora responderá em %s",
+    "vi": "Vietnamese"
   },
   "other": {
     "loading_character": "Carregando seu personagem",
