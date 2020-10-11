@@ -145,7 +145,14 @@
     "trade_not_enough_money": "У тебя не так уж много денег, чтобы вложить в торговлю",
     "trade_unable_find_item": "Не могу найти этот пункт",
     "trade_not_accepted": "Другой человек должен принять сделку, прежде чем вы сможете сделать это",
-    "travel_area_cant_travel": "Вы не можете вручную путешествовать в эту область."
+    "travel_area_cant_travel": "Вы не можете вручную путешествовать в эту область.",
+    "talents_show_missing_id": "Please enter the ID of the talent to be displayed",
+    "talents_show_node_dont_exist": "This talent doesn't exist"
+  },
+  "talents": {
+    "header_talents": "Information on all unlocked talent",
+    "unlocked_skills": "Available skills",
+    "reachable_talents_ids": "Accessible Talent Ids"
   },
   "craft": {
     "header_required": "Имя - Тип - Подтип - Редкость - Число",

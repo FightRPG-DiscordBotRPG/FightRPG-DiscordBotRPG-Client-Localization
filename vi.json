@@ -145,7 +145,14 @@
     "trade_not_enough_money": "Bạn không có đủ tiền để đưa vào giao dịch",
     "trade_unable_find_item": "Không tìm được vật phẩm này",
     "trade_not_accepted": "The other person must accept the trade before you can do this action",
-    "travel_area_cant_travel": "Bạn không thể di chuyển đến khu vực này"
+    "travel_area_cant_travel": "Bạn không thể di chuyển đến khu vực này",
+    "talents_show_missing_id": "Please enter the ID of the talent to be displayed",
+    "talents_show_node_dont_exist": "This talent doesn't exist"
+  },
+  "talents": {
+    "header_talents": "Information on all unlocked talent",
+    "unlocked_skills": "Available skills",
+    "reachable_talents_ids": "Accessible Talent Ids"
   },
   "craft": {
     "header_required": "Tên - Type - Subtype - Rarity - Number",

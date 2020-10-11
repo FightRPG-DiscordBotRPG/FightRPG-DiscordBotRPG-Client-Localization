@@ -145,7 +145,15 @@
     "trade_not_enough_money": "Vous n'avez pas autant d'argent à mettre dans l'échange",
     "trade_unable_find_item": "Impossible de trouver cet objet",
     "trade_not_accepted": "L'autre personne doit accepter l'échange avant que vous puissiez faire cette action",
-    "travel_area_cant_travel": "Vous ne pouvez pas vous rendre dans cette zone"
+    "travel_area_cant_travel": "Vous ne pouvez pas vous rendre dans cette zone",
+    "talents_show_missing_id": "Veuillez entrer l'identifiant du talent à afficher",
+    "talents_show_node_dont_exist": "Ce talent n'existe pas"
+
+  },
+  "talents": {
+    "header_talents": "Informations sur tous les talents débloqués",
+    "unlocked_skills": "Compétences disponibles",
+    "reachable_talents_ids":  "Identifiants des talents accessibles"
   },
   "craft": {
     "header_required": "Nom - Type - Sous-Type - Rareté - Nombre",
