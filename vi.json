@@ -152,7 +152,8 @@
   "talents": {
     "header_talents": "Information on all unlocked talent",
     "unlocked_skills": "Available skills",
-    "reachable_talents_ids": "Accessible Talent Ids"
+    "reachable_talents_ids": "Accessible Talent Ids",
+    "unlockable_skills": "Unlockable skills"
   },
   "craft": {
     "header_required": "Tên - Type - Subtype - Rarity - Number",
@@ -285,7 +286,10 @@
     "disable": "Disable",
     "region": "Vùng đất",
     "modular": "Modular",
-    "and": "and"
+    "and": "and",
+    "aquired": "Aquired",
+    "unlockable": "Unlockable",
+    "locked": "Locked"
   },
   "guild": {
     "you_dont_have_a_guild": "Bạn không có Guild",

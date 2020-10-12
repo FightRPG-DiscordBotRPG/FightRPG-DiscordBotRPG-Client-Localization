@@ -148,12 +148,12 @@
     "travel_area_cant_travel": "Vous ne pouvez pas vous rendre dans cette zone",
     "talents_show_missing_id": "Veuillez entrer l'identifiant du talent à afficher",
     "talents_show_node_dont_exist": "Ce talent n'existe pas"
-
   },
   "talents": {
     "header_talents": "Informations sur tous les talents débloqués",
     "unlocked_skills": "Compétences disponibles",
-    "reachable_talents_ids":  "Identifiants des talents accessibles"
+    "reachable_talents_ids": "Identifiants des talents accessibles",
+    "unlockable_skills": "Compétences déblocables"
   },
   "craft": {
     "header_required": "Nom - Type - Sous-Type - Rareté - Nombre",
@@ -286,7 +286,10 @@
     "disable": "Désactiver",
     "region": "Région",
     "modular": "Modulaire",
-    "and": "et"
+    "and": "et",
+    "aquired": "Obtenu",
+    "unlockable": "Déblocable",
+    "locked": "Verrouilé"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",

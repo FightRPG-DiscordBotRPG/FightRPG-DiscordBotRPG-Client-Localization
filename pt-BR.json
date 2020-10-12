@@ -151,7 +151,8 @@
   "talents": {
     "header_talents": "Information on all unlocked talent",
     "unlocked_skills": "Available skills",
-    "reachable_talents_ids": "Accessible Talent Ids"
+    "reachable_talents_ids": "Accessible Talent Ids",
+    "unlockable_skills": "Unlockable skills"
   },
   "craft": {
     "header_required": "Nome - Tipo - Subtipo - Raridade - Número",
@@ -284,7 +285,10 @@
     "disable": "Desabilitar",
     "region": "Região",
     "modular": "Modular",
-    "and": "e"
+    "and": "e",
+    "aquired": "Aquired",
+    "unlockable": "Unlockable",
+    "locked": "Locked"
   },
   "guild": {
     "you_dont_have_a_guild": "Você não tem uma guilda",
