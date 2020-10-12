@@ -154,6 +154,8 @@
     "unlocked_skills": "Compétences disponibles",
     "reachable_talents_ids": "Identifiants des talents accessibles",
     "unlockable_skills": "Compétences déblocables",
+    "x_point": "%d point de talent",
+    "x_point_plural": "%d points de talent",
     "cost": "Coût de déblocage du talent"
   },
   "craft": {
