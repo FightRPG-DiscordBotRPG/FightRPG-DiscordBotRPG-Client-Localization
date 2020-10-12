@@ -153,7 +153,10 @@
     "header_talents": "Information on all unlocked talent",
     "unlocked_skills": "Available skills",
     "reachable_talents_ids": "Accessible Talent Ids",
-    "unlockable_skills":  "Unlockable skills"
+    "unlockable_skills": "Unlockable skills",
+    "x_point": "%d talent point",
+    "x_point_plural": "%d talent points",
+    "cost": "Talent Unlocking Cost"
   },
   "craft": {
     "header_required": "Name - Type - Subtype - Rarity - Number",
@@ -289,7 +292,7 @@
     "and": "and",
     "aquired": "Aquired",
     "unlockable": "Unlockable",
-    "locked":  "Locked"
+    "locked": "Locked"
   },
   "guild": {
     "you_dont_have_a_guild": "You don't have a guild",

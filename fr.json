@@ -153,7 +153,8 @@
     "header_talents": "Informations sur tous les talents débloqués",
     "unlocked_skills": "Compétences disponibles",
     "reachable_talents_ids": "Identifiants des talents accessibles",
-    "unlockable_skills": "Compétences déblocables"
+    "unlockable_skills": "Compétences déblocables",
+    "cost": "Coût de déblocage du talent"
   },
   "craft": {
     "header_required": "Nom - Type - Sous-Type - Rareté - Nombre",
