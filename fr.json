@@ -146,8 +146,11 @@
     "trade_unable_find_item": "Impossible de trouver cet objet",
     "trade_not_accepted": "L'autre personne doit accepter l'échange avant que vous puissiez faire cette action",
     "travel_area_cant_travel": "Vous ne pouvez pas vous rendre dans cette zone",
-    "talents_show_missing_id": "Veuillez entrer l'identifiant du talent à afficher",
-    "talents_show_node_dont_exist": "Ce talent n'existe pas"
+    "talents_show_missing_id": "Veuillez entrer l'identifiant du talent",
+    "talents_show_node_dont_exist": "Ce talent n'existe pas",
+    "talents_node_not_reachable": "Ce talent n'est pas accessible",
+    "talents_not_enough_points": "Vous n'avez pas assez de points de talent",
+    "talents_already_unlocked": "Vous avez déjà débloqué ce talent"
   },
   "talents": {
     "header_talents": "Informations sur tous les talents débloqués",
@@ -156,7 +159,9 @@
     "unlockable_skills": "Compétences déblocables",
     "x_point": "%d point de talent",
     "x_point_plural": "%d points de talent",
-    "cost": "Coût de déblocage du talent"
+    "cost": "Coût de déblocage du talent",
+    "up_success_unlock": "Le talent %s est désormais débloqué",
+    "up_success_unlock_skills":  "Les compétences suivantes sont désormais disponibles: %s"
   },
   "craft": {
     "header_required": "Nom - Type - Sous-Type - Rareté - Nombre",

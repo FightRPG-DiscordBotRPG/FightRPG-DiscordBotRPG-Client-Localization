@@ -145,8 +145,11 @@
     "trade_not_enough_money": "Você não tem esta quantia de dinheiro para oferecer na troca",
     "trade_unable_find_item": "Incapaz de encontrar este item",
     "trade_not_accepted": "A outra pessoa precisa aceitar a troca antes de você poder executar esta ação",
-    "talents_show_missing_id": "Please enter the ID of the talent to be displayed",
-    "talents_show_node_dont_exist": "This talent doesn't exist"
+    "talents_show_missing_id": "Please enter the ID of the talent",
+    "talents_show_node_dont_exist": "This talent doesn't exist",
+    "talents_node_not_reachable": "This talent is not reachable",
+    "talents_not_enough_points": "You don't have enough talent points",
+    "talents_already_unlocked": "You've already unlocked that talent"
   },
   "talents": {
     "header_talents": "Information on all unlocked talent",
@@ -155,7 +158,9 @@
     "unlockable_skills": "Unlockable skills",
     "x_point": "%d talent point",
     "x_point_plural": "%d talent points",
-    "cost": "Talent Unlocking Cost"
+    "cost": "Talent Unlocking Cost",
+    "up_success_unlock": "The talent %s is now unlocked",
+    "up_success_unlock_skills": "The following skills are now unlocked: %s"
   },
   "craft": {
     "header_required": "Nome - Tipo - Subtipo - Raridade - Número",
