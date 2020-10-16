@@ -358,6 +358,7 @@
     "page_x_out_of": "Trang %d/%d",
     "currently_equipped": "Đang trang bị",
     "attributes": "Thuộc tính",
+    "secondary_attributes": "Secondary Attributes",
     "nothing_in_this_slot": "Bạn không trang bị vật phẩm nào ở vị trí này",
     "nothing_equipped": "Bạn không trang bị bất kỳ vật phẩm nào",
     "power": "Power",

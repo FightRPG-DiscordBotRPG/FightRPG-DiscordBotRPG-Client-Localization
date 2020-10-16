@@ -358,7 +358,7 @@
     "page_x_out_of": "Page %d/%d",
     "currently_equipped": "Currently Equipped",
     "attributes": "Attributes",
-    "secondaryAttributes": "Secondary Attributes",
+    "secondary_attributes": "Secondary Attributes",
     "nothing_in_this_slot": "You don't have any equipped item in this slot",
     "nothing_equipped": "You don't have any equipped item",
     "power": "Power",

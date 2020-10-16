@@ -358,7 +358,7 @@
     "page_x_out_of": "Page %d/%d",
     "currently_equipped": "Actuellement Equipé",
     "attributes": "Attributs",
-    "secondaryAttributes": "Attributs Secondaires",
+    "secondary_attributes": "Attributs Secondaires",
     "nothing_in_this_slot": "Vous n'avez pas d'objet équipé dans cet emplacement",
     "nothing_equipped": "Vous n'avez pas d'objets d'équipé",
     "power": "Puissance",
