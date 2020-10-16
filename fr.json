@@ -524,7 +524,7 @@
     "now_muted": "Les notifications en rapport avec les combats sont maintenant désactivées",
     "now_unmuted": "Les notifications en rapport avec les combats sont maintenant activées",
     "settings_menu_mute": "%s les notifications en rapport avec les combats",
-    "status_of_fight": "Status du combat: %s",
+    "status_of_fight": "Statut du combat: %s",
     "battle_ongoing": "Vous combattez !",
     "missed": "Raté !",
     "status_removed": "États retirés: %s",
