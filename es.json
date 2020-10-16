@@ -451,7 +451,9 @@
     "maximum_stun_chance": "Máxima probabilidad de aturdimiento",
     "reset_price_title": "Reiniciando tus atributos",
     "sure_to_reset_title": "Estas seguro de reiniciar tus atributos?",
-    "reset_cancel": "Cancelaste tu reinicio de atributos"
+    "reset_cancel": "Cancelaste tu reinicio de atributos",
+    "mana_points": "Mana Points",
+    "energy_points": "Energy Points"
   },
   "economic": {
     "sell_for_x": "Has vendido tu objeto por %dG",

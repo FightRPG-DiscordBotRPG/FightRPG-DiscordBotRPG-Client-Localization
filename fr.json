@@ -451,7 +451,9 @@
     "maximum_stun_chance": "Chance Maximum d'Assommer",
     "reset_price_title": "Réinitialiser vos attributs",
     "sure_to_reset_title": "Êtes-vous sûr de vouloir réinitialiser vos attributs ?",
-    "reset_cancel": "Vous avez annulé la réinitialisation de vos attributs"
+    "reset_cancel": "Vous avez annulé la réinitialisation de vos attributs",
+    "mana_points": "Points de Mana",
+    "energy_points": "Points d'Energie"
   },
   "economic": {
     "sell_for_x": "Vous avez vendu votre objet pour %dG",

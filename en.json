@@ -451,7 +451,9 @@
     "maximum_stun_chance": "Maximum Stun Chance",
     "reset_price_title": "Reseting your attributes",
     "sure_to_reset_title": "Are you sure to reset your attributes?",
-    "reset_cancel": "You've cancelled your attributes reset"
+    "reset_cancel": "You've cancelled your attributes reset",
+    "mana_points": "Mana Points",
+    "energy_points":  "Energy Points"
   },
   "economic": {
     "sell_for_x": "You sold your item for %dG",

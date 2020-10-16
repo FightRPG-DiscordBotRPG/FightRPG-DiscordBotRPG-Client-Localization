@@ -451,7 +451,9 @@
     "maximum_stun_chance": "Tỷ lệ Stun",
     "reset_price_title": "Thông tin reset thuộc tính",
     "sure_to_reset_title": "Bạn có chắc muốn reset điểm thuộc tính?",
-    "reset_cancel": "Không reset điểm thuộc tính"
+    "reset_cancel": "Không reset điểm thuộc tính",
+    "mana_points": "Mana Points",
+    "energy_points": "Energy Points"
   },
   "economic": {
     "sell_for_x": "Bạn đã bán vật phẩm của bạn với giá %dG",

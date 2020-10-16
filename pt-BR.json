@@ -450,7 +450,9 @@
     "maximum_stun_chance": "Chance de Atordoamento Máxima",
     "reset_price_title": "Redefinindo seus atributos",
     "sure_to_reset_title": "Você tem certeza que deseja redefinir seus atributos?",
-    "reset_cancel": "Você cancelou sua redefinição de atributos"
+    "reset_cancel": "Você cancelou sua redefinição de atributos",
+    "mana_points": "Mana Points",
+    "energy_points": "Energy Points"
   },
   "economic": {
     "sell_for_x": "Você vendeu seu item por %dG",
