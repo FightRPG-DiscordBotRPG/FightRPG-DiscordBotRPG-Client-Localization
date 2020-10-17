@@ -150,7 +150,8 @@
     "talents_show_node_dont_exist": "Ce talent n'existe pas",
     "talents_node_not_reachable": "Ce talent n'est pas accessible",
     "talents_not_enough_points": "Vous n'avez pas assez de points de talent",
-    "talents_already_unlocked": "Vous avez déjà débloqué ce talent"
+    "talents_already_unlocked": "Vous avez déjà débloqué ce talent",
+    "skill_show_dont_exist":  "Cette compétence n'existe pas"
   },
   "talents": {
     "header_talents": "Informations sur tous les talents débloqués",

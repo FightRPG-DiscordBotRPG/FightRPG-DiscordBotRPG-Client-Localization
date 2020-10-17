@@ -150,7 +150,8 @@
     "talents_show_node_dont_exist": "This talent doesn't exist",
     "talents_node_not_reachable": "This talent is not reachable",
     "talents_not_enough_points": "You don't have enough talent points",
-    "talents_already_unlocked": "You've already unlocked that talent"
+    "talents_already_unlocked": "You've already unlocked that talent",
+    "skill_show_dont_exist": "This skill doesn't exist"
   },
   "talents": {
     "header_talents": "Information on all unlocked talent",
