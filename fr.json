@@ -436,6 +436,7 @@
     "info_attributes_title": "Attributs | %d point à répartir (Prix du reset %dG)",
     "info_attributes_title_plur": "Attributs | %d points à répartir (Prix du reset %dG)",
     "maximum_level": "Niveau Max.",
+    "character_advancement": "Progression du personnage",
     "level": "Niveau",
     "craft_level": "Niv. de Métier",
     "money": "Argent",
@@ -453,7 +454,8 @@
     "sure_to_reset_title": "Êtes-vous sûr de vouloir réinitialiser vos attributs ?",
     "reset_cancel": "Vous avez annulé la réinitialisation de vos attributs",
     "mana_points": "Points de Mana",
-    "energy_points": "Points d'Energie"
+    "energy_points": "Points d'Energie",
+    "character_resources": "Ressources du Personnage"
   },
   "economic": {
     "sell_for_x": "Vous avez vendu votre objet pour %dG",

@@ -436,6 +436,7 @@
     "info_attributes_title": "Характеристики | %d очков осталось распределить (Цена сброса %dG)",
     "info_attributes_title_plur": "Характеристики | %d очков осталось распределить (Цена сброса %dG)",
     "maximum_level": "Макс. Уровень",
+    "character_advancement": "Character Advancement",
     "level": "Уровень",
     "craft_level": "Уровень Ремесла",
     "money": "Деньги",
@@ -453,7 +454,8 @@
     "sure_to_reset_title": "Are you sure to reset your attributes?",
     "reset_cancel": "You've cancelled your attributes reset",
     "mana_points": "Mana Points",
-    "energy_points": "Energy Points"
+    "energy_points": "Energy Points",
+    "character_resources": "Character Resources"
   },
   "economic": {
     "sell_for_x": "Вы продали свой предмет за %dG",

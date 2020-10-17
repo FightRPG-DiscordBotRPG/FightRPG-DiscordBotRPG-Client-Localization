@@ -437,6 +437,7 @@
     "info_attributes_title": "Thuộc tính | %d điểm có thể nâng (Giá reset là %dG)",
     "info_attributes_title_plur": "Thuộc tính | %d điểm có thể nâng (Giá reset là %dG)",
     "maximum_level": "Max. Lv",
+    "character_advancement": "Character Advancement",
     "level": "Lv",
     "craft_level": "Lv Craft",
     "money": "Tiền",
@@ -454,7 +455,8 @@
     "sure_to_reset_title": "Bạn có chắc muốn reset điểm thuộc tính?",
     "reset_cancel": "Không reset điểm thuộc tính",
     "mana_points": "Mana Points",
-    "energy_points": "Energy Points"
+    "energy_points": "Energy Points",
+    "character_resources": "Character Resources"
   },
   "economic": {
     "sell_for_x": "Bạn đã bán vật phẩm của bạn với giá %dG",
