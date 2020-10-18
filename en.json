@@ -164,6 +164,39 @@
     "up_success_unlock": "The talent %s is now unlocked",
     "up_success_unlock_skills": "The following skills are now unlocked: %s"
   },
+  "skills": {
+    "damage_information": "Damage Information",
+    "damage_type": "Damage Type",
+    "formula": "Formula",
+    "hpDame": "Damage to Hp",
+    "manaDamage": "Damage to Mp",
+    "lifeSteal": "Life Steal",
+    "manaSteal": "Mana Steal",
+    "healHp": "Heal",
+    "healMp": "Regenerate Mp",
+    "variance": "Variance",
+    "number_of_targets": "Number of targets",
+    "success_rate": "Success Rate",
+    "required_preparation_points" : "Required Prepration Points"
+  },
+  "effects": {
+    "type":  "Effect Type",
+    "hpHeal": "Heal",
+    "manaHeal": "Regenerate Mp",
+    "energyHeal": "Regenerate Energy",
+    "addState": "Add Status",
+    "removeState": "Remove Status"
+  },
+  "elements": {
+    "type":  "Element Type"
+    "physical": "Physical",
+    "fire": "Fire",
+    "water": "Water",
+    "earth": "Earth",
+    "air": "Air",
+    "dark": "Dark",
+    "light": "Light"
+  }
   "craft": {
     "header_required": "Name - Type - Subtype - Rarity - Number",
     "header_craft_list": "ID - Name - Type - Minimum Lvl. - Maximum Lvl. - Rarity",
@@ -298,7 +331,10 @@
     "and": "and",
     "aquired": "Aquired",
     "unlockable": "Unlockable",
-    "locked": "Locked"
+    "locked": "Locked",
+    "equipable": "Equipable",
+    "yes": "Yes",
+    "no":  "No"
   },
   "guild": {
     "you_dont_have_a_guild": "You don't have a guild",
