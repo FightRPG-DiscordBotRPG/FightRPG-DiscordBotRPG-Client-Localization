@@ -188,7 +188,7 @@
     "removeState": "Remove Status"
   },
   "elements": {
-    "type":  "Element Type"
+    "type":  "Element Type",
     "physical": "Physical",
     "fire": "Fire",
     "water": "Water",
