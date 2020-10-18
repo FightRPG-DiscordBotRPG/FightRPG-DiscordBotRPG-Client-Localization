@@ -196,7 +196,7 @@
     "air": "Air",
     "dark": "Dark",
     "light": "Light"
-  }
+  },
   "craft": {
     "header_required": "Name - Type - Subtype - Rarity - Number",
     "header_craft_list": "ID - Name - Type - Minimum Lvl. - Maximum Lvl. - Rarity",
