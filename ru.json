@@ -151,7 +151,22 @@
     "talents_node_not_reachable": "This talent is not reachable",
     "talents_not_enough_points": "You don't have enough talent points",
     "talents_already_unlocked": "You've already unlocked that talent",
-    "skill_show_dont_exist": "This skill doesn't exist"
+    "skill_show_dont_exist": "That skill doesn't exist",
+    "skill_build_cant_add_more": "You can't add more skills to your skills bar",
+    "skill_build_already_equipped": "That skill is already equipped",
+    "skill_build_not_unlocked": "You have not unlocked this skill",
+    "skill_build_not_equipped": "That skill isn't equipped",
+    "skill_build_incorrect_priority": "Incorrect priority value"
+  },
+  "skills_builds": {
+    "add_success": "You have successfully added the \"%s\" skill to your build",
+    "swap_succes": "Skill priority change successful",
+    "reset_success": "All your skills have been unequipped",
+    "remove_success": "You have successfully removed the \"%s\" skill to your build",
+    "title_show": "All equipped skills (%d/%d)",
+    "maximum_reached": "Maximum number of skill equipped reached",
+    "nothing": "You don't have any skill equipped",
+    "priority": "Cast Order Priority"
   },
   "talents": {
     "header_talents": "Information on all unlocked talent",

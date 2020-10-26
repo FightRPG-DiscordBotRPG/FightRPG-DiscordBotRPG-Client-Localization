@@ -151,7 +151,22 @@
     "talents_node_not_reachable": "Ce talent n'est pas accessible",
     "talents_not_enough_points": "Vous n'avez pas assez de points de talent",
     "talents_already_unlocked": "Vous avez déjà débloqué ce talent",
-    "skill_show_dont_exist": "Cette compétence n'existe pas"
+    "skill_show_dont_exist": "Cette compétence n'existe pas",
+    "skill_build_cant_add_more": "Vous ne pouvez plus ajouter de compétences à votre barre de compétences",
+    "skill_build_already_equipped": "Cette compétence est déjà équipée",
+    "skill_build_not_unlocked": "Vous n'avez pas débloqué cette compétence",
+    "skill_build_not_equipped": "Cette compétence n'est pas équippée",
+    "skill_build_incorrect_priority": "Priorité incorrecte"
+  },
+  "skills_builds": {
+    "add_success": "Vous avez ajouté avec succès la compétence \"%s\" à votre barre de compétences",
+    "swap_succes": "Changement de la priorité de la compétence réalisé avec succès",
+    "reset_success": "Toutes vos compétences ont été déséquipées",
+    "remove_success": "Vous avez enlevé avec succès la compétence \"%s\" de votre barre de compétences",
+    "title_show": "Toutes les compétences equipées (%d/%d)",
+    "maximum_reached": "Nombre maximum de compétences équipées atteint",
+    "nothing": "Vous n'avez aucune compétence équipée",
+    "priority": "Ordre de priorité"
   },
   "talents": {
     "header_talents": "Informations sur tous les talents débloqués",
