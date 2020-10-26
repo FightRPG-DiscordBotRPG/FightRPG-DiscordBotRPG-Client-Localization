@@ -177,7 +177,9 @@
     "x_point_plural": "%d talent points",
     "cost": "Talent Unlocking Cost",
     "up_success_unlock": "The talent %s is now unlocked",
-    "up_success_unlock_skills": "The following skills are now unlocked: %s"
+    "up_success_unlock_skills": "The following skills are now unlocked: %s",
+    "talents_import_successful": "Import successfully completed",
+    "talents_import_not_totally_successful": "The import was only partially done, the following talents were not unlocked: \"%s\". Possible error: %s"
   },
   "skills": {
     "damage_information": "Damage Information",

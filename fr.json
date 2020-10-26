@@ -177,7 +177,9 @@
     "x_point_plural": "%d points de talent",
     "cost": "Coût de déblocage du talent",
     "up_success_unlock": "Le talent %s est désormais débloqué",
-    "up_success_unlock_skills": "Les compétences suivantes sont désormais disponibles: %s"
+    "up_success_unlock_skills": "Les compétences suivantes sont désormais disponibles: %s",
+    "talents_import_successful": "Importation terminée avec succès",
+    "talents_import_not_totally_successful": "L'importation n'a été effectuée qu'en partie, les talents suivants n'ont pas été débloqués: \"%s\". Erreur possible: %s"
   },
   "skills": {
     "damage_information": "Informations sur les dégâts",
