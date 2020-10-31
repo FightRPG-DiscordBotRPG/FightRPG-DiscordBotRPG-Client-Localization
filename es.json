@@ -717,7 +717,7 @@
     "settings_menu_mute": "%s World Bosses notifications"
   },
   "potions": {
-    "drink": "Bebiste: \"%s\"\n",
+    "drink": "Bebiste: \"%s\" %d veces\n",
     "reset_time": "Sientes como tu cansancio desaparece, tu tiempo de espera ha sido reinciado",
     "reduce_time": "Te sientes vigorizado, tu tiempo de espera ha sido reducido en un: %d%"
   },

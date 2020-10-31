@@ -718,7 +718,7 @@
     "settings_menu_mute": "%s notificações de Chefes Globais"
   },
   "potions": {
-    "drink": "Você bebeu: \"%s\"\n",
+    "drink": "Você bebeu: \"%s\" %d times\n",
     "reset_time": "Você sente seu cansaço indo embora, seu tempo de cansaço foi redefinido",
     "reduce_time": "Você se sente revigorado, seu tempo de cansaço foi reduzido em: %d%"
   },
