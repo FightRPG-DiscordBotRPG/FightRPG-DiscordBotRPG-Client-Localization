@@ -688,7 +688,8 @@
     "settings_menu_mute": "%s Thông báo World Bosses"
   },
   "potions": {
-    "drink": "Uống: \"%s\" %d times\n",
+    "drink": "Uống: \"%s\"\n",
+    "drink_plur": "You drank: \"%s\" %d times\n",
     "reset_time": "Sau khi sử dụng bạn đã không còn cảm thấy mệt mỏi",
     "reduce_time": "Bạn cảm thấy khá hơn, cơn mệt mỏi của bạn giảm được: %d%"
   },

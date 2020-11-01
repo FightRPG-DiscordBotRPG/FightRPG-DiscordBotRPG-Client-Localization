@@ -719,7 +719,8 @@
     "settings_menu_mute": "%s World Bosses notifications"
   },
   "potions": {
-    "drink": "You drank: \"%s\" %d times\n",
+    "drink": "You drank: \"%s\"\n",
+    "drink_plur": "You drank: \"%s\" %d times\n",
     "reset_time": "You feel your tiredness leaving, your tiredness time has been reset",
     "reduce_time": "You feel invigorated, your tiredness time has been reduced by: %d%"
   },

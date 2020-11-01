@@ -718,7 +718,8 @@
     "settings_menu_mute": "%s les notifications en rapport avec les boss mondiaux"
   },
   "potions": {
-    "drink": "Vous avez bu : \"%s\" %d fois\n",
+    "drink": "Vous avez bu : \"%s\"\n",
+    "drink_plur": "Vous avez bu : \"%s\" %d fois\n",
     "reset_time": "Vous sentez votre fatigue partir, votre temps de fatigue a été réinitialisé",
     "reduce_time": "Vous vous sentez revigoré, votre temps de fatigue à été réduit de : %d%"
   },
