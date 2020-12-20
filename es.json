@@ -840,6 +840,7 @@
     "tremove": "Quitar uno o mas objetos del intercambio",
     "tsetmoney": "Establecer la cantidad de oro que quieres intercambiar",
     "tvalidate": "Aceptar el intercambio. Debes estar en el mismo área que la persona con quien estás intercambiando. Cuando los dos acepten, el intercambio termina. Todos deben volver a aceptar el intercambio despues de que se hagan cambios",
+    "talents_title": "Talents/Skill Tree",
     "talents": "Displays information on unlocked and unlockable talents",
     "talentshow": "Displays talent information with the <idTalent> identifier",
     "talentup": "Unlocks the talent with the <idTalent> identifier",

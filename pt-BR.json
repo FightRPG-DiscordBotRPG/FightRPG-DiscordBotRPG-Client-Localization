@@ -841,6 +841,7 @@
     "tremove": "Remove um ou mais itens da troca",
     "tsetmoney": "Define a quantia de ouro que você quer oferecer",
     "tvalidate": "Valida a troca. Você precisa estar na mesma área que a pessoa com quem está negociando. Quando ambos validarem, a troca é efetuada. Todos precisam re-validar a troca após mudanças serem feitas",
+    "talents_title": "Talents/Skill Tree",
     "talents": "Displays information on unlocked and unlockable talents",
     "talentshow": "Displays talent information with the <idTalent> identifier",
     "talentup": "Unlocks the talent with the <idTalent> identifier",

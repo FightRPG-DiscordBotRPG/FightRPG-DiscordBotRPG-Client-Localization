@@ -841,6 +841,7 @@
     "tremove": "Supprime un ou plusieurs objets de l'échange",
     "tsetmoney": "Défini le montant d'argent que vous mettez dans l'échange",
     "tvalidate": "Valide l'échange. Vous devez être dans la même zone que la personne avec qui vous faites l'échange. Quand vous avez tous les deux validé, l'échange est fini. Tout le monde doit revalider la transaction si des changements sont effectués",
+    "talents_title": "Talents/Arbre de Compétence",
     "talents": "Affiche les informations sur les talents débloqués et déblocables",
     "talentshow": "Affiche les informations du talent avec l'identifiant <idTalent>",
     "talentup": "Débloque le talent avec l'identifiant <idTalent>",
