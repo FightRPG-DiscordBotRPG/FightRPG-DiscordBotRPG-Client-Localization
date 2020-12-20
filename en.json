@@ -841,7 +841,18 @@
     "tadd": "Add one or more item using <idItemInInventory> to the trade",
     "tremove": "Remove one or more item from the trade",
     "tsetmoney": "Set the amount of gold you want to trade",
-    "tvalidate": "Validates the trade. You must be in the same area as the person you are trading with. When you both validated, the trade is over. Everyone must re-validate the trade after changes were made"
+    "tvalidate": "Validates the trade. You must be in the same area as the person you are trading with. When you both validated, the trade is over. Everyone must re-validate the trade after changes were made",
+    "talents": "Displays information on unlocked and unlockable talents",
+    "talentshow": "Displays talent information with the <idTalent> identifier",
+    "talentup": "Unlocks the talent with the <idTalent> identifier",
+    "skillshow": "Displays the information of the skill with the identifier <idSkill>",
+    "buildshow": "Displays your skill bar",
+    "buildadd": "Adds the skill with the <idSkill> identifier to your skill bar",
+    "buildremove": "Removes the skill with the <idSkill> identifier from your skill bar",
+    "buildmove": "Moves the skill with the <idSkill> identifier from your skill bar to the <slotNumber> slot",
+    "buildclear": "Removes all skills from your skill bar",
+    "talentexport": "Export your talents",
+    "talentimport": "Imports talent"
   },
   "settings_menu": {
     "title": "Settings"

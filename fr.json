@@ -840,7 +840,18 @@
     "tadd": "Ajoute un ou plusieurs objets <idItemInInventory> à l'échange",
     "tremove": "Supprime un ou plusieurs objets de l'échange",
     "tsetmoney": "Défini le montant d'argent que vous mettez dans l'échange",
-    "tvalidate": "Valide l'échange. Vous devez être dans la même zone que la personne avec qui vous faites l'échange. Quand vous avez tous les deux validé, l'échange est fini. Tout le monde doit revalider la transaction si des changements sont effectués"
+    "tvalidate": "Valide l'échange. Vous devez être dans la même zone que la personne avec qui vous faites l'échange. Quand vous avez tous les deux validé, l'échange est fini. Tout le monde doit revalider la transaction si des changements sont effectués",
+    "talents": "Affiche les informations sur les talents débloqués et déblocables",
+    "talentshow": "Affiche les informations du talent avec l'identifiant <idTalent>",
+    "talentup": "Débloque le talent avec l'identifiant <idTalent>",
+    "skillshow": "Affiche les informations de la compétence avec l'identifiant <idSkill>",
+    "buildshow": "Affiche votre barre de compétence",
+    "buildadd": "Ajoute la compétence avec l'identifiant <idSkill> à votre barre de compétence",
+    "buildremove": "Retire la compétence avec l'identifiant <idSkill> de votre barre de compétence",
+    "buildmove": "Déplace la compétence avec l'identifiant <idSkill> de votre barre de compétence vers l'emplacement <slotNumber>",
+    "buildclear": "Retire toutes les compétences de votre barre de compétence",
+    "talentexport": "Exporte vos talent",
+    "talentimport": "Importe des talents"
   },
   "settings_menu": {
     "title": "Paramètres"

@@ -839,7 +839,18 @@
     "tadd": "Añadir un objeto mas usando  <idObjetoEnInventario> al intercambio",
     "tremove": "Quitar uno o mas objetos del intercambio",
     "tsetmoney": "Establecer la cantidad de oro que quieres intercambiar",
-    "tvalidate": "Aceptar el intercambio. Debes estar en el mismo área que la persona con quien estás intercambiando. Cuando los dos acepten, el intercambio termina. Todos deben volver a aceptar el intercambio despues de que se hagan cambios"
+    "tvalidate": "Aceptar el intercambio. Debes estar en el mismo área que la persona con quien estás intercambiando. Cuando los dos acepten, el intercambio termina. Todos deben volver a aceptar el intercambio despues de que se hagan cambios",
+    "talents": "Displays information on unlocked and unlockable talents",
+    "talentshow": "Displays talent information with the <idTalent> identifier",
+    "talentup": "Unlocks the talent with the <idTalent> identifier",
+    "skillshow": "Displays the information of the skill with the identifier <idSkill>",
+    "buildshow": "Displays your skill bar",
+    "buildadd": "Adds the skill with the <idSkill> identifier to your skill bar",
+    "buildremove": "Removes the skill with the <idSkill> identifier from your skill bar",
+    "buildmove": "Moves the skill with the <idSkill> identifier from your skill bar to the <slotNumber> slot",
+    "buildclear": "Removes all skills from your skill bar",
+    "talentexport": "Export your talents",
+    "talentimport": "Imports talent"
   },
   "settings_menu": {
     "title": "Ajustes"

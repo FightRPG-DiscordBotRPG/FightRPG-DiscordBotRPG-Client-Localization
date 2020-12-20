@@ -840,7 +840,18 @@
     "tadd": "Adiciona um ou mais itens usando <idItemNoInventário> à troca",
     "tremove": "Remove um ou mais itens da troca",
     "tsetmoney": "Define a quantia de ouro que você quer oferecer",
-    "tvalidate": "Valida a troca. Você precisa estar na mesma área que a pessoa com quem está negociando. Quando ambos validarem, a troca é efetuada. Todos precisam re-validar a troca após mudanças serem feitas"
+    "tvalidate": "Valida a troca. Você precisa estar na mesma área que a pessoa com quem está negociando. Quando ambos validarem, a troca é efetuada. Todos precisam re-validar a troca após mudanças serem feitas",
+    "talents": "Displays information on unlocked and unlockable talents",
+    "talentshow": "Displays talent information with the <idTalent> identifier",
+    "talentup": "Unlocks the talent with the <idTalent> identifier",
+    "skillshow": "Displays the information of the skill with the identifier <idSkill>",
+    "buildshow": "Displays your skill bar",
+    "buildadd": "Adds the skill with the <idSkill> identifier to your skill bar",
+    "buildremove": "Removes the skill with the <idSkill> identifier from your skill bar",
+    "buildmove": "Moves the skill with the <idSkill> identifier from your skill bar to the <slotNumber> slot",
+    "buildclear": "Removes all skills from your skill bar",
+    "talentexport": "Export your talents",
+    "talentimport": "Imports talent"
   },
   "settings_menu": {
     "title": "Configurações"
