@@ -156,7 +156,14 @@
     "skill_build_already_equipped": "That skill is already equipped",
     "skill_build_not_unlocked": "You have not unlocked this skill",
     "skill_build_not_equipped": "That skill isn't equipped",
-    "skill_build_incorrect_priority": "Incorrect priority value"
+    "skill_build_incorrect_priority": "Incorrect priority value",
+    "antispam_remaining": "Challenge failed (%d tries left before being ban for %s minutes)",
+    "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes..."
+  },
+  "antispam": {
+    "title": "Anti-Spam Challenge",
+    "select_emoji": "Select the %s emoji to continue playing.",
+    "success": "Challenge successfully passed!"
   },
   "skills_builds": {
     "add_success": "You have successfully added the \"%s\" skill to your build",
