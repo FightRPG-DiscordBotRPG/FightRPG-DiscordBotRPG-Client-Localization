@@ -157,7 +157,7 @@
     "skill_build_not_unlocked": "Vous n'avez pas débloqué cette compétence",
     "skill_build_not_equipped": "Cette compétence n'est pas équippée",
     "skill_build_incorrect_priority": "Priorité incorrecte",
-    "antispam_remaining": "Challenge raté (%d essais restants avant d'être bannis pour %s minutes)",
+    "antispam_remaining": "Challenge raté (%d essais restants avant d'être banni pour %s minutes)",
     "antispam_end": "Challenge raté, il ne vous reste plus d'essais restant, vous ne pouvez plus jouer pendant %s minutes."
   },
   "antispam": {
