@@ -157,13 +157,14 @@
     "skill_build_not_unlocked": "Vous n'avez pas débloqué cette compétence",
     "skill_build_not_equipped": "Cette compétence n'est pas équippée",
     "skill_build_incorrect_priority": "Priorité incorrecte",
-    "antispam_remaining": "Challenge failed (%d tries left before being ban for %s minutes)",
-    "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes..."
+    "antispam_remaining": "Challenge raté (%d essais restants avant d'être bannis pour %s minutes)",
+    "antispam_end": "Challenge raté, il ne vous reste plus d'essais restant, vous ne pouvez plus jouer pendant %s minutes."
   },
   "antispam": {
-    "title": "Anti-Spam Challenge",
-    "select_emoji": "Select the %s emoji to continue playing.",
-    "success": "Challenge successfully passed!"
+    "title": "Challenge Anti-Spam",
+    "select_emoji": "Selectionner l'émoji %s pour continuer de jouer.",
+    "success": "Challenge réussi avec succès!",
+    "in_progress": "Vous avez un challenge en cours, vous devez le résoudre pour pouvoir continuer de jouer."
   },
   "skills_builds": {
     "add_success": "Vous avez ajouté avec succès la compétence \"%s\" à votre barre de compétences",

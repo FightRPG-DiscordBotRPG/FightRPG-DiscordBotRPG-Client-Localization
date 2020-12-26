@@ -163,7 +163,8 @@
   "antispam": {
     "title": "Anti-Spam Challenge",
     "select_emoji": "Select the %s emoji to continue playing.",
-    "success": "Challenge successfully passed!"
+    "success": "Challenge successfully passed!",
+    "in_progress": "You have a challenge in progress, you must resolve it to continue playing."
   },
   "skills_builds": {
     "add_success": "You have successfully added the \"%s\" skill to your build",
