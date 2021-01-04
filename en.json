@@ -599,7 +599,8 @@
     "results_gain": "Gain:",
     "results_health_points": "%d hp.",
     "results_mana_points": "%d mp.",
-    "results_energy_points": "%d energy."
+    "results_energy_points": "%d energy.",
+    "cant_do_anything": "Can't do anything"
   },
   "rarities": {
     "common": "Common",

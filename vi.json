@@ -593,7 +593,8 @@
     "now_unmuted": "Bật thông báo trận chiến",
     "settings_menu_mute": "%s thông báo trận chiến",
     "status_of_fight": "Trạng thái: %s",
-    "battle_ongoing": "Đang chiến đấu!"
+    "battle_ongoing": "Đang chiến đấu!",
+    "cant_do_anything": "Can't do anything"
   },
   "rarities": {
     "common": "Thường",
