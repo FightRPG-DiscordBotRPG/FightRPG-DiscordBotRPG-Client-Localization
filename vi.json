@@ -160,6 +160,9 @@
     "antispam_remaining": "Challenge failed (%d tries left before being ban for %s minutes)",
     "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes..."
   },
+  "lootbox": {
+    "contains": "This loot box may contain %d of the following items:"
+  },
   "antispam": {
     "title": "Anti-Spam Challenge",
     "select_emoji": "Select the %s emoji to continue playing.",

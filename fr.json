@@ -160,6 +160,9 @@
     "antispam_remaining": "Challenge raté (%d essais restants avant d'être banni pour %s minutes)",
     "antispam_end": "Challenge raté, il ne vous reste plus d'essais restant, vous ne pouvez plus jouer pendant %s minutes."
   },
+  "lootbox": {
+    "contains": "Cette boite à butin peut contenir %d des éléments suivants:"
+  },
   "antispam": {
     "title": "Challenge Anti-Spam",
     "select_emoji": "Selectionner l'émoji %s pour continuer de jouer.",
