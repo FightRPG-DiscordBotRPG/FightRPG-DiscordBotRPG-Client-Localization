@@ -205,7 +205,8 @@
     "variance": "Variance",
     "number_of_targets": "Nombre de cibles",
     "success_rate": "Taux de réussite",
-    "required_preparation_points": "Points de préparation requis"
+    "required_preparation_points": "Points de préparation requis",
+    "no_desc": "Pas de description pour cette compétence"
   },
   "effects": {
     "type": "Type d'effet",

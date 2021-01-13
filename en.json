@@ -205,7 +205,8 @@
     "variance": "Variance",
     "number_of_targets": "Number of targets",
     "success_rate": "Success Rate",
-    "required_preparation_points": "Required Prepration Points"
+    "required_preparation_points": "Required Prepration Points",
+    "no_desc": "No description for skill"
   },
   "effects": {
     "type": "Effect Type",
