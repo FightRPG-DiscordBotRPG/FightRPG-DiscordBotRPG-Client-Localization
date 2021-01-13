@@ -696,7 +696,8 @@
     "earthResist": "Earth Resist",
     "airResist": "Air Resist",
     "darkResist": "Dark Resist",
-    "lightResist": "Light Resist"
+    "lightResist": "Light Resist",
+    "initiative": "Initiative"
   },
   "lootboxes": {
     "open_message": "Você abriu uma caixa de espólios, você ganhou:\n",

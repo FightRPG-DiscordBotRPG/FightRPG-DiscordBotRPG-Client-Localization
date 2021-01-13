@@ -695,7 +695,8 @@
     "earthResist": "Earth Resist",
     "airResist": "Air Resist",
     "darkResist": "Dark Resist",
-    "lightResist": "Light Resist"
+    "lightResist": "Light Resist",
+    "initiative": "Initiative"
   },
   "lootboxes": {
     "open_message": "Abriste una caja, obtienes:\n",

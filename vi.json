@@ -654,7 +654,13 @@
     "energy_potion": "Toning Potion",
     "salamander": "Salamander",
     "camel": "Lạc đà",
-    "polar_bear": "Gấu bắc cực"
+    "polar_bear": "Gấu bắc cực",
+    "cloth": "Cloth",
+    "leather": "Leather",
+    "bow": "Bow",
+    "dagger": "Dagger",
+    "wand": "Wand",
+    "staff": "Staff"
   },
   "stats": {
     "strength": "Str",
@@ -666,7 +672,26 @@
     "will": "Will",
     "perception": "Per",
     "charisma": "Cha",
-    "luck": "Luck"
+    "luck": "Luck",
+    "hitRate": "Hit Rate",
+    "evadeRate": "Physical Evade Rate",
+    "criticalRate": "Critical Rate",
+    "regenHp": "Regen HP",
+    "regenMp": "Regen MP",
+    "regenEnergy": "Regen Energy",
+    "skillManaCost": "Skill Mana Cost",
+    "skillEnergyCost": "Skill Energy Cost",
+    "criticalEvadeRate": "Critical Evade Rate",
+    "magicalEvadeRate": "Magical Evade Rate",
+    "threat": "Threat",
+    "physicalResist": "Physical Resist",
+    "fireResist": "Fire Resist",
+    "waterResist": "Water Resist",
+    "earthResist": "Earth Resist",
+    "airResist": "Air Resist",
+    "darkResist": "Dark Resist",
+    "lightResist": "Light Resist",
+    "initiative": "Initiative"
   },
   "lootboxes": {
     "open_message": "Bạn đã mở một loot box, nhận được:\n",

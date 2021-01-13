@@ -696,8 +696,8 @@
     "earthResist": "Earth Resist",
     "airResist": "Air Resist",
     "darkResist": "Dark Resist",
-    "lightResist": "Light Resist"
-
+    "lightResist": "Light Resist",
+    "initiative":  "Initiative"
   },
   "lootboxes": {
     "open_message": "You opened a loot box, you get:\n",

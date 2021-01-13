@@ -696,7 +696,8 @@
     "earthResist": "Résistance Terre",
     "airResist": "Résistance Air",
     "darkResist": "Résistance Ténèbres",
-    "lightResist": "Résistance Lumière"
+    "lightResist": "Résistance Lumière",
+    "initiative": "Initiative"
   },
   "lootboxes": {
     "open_message": "Vous avez ouvert un coffre à butin, vous obtenez :\n",
