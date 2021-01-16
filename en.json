@@ -729,7 +729,8 @@
     "boss_already_dead": "This world boss is already dead",
     "now_unmuted": "World Bosses notifications are now activated",
     "now_muted": "World Bosses notifications are now deactivated",
-    "settings_menu_mute": "%s World Bosses notifications"
+    "settings_menu_mute": "%s World Bosses notifications",
+    "skill_used":  "Skill Used"
   },
   "potions": {
     "drink": "You drank: \"%s\"\n",

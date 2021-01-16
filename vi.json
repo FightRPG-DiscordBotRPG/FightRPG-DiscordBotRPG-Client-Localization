@@ -723,7 +723,8 @@
     "boss_already_dead": "World Boss đã chết",
     "now_unmuted": "Thông báo World Bosses Bật",
     "now_muted": "Tắt thông báo World Bosses",
-    "settings_menu_mute": "%s Thông báo World Bosses"
+    "settings_menu_mute": "%s Thông báo World Bosses",
+    "skill_used": "Skill Used"
   },
   "potions": {
     "drink": "Uống: \"%s\"\n",
