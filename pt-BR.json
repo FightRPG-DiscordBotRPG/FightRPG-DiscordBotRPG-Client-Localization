@@ -363,7 +363,8 @@
     "locked": "Locked",
     "equipable": "Equipable",
     "yes": "Yes",
-    "no": "No"
+    "no": "No",
+    "mobile_set": "Mobile Detection Mode: %s. Is user on mobile: %s"
   },
   "guild": {
     "you_dont_have_a_guild": "Você não tem uma guilda",

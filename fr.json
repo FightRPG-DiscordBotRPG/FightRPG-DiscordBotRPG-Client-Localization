@@ -363,7 +363,8 @@
     "locked": "Verrouilé",
     "equipable": "Équipable",
     "yes": "Oui",
-    "no": "Non"
+    "no": "Non",
+    "mobile_set": "Mode de détection d'affichage réduit: %s. L'utilisateur utilise un affichage réduit: %s"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",
