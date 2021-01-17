@@ -65,6 +65,7 @@
     "item_you_cant_use": "Você não pode usar este item",
     "item_enter_id_to_use": "Você precisa digitar o ID do item para usar.",
     "character_you_dont_have_enough_to_reset": "Você não tem dinheiro suficiente para redefinir seus atributos!",
+    "character_you_dont_have_enough_to_reset_talents": "You don't have enough money to reset your talents!",
     "economic_enter_id_item_to_sell": "Você precisa digitar o ID do item para vendê-lo",
     "economic_have_to_be_in_town": "Você precisa estar em uma cidade para vender seus itens",
     "economic_cant_sell_nothing": "Nada para vender! Todos itens estão protegidos, nenhum corresponde ou seu inventário está vazio",
