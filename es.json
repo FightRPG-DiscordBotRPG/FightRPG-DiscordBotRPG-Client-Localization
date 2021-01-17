@@ -520,6 +520,8 @@
     "reset_price_title": "Reiniciando tus atributos",
     "sure_to_reset_title": "Estas seguro de reiniciar tus atributos?",
     "reset_cancel": "Cancelaste tu reinicio de atributos",
+    "sure_to_reset_talents_title": "Are you sure to reset your talents?",
+    "reset_talents_cancel": "You've cancelled your talents reset",
     "mana_points": "Mana Points",
     "energy_points": "Energy Points"
   },
@@ -770,6 +772,7 @@
     "up": "Añade al atributo seleccionado el numero de puntos especificados (ejemplo:up str 5)",
     "leaderboard": "Muestra tu Clasificación según su tipo (arena, gold, level, craftlevel, power)",
     "reset": "Te permite reiniciar tus atributos",
+    "resettalents": "Allows you to reset your talents",
     "fight_title": "Batallas",
     "fight": "Te permite intentar atacar al monstruo/monstruos seleccionado/seleccionados",
     "grpfight": "Te permite intentar atacar al monstruo/monstruos seleccionado/seleccionados con tu grupo",

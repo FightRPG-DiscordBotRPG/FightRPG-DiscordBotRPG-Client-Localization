@@ -520,6 +520,8 @@
     "reset_price_title": "Reseting your attributes",
     "sure_to_reset_title": "Are you sure to reset your attributes?",
     "reset_cancel": "You've cancelled your attributes reset",
+    "sure_to_reset_talents_title": "Are you sure to reset your talents?",
+    "reset_talents_cancel": "You've cancelled your talents reset",
     "mana_points": "Mana Points",
     "energy_points": "Energy Points",
     "character_resources": "Character Resources"
@@ -771,6 +773,7 @@
     "up": "Добавляет к характеристике statName количество Очков",
     "leaderboard": "Shows your ranking based on the argument (arena, gold, level, craftlevel, power)",
     "reset": "Позволяет сбросить характеристики",
+    "resettalents": "Allows you to reset your talents",
     "fight_title": "Сражения",
     "fight": "Позволяет попробовать атаковать выбранного монстра/монстров",
     "grpfight": "Позволяет вам попытаться атаковать выбранного монстра / монстров с вашей группой",

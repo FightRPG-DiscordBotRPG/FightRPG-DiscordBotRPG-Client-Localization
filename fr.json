@@ -520,6 +520,8 @@
     "reset_price_title": "Réinitialiser vos attributs",
     "sure_to_reset_title": "Êtes-vous sûr de vouloir réinitialiser vos attributs ?",
     "reset_cancel": "Vous avez annulé la réinitialisation de vos attributs",
+    "sure_to_reset_talents_title": "Êtes-vous sûr de vouloir réinitialiser vos talents ?",
+    "reset_talents_cancel": "Vous avez annulé la réinitialisation de vos talents",
     "mana_points": "Points de Mana",
     "energy_points": "Points d'Energie",
     "character_resources": "Ressources du Personnage"
@@ -771,6 +773,7 @@
     "up": "Ajoute à la caractéristique statName number Points",
     "leaderboard": "Affiche ton rang en fonction de l'argument choisi (arena, gold, level, craftlevel, power)",
     "reset": "Te permet de réinitialiser tes caractéristiques",
+    "resettalents": "Te permet de réinitialiser tes talents",
     "fight_title": "Combats",
     "fight": "Permet de tenter d'attaquer le/les monstres choisis",
     "grpfight": "Permet d'attaquer avec son groupe le/les montres choisis",

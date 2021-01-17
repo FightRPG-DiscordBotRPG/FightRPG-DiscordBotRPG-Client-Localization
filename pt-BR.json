@@ -520,6 +520,8 @@
     "reset_price_title": "Redefinindo seus atributos",
     "sure_to_reset_title": "Você tem certeza que deseja redefinir seus atributos?",
     "reset_cancel": "Você cancelou sua redefinição de atributos",
+    "sure_to_reset_talents_title": "Are you sure to reset your talents?",
+    "reset_talents_cancel": "You've cancelled your talents reset",
     "mana_points": "Mana Points",
     "energy_points": "Energy Points",
     "character_resources": "Character Resources"
@@ -771,6 +773,7 @@
     "up": "Adiciona ao atributo <statName> um número de Pontos",
     "leaderboard": "Mostra sua classificação baseado no argumento (arena, gold, level, craftlevel, power)",
     "reset": "Lhe permite redefinir seus atributos",
+    "resettalents": "Allows you to reset your talents",
     "fight_title": "Lutas",
     "fight": "Lhe permite tentar atacar o(s) monstro(s) selecionado(s)",
     "grpfight": "Lhe permite tentar atacar o(s) monstro(s) selecionado(s) com seu grupo",

@@ -520,6 +520,8 @@
     "reset_price_title": "Reseting your attributes",
     "sure_to_reset_title": "Are you sure to reset your attributes?",
     "reset_cancel": "You've cancelled your attributes reset",
+    "sure_to_reset_talents_title": "Are you sure to reset your talents?",
+    "reset_talents_cancel": "You've cancelled your talents reset",
     "mana_points": "Mana Points",
     "energy_points": "Energy Points",
     "character_resources": "Character Resources"
@@ -771,6 +773,7 @@
     "up": "Adds to attribute statName number Points",
     "leaderboard": "Shows your ranking based on the argument (arena, gold, level, craftlevel, power)",
     "reset": "Allows you to reset your attributes",
+    "resettalents": "Allows you to reset your talents",
     "fight_title": "Fights",
     "fight": "Allows you to try to attack the selected monster/monsters",
     "grpfight": "Allow you to try to attack the selected monster/monsters with your group",
@@ -869,7 +872,7 @@
     "buildclear": "Removes all skills from your skill bar",
     "talentexport": "Export your talents",
     "talentimport": "Imports talent",
-    "setmobile":  "Activate or deactivate the mobile friendly display mode. \"Arg\" could be: yes or no"
+    "setmobile": "Activate or deactivate the mobile friendly display mode. \"Arg\" could be: yes or no"
   },
   "settings_menu": {
     "title": "Settings"

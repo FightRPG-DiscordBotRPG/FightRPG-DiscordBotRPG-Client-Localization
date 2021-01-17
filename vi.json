@@ -521,6 +521,8 @@
     "reset_price_title": "Thông tin reset thuộc tính",
     "sure_to_reset_title": "Bạn có chắc muốn reset điểm thuộc tính?",
     "reset_cancel": "Không reset điểm thuộc tính",
+    "sure_to_reset_talents_title": "Are you sure to reset your talents?",
+    "reset_talents_cancel": "You've cancelled your talents reset",
     "mana_points": "Mana Points",
     "energy_points": "Energy Points",
     "character_resources": "Character Resources"
@@ -765,6 +767,7 @@
     "up": "Adds to attribute statName number Points",
     "leaderboard": "Shows your ranking based on the argument (arena, gold, level, craftlevel, power)",
     "reset": "Allows you to reset your attributes",
+    "resettalents": "Allows you to reset your talents",
     "fight_title": "Fights",
     "fight": "Allows you to try to attack the selected monster/monsters",
     "grpfight": "Allow you to try to attack the selected monster/monsters with your group",
