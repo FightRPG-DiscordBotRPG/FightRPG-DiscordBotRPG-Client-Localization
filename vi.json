@@ -551,7 +551,7 @@
     "sure_to_travel_body": "%s → Có\n%s → Không",
     "travel_cancel": "Bạn đã hủy bỏ di chuyển",
     "total_without_weather": "Thời gian di chuyển khi không bị thời tiết ảnh hưởng",
-    "tavel_cancel_easter_egg": "You were about to head off, but got lazy and decided to stay. Maybe you're bipolar?"
+    "travel_cancel_easter_egg": "You were about to head off, but got lazy and decided to stay. Maybe you're bipolar?"
   },
   "fight_pve": {
     "ganked_by_monster": "Do ẩn nấp kém nên quái vật đã phát hiện và tấn công bạn! (Tăng Per sẽ giúp ẩn nấp tốt hơn)",

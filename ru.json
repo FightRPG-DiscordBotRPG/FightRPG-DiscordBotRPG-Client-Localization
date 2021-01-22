@@ -550,7 +550,7 @@
     "sure_to_travel_body": "%s → да\n%s → Нет",
     "travel_cancel": "Вы отменили свою поездку",
     "total_without_weather": "Total travel time without weather impact",
-    "tavel_cancel_easter_egg": "You were about to head off, but got lazy and decided to stay. Maybe you're bipolar?"
+    "travel_cancel_easter_egg": "You were about to head off, but got lazy and decided to stay. Maybe you're bipolar?"
   },
   "fight_pve": {
     "ganked_by_monster": "Вы не были достаточно скрытными, монстр нападает на вас! (Вам нужно больше восприятия)",

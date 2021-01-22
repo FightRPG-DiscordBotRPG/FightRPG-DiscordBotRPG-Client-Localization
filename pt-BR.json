@@ -550,7 +550,7 @@
     "sure_to_travel_body": "%s → Sim\n%s → Não",
     "travel_cancel": "Você cancelou sua viagem",
     "total_without_weather": "Tempo total de viagem sem impacto de clima",
-    "tavel_cancel_easter_egg": "You were about to head off, but got lazy and decided to stay. Maybe you're bipolar?"
+    "travel_cancel_easter_egg": "You were about to head off, but got lazy and decided to stay. Maybe you're bipolar?"
   },
   "fight_pve": {
     "ganked_by_monster": "Você não foi discreto o suficiente, um monstro está te atacando! (Você precisa de mais percepção)",
