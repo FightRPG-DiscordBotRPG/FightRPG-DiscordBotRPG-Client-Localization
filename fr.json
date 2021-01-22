@@ -65,6 +65,7 @@
     "item_you_cant_use": "Vous ne pouvez pas utiliser cet objet",
     "item_enter_id_to_use": "Vous devez entrer l'id de l'objet à utiliser.",
     "character_you_dont_have_enough_to_reset": "Vous n'avez pas assez d'argent pour réinitialiser vos stats !",
+    "character_you_dont_have_enough_to_reset_talents": "Vous n'avez pas assez d'argent pour réinitialiser vos talents !",
     "economic_enter_id_item_to_sell": "Vous devez entrer l'ID de l'objet à vendre",
     "economic_have_to_be_in_town": "Vous devez être dans une ville pour pouvoir vendre vos objets",
     "economic_cant_sell_nothing": "Rien à vendre ! Tous vos objets sont protégés, aucune correspondance ou votre inventaire est vide",
@@ -145,7 +146,86 @@
     "trade_not_enough_money": "Vous n'avez pas autant d'argent à mettre dans l'échange",
     "trade_unable_find_item": "Impossible de trouver cet objet",
     "trade_not_accepted": "L'autre personne doit accepter l'échange avant que vous puissiez faire cette action",
-    "travel_area_cant_travel": "Vous ne pouvez pas vous rendre dans cette zone"
+    "travel_area_cant_travel": "Vous ne pouvez pas vous rendre dans cette zone",
+    "talents_show_missing_id": "Veuillez entrer l'identifiant du talent",
+    "talents_show_node_dont_exist": "Ce talent n'existe pas",
+    "talents_node_not_reachable": "Ce talent n'est pas accessible",
+    "talents_not_enough_points": "Vous n'avez pas assez de points de talent",
+    "talents_already_unlocked": "Vous avez déjà débloqué ce talent",
+    "skill_show_dont_exist": "Cette compétence n'existe pas",
+    "skill_build_cant_add_more": "Vous ne pouvez plus ajouter de compétences à votre barre de compétences",
+    "skill_build_already_equipped": "Cette compétence est déjà équipée",
+    "skill_build_not_unlocked": "Vous n'avez pas débloqué cette compétence",
+    "skill_build_not_equipped": "Cette compétence n'est pas équippée",
+    "skill_build_incorrect_priority": "Priorité incorrecte",
+    "antispam_remaining": "Challenge raté (%d essais restants avant d'être banni pour %s minutes)",
+    "antispam_end": "Challenge raté, il ne vous reste plus d'essais restant, vous ne pouvez plus jouer pendant %s minutes."
+  },
+  "lootbox": {
+    "contains": "Cette boite à butin peut contenir %d des éléments suivants:"
+  },
+  "antispam": {
+    "title": "Challenge Anti-Spam",
+    "select_emoji": "Selectionner l'émoji %s pour continuer de jouer.",
+    "success": "Challenge réussi avec succès!",
+    "in_progress": "Vous avez un challenge en cours, vous devez le résoudre pour pouvoir continuer de jouer."
+  },
+  "skills_builds": {
+    "add_success": "Vous avez ajouté avec succès la compétence \"%s\" à votre barre de compétences",
+    "swap_succes": "Changement de la priorité de la compétence réalisé avec succès",
+    "reset_success": "Toutes vos compétences ont été déséquipées",
+    "remove_success": "Vous avez enlevé avec succès la compétence \"%s\" de votre barre de compétences",
+    "title_show": "Toutes les compétences equipées (%d/%d)",
+    "maximum_reached": "Nombre maximum de compétences équipées atteint",
+    "nothing": "Vous n'avez aucune compétence équipée",
+    "priority": "Ordre de priorité"
+  },
+  "talents": {
+    "header_talents": "Informations sur tous les talents débloqués",
+    "unlocked_skills": "Compétences disponibles",
+    "reachable_talents_ids": "Identifiants des talents accessibles",
+    "unlockable_skills": "Compétences déblocables",
+    "x_point": "%d point de talent",
+    "x_point_plural": "%d points de talent",
+    "cost": "Coût de déblocage du talent",
+    "up_success_unlock": "Le talent %s est désormais débloqué",
+    "up_success_unlock_skills": "Les compétences suivantes sont désormais disponibles: %s",
+    "talents_import_successful": "Importation terminée avec succès",
+    "talents_import_not_totally_successful": "L'importation n'a été effectuée qu'en partie, les talents suivants n'ont pas été débloqués: \"%s\". Erreur possible: %s"
+  },
+  "skills": {
+    "damage_information": "Informations sur les dégâts",
+    "damage_type": "Type de dégâts",
+    "formula": "Formule",
+    "hpDamage": "Dégâts à la vie",
+    "manaDamage": "Dégâts au mana",
+    "lifeSteal": "Vol de vie",
+    "manaSteal": "Vol de mana",
+    "healHp": "Soigne",
+    "healMp": "Régénère le mana",
+    "variance": "Variance",
+    "number_of_targets": "Nombre de cibles",
+    "success_rate": "Taux de réussite",
+    "required_preparation_points": "Points de préparation requis",
+    "no_desc": "Pas de description pour cette compétence"
+  },
+  "effects": {
+    "type": "Type d'effet",
+    "hpHeal": "Soigne",
+    "manaHeal": "Régénère le mana",
+    "energyHeal": "Régénère l'énergie",
+    "addState": "Ajoute un état",
+    "removeState": "Enlève un état"
+  },
+  "elements": {
+    "type": "Element Type",
+    "physical": "Physical",
+    "fire": "Fire",
+    "water": "Water",
+    "earth": "Earth",
+    "air": "Air",
+    "dark": "Dark",
+    "light": "Light"
   },
   "craft": {
     "header_required": "Nom - Type - Sous-Type - Rareté - Nombre",
@@ -278,7 +358,14 @@
     "disable": "Désactiver",
     "region": "Région",
     "modular": "Modulaire",
-    "and": "et"
+    "and": "et",
+    "aquired": "Obtenu",
+    "unlockable": "Déblocable",
+    "locked": "Verrouilé",
+    "equipable": "Équipable",
+    "yes": "Oui",
+    "no": "Non",
+    "mobile_set": "Mode de détection d'affichage réduit: %s. L'utilisateur utilise un affichage réduit: %s"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",
@@ -339,6 +426,7 @@
     "page_x_out_of": "Page %d/%d",
     "currently_equipped": "Actuellement Equipé",
     "attributes": "Attributs",
+    "secondary_attributes": "Attributs Secondaires",
     "nothing_in_this_slot": "Vous n'avez pas d'objet équipé dans cet emplacement",
     "nothing_equipped": "Vous n'avez pas d'objets d'équipé",
     "power": "Puissance",
@@ -351,13 +439,15 @@
     "sellall_going_to_sell_all": "Tous les objets qui ne sont pas en favori",
     "sellall_going_to_sell_rarity": "Tous les objets de qualité \"%s\" qui ne sont pas marqué comme favori",
     "sellall_going_to_sell_type": "Tous les objets de type \"%s\" qui ne sont pas marqué comme favori",
-    "sellall_going_to_sell_level": "Tous les objets de niveau %d ou supérieur qui ne sont pas marqué comme favori",
+    "sellall_going_to_sell_level_sup": "Tous les objets de niveau %d ou supérieur qui ne sont pas marqué comme favori",
+    "sellall_going_to_sell_level_inf": "Tous les objets de niveau %d ou inférieur qui ne sont pas marqué comme favori",
     "sellall_total_value": "Valeur total des objets",
     "sellall_are_you_sure": "Êtes-vous sûr de vouloir vendre ces objets ?",
     "sellall_cancel": "Vous avez annulé la vente",
     "sellall_going_to_sell_power_sup": "Tous les objets dont la puissance est supérieure ou égale à %d",
     "sellall_going_to_sell_power_inf": "Tous les objets dont la puissance est inférieure ou égale à %d",
-    "sellall_going_to_sell_name": "Tous les objets dont le nom contient \"%s\""
+    "sellall_going_to_sell_name": "Tous les objets dont le nom contient \"%s\"",
+    "sellall_going_to_sell_subtype": "Tous les objets de sous-type \"%s\" qui ne sont pas marqué comme favori"
   },
   "mounts": {
     "reduction": "Bonus/Malus en temps de voyage pour les climats/terrains suivants:",
@@ -416,6 +506,7 @@
     "info_attributes_title": "Attributs | %d point à répartir (Prix du reset %dG)",
     "info_attributes_title_plur": "Attributs | %d points à répartir (Prix du reset %dG)",
     "maximum_level": "Niveau Max.",
+    "character_advancement": "Progression du personnage",
     "level": "Niveau",
     "craft_level": "Niv. de Métier",
     "money": "Argent",
@@ -430,8 +521,14 @@
     "no_desc": "Pas de description pour ce haut fait",
     "maximum_stun_chance": "Chance Maximum d'Assommer",
     "reset_price_title": "Réinitialiser vos attributs",
+    "reset_talents_price_title": "Réinitialiser vos talents",
     "sure_to_reset_title": "Êtes-vous sûr de vouloir réinitialiser vos attributs ?",
-    "reset_cancel": "Vous avez annulé la réinitialisation de vos attributs"
+    "reset_cancel": "Vous avez annulé la réinitialisation de vos attributs",
+    "sure_to_reset_talents_title": "Êtes-vous sûr de vouloir réinitialiser vos talents ?",
+    "reset_talents_cancel": "Vous avez annulé la réinitialisation de vos talents",
+    "mana_points": "Points de Mana",
+    "energy_points": "Points d'Energie",
+    "character_resources": "Ressources du Personnage"
   },
   "economic": {
     "sell_for_x": "Vous avez vendu votre objet pour %dG",
@@ -454,7 +551,8 @@
     "sure_to_travel_title": "Êtes-vous sûr de vouloir voyager ?",
     "sure_to_travel_body": "%s → Oui\n%s → Non",
     "travel_cancel": "Vous avez annulé votre voyage",
-    "travel_without_weather": "Temps total de trajet sans l'impact de la météo"
+    "travel_without_weather": "Temps total de trajet sans l'impact de la météo",
+    "travel_cancel_easter_egg": "Vous étiez sur le point de partir, mais vous avez eu la flemme et avez décidé de rester. Êtes-vous bipolaire ?"
   },
   "fight_pve": {
     "ganked_by_monster": "Vous n'avez pas été assez discret, vous vous faites attaquer par un monstre ! (Il vous faut plus de perception)",
@@ -504,8 +602,17 @@
     "now_muted": "Les notifications en rapport avec les combats sont maintenant désactivées",
     "now_unmuted": "Les notifications en rapport avec les combats sont maintenant activées",
     "settings_menu_mute": "%s les notifications en rapport avec les combats",
-    "status_of_fight": "Status du combat: %s",
-    "battle_ongoing": "Vous combattez !"
+    "status_of_fight": "Statut du combat: %s",
+    "battle_ongoing": "Vous combattez !",
+    "missed": "Raté !",
+    "status_removed": "États retirés: %s",
+    "status_added": "États ajoutés: %s",
+    "results_lost": "Pertes:",
+    "results_gain": "Gains:",
+    "results_health_points": "%d pv.",
+    "results_mana_points": "%d pm.",
+    "results_energy_points": "%d energie.",
+    "cant_do_anything": "Ne peut rien faire"
   },
   "rarities": {
     "common": "Commun",
@@ -522,7 +629,8 @@
     "ru": "Russe",
     "es": "Espagnol",
     "list_of_languages": "Liste des langues disponibles (utilisez le nom raccourci pour changer votre langue)",
-    "lang_changed": "Langue modifiée avec succès, le bot vous répondra desormais en %s"
+    "lang_changed": "Langue modifiée avec succès, le bot vous répondra desormais en %s",
+    "vi": "Vietnamien"
   },
   "other": {
     "loading_character": "Chargement de votre personnage",
@@ -551,7 +659,7 @@
     "plant": "Plante",
     "sword": "Epée",
     "whip": "Fouet",
-    "armor": "Armure",
+    "metal": "Métal",
     "loot_box_equipment": "Coffre d'équipements",
     "reset_time_potion": "Anti-Fatigue",
     "founder_box": "Récompense de Fondateur",
@@ -561,7 +669,13 @@
     "energy_potion": "Potion Tonifiante",
     "salamander": "Salamandre",
     "camel": "Chameau",
-    "polar_bear": "Ours Polaire"
+    "polar_bear": "Ours Polaire",
+    "cloth": "Tissu",
+    "leather": "Cuir",
+    "bow": "Arc",
+    "dagger": "Dague",
+    "wand": "Baguette",
+    "staff": "Baton"
   },
   "stats": {
     "strength": "Force",
@@ -573,7 +687,26 @@
     "will": "Volonté",
     "perception": "Perception",
     "charisma": "Charisme",
-    "luck": "Chance"
+    "luck": "Chance",
+    "hitRate": "Taux de Toucher",
+    "evadeRate": "Évasion Physique",
+    "criticalRate": "Coup Critique",
+    "regenHp": "Regen. PV",
+    "regenMp": "Regen. PM",
+    "regenEnergy": "Regen. Energie",
+    "skillManaCost": "Coût en Mana",
+    "skillEnergyCost": "Coût en Energie",
+    "criticalEvadeRate": "Taux d'évasion Critique",
+    "magicalEvadeRate": "Évasion Magique",
+    "threat": "Menace",
+    "physicalResist": "Résistance Physique",
+    "fireResist": "Résistance Feu",
+    "waterResist": "Résistance Eau",
+    "earthResist": "Résistance Terre",
+    "airResist": "Résistance Air",
+    "darkResist": "Résistance Ténèbres",
+    "lightResist": "Résistance Lumière",
+    "initiative": "Initiative"
   },
   "lootboxes": {
     "open_message": "Vous avez ouvert un coffre à butin, vous obtenez :\n",
@@ -604,10 +737,12 @@
     "boss_already_dead": "Ce boss mondial est déjà mort",
     "now_unmuted": "Les notifications en rapport avec les boss mondiaux sont maintenant activées",
     "now_muted": "Les notifications en rapport avec les boss mondiaux sont maintenant désactivées",
-    "settings_menu_mute": "%s les notifications en rapport avec les boss mondiaux"
+    "settings_menu_mute": "%s les notifications en rapport avec les boss mondiaux",
+    "skill_used": "Compétence Utilisée"
   },
   "potions": {
     "drink": "Vous avez bu : \"%s\"\n",
+    "drink_plur": "Vous avez bu : \"%s\" %d fois\n",
     "reset_time": "Vous sentez votre fatigue partir, votre temps de fatigue a été réinitialisé",
     "reduce_time": "Vous vous sentez revigoré, votre temps de fatigue à été réduit de : %d%"
   },
@@ -643,6 +778,7 @@
     "up": "Ajoute à la caractéristique statName number Points",
     "leaderboard": "Affiche ton rang en fonction de l'argument choisi (arena, gold, level, craftlevel, power)",
     "reset": "Te permet de réinitialiser tes caractéristiques",
+    "resettalents": "Te permet de réinitialiser tes talents",
     "fight_title": "Combats",
     "fight": "Permet de tenter d'attaquer le/les monstres choisis",
     "grpfight": "Permet d'attaquer avec son groupe le/les montres choisis",
@@ -728,7 +864,20 @@
     "tadd": "Ajoute un ou plusieurs objets <idItemInInventory> à l'échange",
     "tremove": "Supprime un ou plusieurs objets de l'échange",
     "tsetmoney": "Défini le montant d'argent que vous mettez dans l'échange",
-    "tvalidate": "Valide l'échange. Vous devez être dans la même zone que la personne avec qui vous faites l'échange. Quand vous avez tous les deux validé, l'échange est fini. Tout le monde doit revalider la transaction si des changements sont effectués"
+    "tvalidate": "Valide l'échange. Vous devez être dans la même zone que la personne avec qui vous faites l'échange. Quand vous avez tous les deux validé, l'échange est fini. Tout le monde doit revalider la transaction si des changements sont effectués",
+    "talents_title": "Talents/Arbre de Compétence",
+    "talents": "Affiche les informations sur les talents débloqués et déblocables",
+    "talentshow": "Affiche les informations du talent avec l'identifiant <idTalent>",
+    "talentup": "Débloque le talent avec l'identifiant <idTalent>",
+    "skillshow": "Affiche les informations de la compétence avec l'identifiant <idSkill>",
+    "buildshow": "Affiche votre barre de compétence",
+    "buildadd": "Ajoute la compétence avec l'identifiant <idSkill> à votre barre de compétence",
+    "buildremove": "Retire la compétence avec l'identifiant <idSkill> de votre barre de compétence",
+    "buildmove": "Déplace la compétence avec l'identifiant <idSkill> de votre barre de compétence vers l'emplacement <slotNumber>",
+    "buildclear": "Retire toutes les compétences de votre barre de compétence",
+    "talentexport": "Exporte vos talent",
+    "talentimport": "Importe des talents",
+    "setmobile": "Activez ou désactivez le mode d'affichage adapté aux téléphones portables. \"Arg\" peut être : oui ou non"
   },
   "settings_menu": {
     "title": "Paramètres"

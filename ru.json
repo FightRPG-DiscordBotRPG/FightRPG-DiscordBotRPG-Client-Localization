@@ -65,6 +65,7 @@
     "item_you_cant_use": "Вы не можете использовать этот предмет",
     "item_enter_id_to_use": "Необходимо ввести ID предмета для использования.",
     "character_you_dont_have_enough_to_reset": "У вас недостаточно денег, чтобы сбросить статистику!",
+    "character_you_dont_have_enough_to_reset_talents": "You don't have enough money to reset your talents!",
     "economic_enter_id_item_to_sell": "Чтобы продать предмет, необходимо ввести его ID",
     "economic_have_to_be_in_town": "Вы должны быть в городе, чтобы продать свои вещи",
     "economic_cant_sell_nothing": "Нечего продавать! Все предметы защищены, нет совпадений, или Ваш инвентарь пуст",
@@ -145,7 +146,86 @@
     "trade_not_enough_money": "У тебя не так уж много денег, чтобы вложить в торговлю",
     "trade_unable_find_item": "Не могу найти этот пункт",
     "trade_not_accepted": "Другой человек должен принять сделку, прежде чем вы сможете сделать это",
-    "travel_area_cant_travel": "Вы не можете вручную путешествовать в эту область."
+    "travel_area_cant_travel": "Вы не можете вручную путешествовать в эту область.",
+    "talents_show_missing_id": "Please enter the ID of the talent",
+    "talents_show_node_dont_exist": "This talent doesn't exist",
+    "talents_node_not_reachable": "This talent is not reachable",
+    "talents_not_enough_points": "You don't have enough talent points",
+    "talents_already_unlocked": "You've already unlocked that talent",
+    "skill_show_dont_exist": "That skill doesn't exist",
+    "skill_build_cant_add_more": "You can't add more skills to your skills bar",
+    "skill_build_already_equipped": "That skill is already equipped",
+    "skill_build_not_unlocked": "You have not unlocked this skill",
+    "skill_build_not_equipped": "That skill isn't equipped",
+    "skill_build_incorrect_priority": "Incorrect priority value",
+    "antispam_remaining": "Challenge failed (%d tries left before being ban for %s minutes)",
+    "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes..."
+  },
+  "lootbox": {
+    "contains": "This loot box may contain %d of the following items:"
+  },
+  "antispam": {
+    "title": "Anti-Spam Challenge",
+    "select_emoji": "Select the %s emoji to continue playing.",
+    "success": "Challenge successfully passed!",
+    "in_progress": "You have a challenge in progress, you must resolve it to continue playing."
+  },
+  "skills_builds": {
+    "add_success": "You have successfully added the \"%s\" skill to your build",
+    "swap_succes": "Skill priority change successful",
+    "reset_success": "All your skills have been unequipped",
+    "remove_success": "You have successfully removed the \"%s\" skill to your build",
+    "title_show": "All equipped skills (%d/%d)",
+    "maximum_reached": "Maximum number of skill equipped reached",
+    "nothing": "You don't have any skill equipped",
+    "priority": "Cast Order Priority"
+  },
+  "talents": {
+    "header_talents": "Information on all unlocked talent",
+    "unlocked_skills": "Available skills",
+    "reachable_talents_ids": "Accessible Talent Ids",
+    "unlockable_skills": "Unlockable skills",
+    "x_point": "%d talent point",
+    "x_point_plural": "%d talent points",
+    "cost": "Talent Unlocking Cost",
+    "up_success_unlock": "The talent %s is now unlocked",
+    "up_success_unlock_skills": "The following skills are now unlocked: %s",
+    "talents_import_successful": "Import successfully completed",
+    "talents_import_not_totally_successful": "The import was only partially done, the following talents were not unlocked: \"%s\". Possible error: %s"
+  },
+  "skills": {
+    "damage_information": "Damage Information",
+    "damage_type": "Damage Type",
+    "formula": "Formula",
+    "hpDamage": "Damage to Hp",
+    "manaDamage": "Damage to Mp",
+    "lifeSteal": "Life Steal",
+    "manaSteal": "Mana Steal",
+    "healHp": "Heal",
+    "healMp": "Regenerate Mp",
+    "variance": "Variance",
+    "number_of_targets": "Number of targets",
+    "success_rate": "Success Rate",
+    "required_preparation_points": "Required Prepration Points",
+    "no_desc": "No description for skill"
+  },
+  "effects": {
+    "type": "Effect Type",
+    "hpHeal": "Heal",
+    "manaHeal": "Regenerate Mp",
+    "energyHeal": "Regenerate Energy",
+    "addState": "Add Status",
+    "removeState": "Remove Status"
+  },
+  "elements": {
+    "type": "Element Type",
+    "physical": "Physical",
+    "fire": "Fire",
+    "water": "Water",
+    "earth": "Earth",
+    "air": "Air",
+    "dark": "Dark",
+    "light": "Light"
   },
   "craft": {
     "header_required": "Имя - Тип - Подтип - Редкость - Число",
@@ -278,7 +358,14 @@
     "disable": "Отключать",
     "region": "Регион",
     "modular": "Модульный",
-    "and": "and"
+    "and": "and",
+    "aquired": "Aquired",
+    "unlockable": "Unlockable",
+    "locked": "Locked",
+    "equipable": "Equipable",
+    "yes": "Yes",
+    "no": "No",
+    "mobile_set": "Mobile Detection Mode: %s. Is user on mobile: %s"
   },
   "guild": {
     "you_dont_have_a_guild": "У вас нет гильдии.",
@@ -339,6 +426,7 @@
     "page_x_out_of": "Страница %d/%d",
     "currently_equipped": "В Настоящее Время Оборудованно",
     "attributes": "Характеристики",
+    "secondary_attributes": "Secondary Attributes",
     "nothing_in_this_slot": "У вас нет никакого экипированного предмета в этом слоте",
     "nothing_equipped": "Вы не имеете никакого экипированного предмета",
     "power": "Мощность",
@@ -351,13 +439,15 @@
     "sellall_going_to_sell_all": "Все предметы, не помеченные как избранные",
     "sellall_going_to_sell_rarity": "Все товары качества \"%s\", которые не отмечены как избранные",
     "sellall_going_to_sell_type": "Все элементы типа \"%s\", не помеченные как избранные",
-    "sellall_going_to_sell_level": "Все элементы, уровень которых больше или равен %d, не помеченные как фавориты",
+    "sellall_going_to_sell_level_sup": "Все элементы, уровень которых больше или равен %d, не помеченные как фавориты",
+    "sellall_going_to_sell_level_inf": "All items with their level lower than or equal to %d that are not marked as favorites",
     "sellall_total_value": "Общая стоимость статей",
     "sellall_are_you_sure": "Вы уверены, что хотите продать эти вещи?",
     "sellall_cancel": "Вы отменили продажу",
     "sellall_going_to_sell_power_sup": "Все предметы с мощностью больше или равной %d",
     "sellall_going_to_sell_power_inf": "Все предметы с мощностью ниже или равной %d",
-    "sellall_going_to_sell_name": "All items whose name contains \"%s\""
+    "sellall_going_to_sell_name": "All items whose name contains \"%s\"",
+    "sellall_going_to_sell_subtype": "All items of \"%s\" subtype that are not marked as favorites"
   },
   "mounts": {
     "reduction": "Бонусы/пункты во времени путешествия для следующего климата/поезда:",
@@ -416,6 +506,7 @@
     "info_attributes_title": "Характеристики | %d очков осталось распределить (Цена сброса %dG)",
     "info_attributes_title_plur": "Характеристики | %d очков осталось распределить (Цена сброса %dG)",
     "maximum_level": "Макс. Уровень",
+    "character_advancement": "Character Advancement",
     "level": "Уровень",
     "craft_level": "Уровень Ремесла",
     "money": "Деньги",
@@ -430,8 +521,14 @@
     "no_desc": "No desciption for this achievement",
     "maximum_stun_chance": "Maximum Stun Chance",
     "reset_price_title": "Reseting your attributes",
+    "reset_talents_price_title": "Reseting your talents",
     "sure_to_reset_title": "Are you sure to reset your attributes?",
-    "reset_cancel": "You've cancelled your attributes reset"
+    "reset_cancel": "You've cancelled your attributes reset",
+    "sure_to_reset_talents_title": "Are you sure to reset your talents?",
+    "reset_talents_cancel": "You've cancelled your talents reset",
+    "mana_points": "Mana Points",
+    "energy_points": "Energy Points",
+    "character_resources": "Character Resources"
   },
   "economic": {
     "sell_for_x": "Вы продали свой предмет за %dG",
@@ -454,7 +551,8 @@
     "sure_to_travel_title": "Вы уверены, что хотите путешествовать?",
     "sure_to_travel_body": "%s → да\n%s → Нет",
     "travel_cancel": "Вы отменили свою поездку",
-    "total_without_weather": "Total travel time without weather impact"
+    "total_without_weather": "Total travel time without weather impact",
+    "travel_cancel_easter_egg": "You were about to head off, but got lazy and decided to stay. Maybe you're bipolar?"
   },
   "fight_pve": {
     "ganked_by_monster": "Вы не были достаточно скрытными, монстр нападает на вас! (Вам нужно больше восприятия)",
@@ -505,7 +603,16 @@
     "now_unmuted": "Fight notifications are now activated",
     "settings_menu_mute": "%s Fight notifications",
     "status_of_fight": "Battle status: %s",
-    "battle_ongoing": "You're fighting!"
+    "battle_ongoing": "You're fighting!",
+    "missed": "Missed!",
+    "status_removed": "Status removed: %s",
+    "status_added": "Status added: %s",
+    "results_lost": "Lost:",
+    "results_gain": "Gain:",
+    "results_health_points": "%d hp.",
+    "results_mana_points": "%d mp.",
+    "results_energy_points": "%d energy.",
+    "cant_do_anything": "Can't do anything"
   },
   "rarities": {
     "common": "Обычный",
@@ -522,7 +629,8 @@
     "ru": "Русский",
     "es": "Испанский",
     "list_of_languages": "Список доступных языков (используйте ярлык для переключения языков)",
-    "lang_changed": "Язык успешно изменен, бот теперь будет отвечать на %s"
+    "lang_changed": "Язык успешно изменен, бот теперь будет отвечать на %s",
+    "vi": "Vietnamese"
   },
   "other": {
     "loading_character": "Загрузка вашего персонажа",
@@ -551,7 +659,7 @@
     "plant": "Растение",
     "sword": "Меч",
     "whip": "Кнут",
-    "armor": "Броня",
+    "metal": "Metal",
     "loot_box_equipment": "Коробка Снаряжения",
     "reset_time_potion": "Анти-Усталость",
     "founder_box": "Вознаграждение Основателя",
@@ -561,7 +669,13 @@
     "energy_potion": "Тонизирующее зелье",
     "salamander": "Salamander",
     "camel": "Camel",
-    "polar_bear": "Polar Bear"
+    "polar_bear": "Polar Bear",
+    "cloth": "Cloth",
+    "leather": "Leather",
+    "bow": "Bow",
+    "dagger": "Dagger",
+    "wand": "Wand",
+    "staff": "Staff"
   },
   "stats": {
     "strength": "Сила",
@@ -573,7 +687,26 @@
     "will": "Воля",
     "perception": "Восприятие",
     "charisma": "Харизма",
-    "luck": "Удача"
+    "luck": "Удача",
+    "hitRate": "Hit Rate",
+    "evadeRate": "Physical Evade Rate",
+    "criticalRate": "Critical Rate",
+    "regenHp": "Regen HP",
+    "regenMp": "Regen MP",
+    "regenEnergy": "Regen Energy",
+    "skillManaCost": "Skill Mana Cost",
+    "skillEnergyCost": "Skill Energy Cost",
+    "criticalEvadeRate": "Critical Evade Rate",
+    "magicalEvadeRate": "Magical Evade Rate",
+    "threat": "Threat",
+    "physicalResist": "Physical Resist",
+    "fireResist": "Fire Resist",
+    "waterResist": "Water Resist",
+    "earthResist": "Earth Resist",
+    "airResist": "Air Resist",
+    "darkResist": "Dark Resist",
+    "lightResist": "Light Resist",
+    "initiative": "Initiative"
   },
   "lootboxes": {
     "open_message": "Вы открыли ящик с добычей, вы получаете:\n",
@@ -604,10 +737,12 @@
     "boss_already_dead": "This world boss is already dead",
     "now_unmuted": "World Bosses notifications are now activated",
     "now_muted": "World Bosses notifications are now deactivated",
-    "settings_menu_mute": "%s World Bosses notifications"
+    "settings_menu_mute": "%s World Bosses notifications",
+    "skill_used": "Skill Used"
   },
   "potions": {
     "drink": "Вы выпили: \"%s\"\n",
+    "drink_plur": "You drank: \"%s\" %d times\n",
     "reset_time": "Вы чувствуете, что ваша усталость уходит, ваше время усталости было сброшено",
     "reduce_time": "Ты чувствуешь себя бодрым, время усталости сократилось на порядок: %d%"
   },
@@ -643,6 +778,7 @@
     "up": "Добавляет к характеристике statName количество Очков",
     "leaderboard": "Shows your ranking based on the argument (arena, gold, level, craftlevel, power)",
     "reset": "Позволяет сбросить характеристики",
+    "resettalents": "Allows you to reset your talents",
     "fight_title": "Сражения",
     "fight": "Позволяет попробовать атаковать выбранного монстра/монстров",
     "grpfight": "Позволяет вам попытаться атаковать выбранного монстра / монстров с вашей группой",
@@ -728,7 +864,20 @@
     "tadd": "Add one or more item using <idItemInInventory> to the trade",
     "tremove": "Remove one or more item from the trade",
     "tsetmoney": "Set the amount of gold you want to trade",
-    "tvalidate": "Validates the trade. You must be in the same area as the person you are trading with. When you both validated, the trade is over. Everyone must re-validate the trade after changes were made"
+    "tvalidate": "Validates the trade. You must be in the same area as the person you are trading with. When you both validated, the trade is over. Everyone must re-validate the trade after changes were made",
+    "talents_title": "Talents/Skill Tree",
+    "talents": "Displays information on unlocked and unlockable talents",
+    "talentshow": "Displays talent information with the <idTalent> identifier",
+    "talentup": "Unlocks the talent with the <idTalent> identifier",
+    "skillshow": "Displays the information of the skill with the identifier <idSkill>",
+    "buildshow": "Displays your skill bar",
+    "buildadd": "Adds the skill with the <idSkill> identifier to your skill bar",
+    "buildremove": "Removes the skill with the <idSkill> identifier from your skill bar",
+    "buildmove": "Moves the skill with the <idSkill> identifier from your skill bar to the <slotNumber> slot",
+    "buildclear": "Removes all skills from your skill bar",
+    "talentexport": "Export your talents",
+    "talentimport": "Imports talent",
+    "setmobile": "Activate or deactivate the mobile friendly display mode. \"Arg\" could be: yes or no"
   },
   "settings_menu": {
     "title": "Настроики"

@@ -65,6 +65,7 @@
     "item_you_cant_use": "Você não pode usar este item",
     "item_enter_id_to_use": "Você precisa digitar o ID do item para usar.",
     "character_you_dont_have_enough_to_reset": "Você não tem dinheiro suficiente para redefinir seus atributos!",
+    "character_you_dont_have_enough_to_reset_talents": "You don't have enough money to reset your talents!",
     "economic_enter_id_item_to_sell": "Você precisa digitar o ID do item para vendê-lo",
     "economic_have_to_be_in_town": "Você precisa estar em uma cidade para vender seus itens",
     "economic_cant_sell_nothing": "Nada para vender! Todos itens estão protegidos, nenhum corresponde ou seu inventário está vazio",
@@ -144,7 +145,87 @@
     "trade_item_dont_exist": "Este item não existe ou não pertence a você",
     "trade_not_enough_money": "Você não tem esta quantia de dinheiro para oferecer na troca",
     "trade_unable_find_item": "Incapaz de encontrar este item",
-    "trade_not_accepted": "A outra pessoa precisa aceitar a troca antes de você poder executar esta ação"
+    "trade_not_accepted": "A outra pessoa precisa aceitar a troca antes de você poder executar esta ação",
+    "travel_area_cant_travel": "You are unable to travel to this area",
+    "talents_show_missing_id": "Please enter the ID of the talent",
+    "talents_show_node_dont_exist": "This talent doesn't exist",
+    "talents_node_not_reachable": "This talent is not reachable",
+    "talents_not_enough_points": "You don't have enough talent points",
+    "talents_already_unlocked": "You've already unlocked that talent",
+    "skill_show_dont_exist": "That skill doesn't exist",
+    "skill_build_cant_add_more": "You can't add more skills to your skills bar",
+    "skill_build_already_equipped": "That skill is already equipped",
+    "skill_build_not_unlocked": "You have not unlocked this skill",
+    "skill_build_not_equipped": "That skill isn't equipped",
+    "skill_build_incorrect_priority": "Incorrect priority value",
+    "antispam_remaining": "Challenge failed (%d tries left before being ban for %s minutes)",
+    "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes..."
+  },
+  "lootbox": {
+    "contains": "This loot box may contain %d of the following items:"
+  },
+  "antispam": {
+    "title": "Anti-Spam Challenge",
+    "select_emoji": "Select the %s emoji to continue playing.",
+    "success": "Challenge successfully passed!",
+    "in_progress": "You have a challenge in progress, you must resolve it to continue playing."
+  },
+  "skills_builds": {
+    "add_success": "You have successfully added the \"%s\" skill to your build",
+    "swap_succes": "Skill priority change successful",
+    "reset_success": "All your skills have been unequipped",
+    "remove_success": "You have successfully removed the \"%s\" skill to your build",
+    "title_show": "All equipped skills (%d/%d)",
+    "maximum_reached": "Maximum number of skill equipped reached",
+    "nothing": "You don't have any skill equipped",
+    "priority": "Cast Order Priority"
+  },
+  "talents": {
+    "header_talents": "Information on all unlocked talent",
+    "unlocked_skills": "Available skills",
+    "reachable_talents_ids": "Accessible Talent Ids",
+    "unlockable_skills": "Unlockable skills",
+    "x_point": "%d talent point",
+    "x_point_plural": "%d talent points",
+    "cost": "Talent Unlocking Cost",
+    "up_success_unlock": "The talent %s is now unlocked",
+    "up_success_unlock_skills": "The following skills are now unlocked: %s",
+    "talents_import_successful": "Import successfully completed",
+    "talents_import_not_totally_successful": "The import was only partially done, the following talents were not unlocked: \"%s\". Possible error: %s"
+  },
+  "skills": {
+    "damage_information": "Damage Information",
+    "damage_type": "Damage Type",
+    "formula": "Formula",
+    "hpDamage": "Damage to Hp",
+    "manaDamage": "Damage to Mp",
+    "lifeSteal": "Life Steal",
+    "manaSteal": "Mana Steal",
+    "healHp": "Heal",
+    "healMp": "Regenerate Mp",
+    "variance": "Variance",
+    "number_of_targets": "Number of targets",
+    "success_rate": "Success Rate",
+    "required_preparation_points": "Required Prepration Points",
+    "no_desc": "No description for skill"
+  },
+  "effects": {
+    "type": "Effect Type",
+    "hpHeal": "Heal",
+    "manaHeal": "Regenerate Mp",
+    "energyHeal": "Regenerate Energy",
+    "addState": "Add Status",
+    "removeState": "Remove Status"
+  },
+  "elements": {
+    "type": "Element Type",
+    "physical": "Physical",
+    "fire": "Fire",
+    "water": "Water",
+    "earth": "Earth",
+    "air": "Air",
+    "dark": "Dark",
+    "light": "Light"
   },
   "craft": {
     "header_required": "Nome - Tipo - Subtipo - Raridade - Número",
@@ -277,7 +358,14 @@
     "disable": "Desabilitar",
     "region": "Região",
     "modular": "Modular",
-    "and": "e"
+    "and": "e",
+    "aquired": "Aquired",
+    "unlockable": "Unlockable",
+    "locked": "Locked",
+    "equipable": "Equipable",
+    "yes": "Yes",
+    "no": "No",
+    "mobile_set": "Mobile Detection Mode: %s. Is user on mobile: %s"
   },
   "guild": {
     "you_dont_have_a_guild": "Você não tem uma guilda",
@@ -338,6 +426,7 @@
     "page_x_out_of": "Página %d/%d",
     "currently_equipped": "Atualmente Equipado",
     "attributes": "Atributos",
+    "secondary_attributes": "Secondary Attributes",
     "nothing_in_this_slot": "Você não tem nenhum item equipado aqui",
     "nothing_equipped": "Você não tem nenhum item equipado",
     "power": "Poder",
@@ -350,13 +439,15 @@
     "sellall_going_to_sell_all": "Todos itens que não estão marcados como favoritos",
     "sellall_going_to_sell_rarity": "Todos itens de qualidade \"%s\" que não estão marcados como favoritos",
     "sellall_going_to_sell_type": "Todos itens tipo \"%s\" que não estão marcados como favoritos",
-    "sellall_going_to_sell_level": "Todos os itens com seu nível maior que ou igual a %d que não sejam marcados como favoritos",
+    "sellall_going_to_sell_level_sup": "Todos os itens com seu nível maior que ou igual a %d que não sejam marcados como favoritos",
+    "sellall_going_to_sell_level_inf": "All items with their level lower than or equal to %d that are not marked as favorites",
     "sellall_total_value": "Valor total dos itens",
     "sellall_are_you_sure": "Você tem certeza que quer vender esses itens?",
     "sellall_cancel": "Você cancelou as vendas",
     "sellall_going_to_sell_power_sup": "Todos os itens com uma potência maior ou igual a %d",
     "sellall_going_to_sell_power_inf": "Todos os itens com uma potência menor ou igual a %d",
-    "sellall_going_to_sell_name": "Todos itens cujo nome conter \"%s\""
+    "sellall_going_to_sell_name": "Todos itens cujo nome conter \"%s\"",
+    "sellall_going_to_sell_subtype": "All items of \"%s\" subtype that are not marked as favorites"
   },
   "mounts": {
     "reduction": "Bônus/Penalidades em tempo de viagem para o seguinte clima/terreno:",
@@ -415,6 +506,7 @@
     "info_attributes_title": "Atributos | %d ponto para distribuir (Preço de redefinição %dG)",
     "info_attributes_title_plur": "Atributos | %d pontos para distribuir (Preço de redefinição %dG)",
     "maximum_level": "Nível Máx.",
+    "character_advancement": "Character Advancement",
     "level": "Nível",
     "craft_level": "Nível de Criação",
     "money": "Dinheiro",
@@ -429,8 +521,14 @@
     "no_desc": "Não há descrição para esta conquista",
     "maximum_stun_chance": "Chance de Atordoamento Máxima",
     "reset_price_title": "Redefinindo seus atributos",
+    "reset_talents_price_title": "Reseting your talents",
     "sure_to_reset_title": "Você tem certeza que deseja redefinir seus atributos?",
-    "reset_cancel": "Você cancelou sua redefinição de atributos"
+    "reset_cancel": "Você cancelou sua redefinição de atributos",
+    "sure_to_reset_talents_title": "Are you sure to reset your talents?",
+    "reset_talents_cancel": "You've cancelled your talents reset",
+    "mana_points": "Mana Points",
+    "energy_points": "Energy Points",
+    "character_resources": "Character Resources"
   },
   "economic": {
     "sell_for_x": "Você vendeu seu item por %dG",
@@ -453,7 +551,8 @@
     "sure_to_travel_title": "Você tem certeza que quer viajar?",
     "sure_to_travel_body": "%s → Sim\n%s → Não",
     "travel_cancel": "Você cancelou sua viagem",
-    "total_without_weather": "Tempo total de viagem sem impacto de clima"
+    "total_without_weather": "Tempo total de viagem sem impacto de clima",
+    "travel_cancel_easter_egg": "You were about to head off, but got lazy and decided to stay. Maybe you're bipolar?"
   },
   "fight_pve": {
     "ganked_by_monster": "Você não foi discreto o suficiente, um monstro está te atacando! (Você precisa de mais percepção)",
@@ -504,7 +603,16 @@
     "now_unmuted": "Notificações de luta agora estão ativadas",
     "settings_menu_mute": "%s Notificações de luta",
     "status_of_fight": "Estado do combate: %s",
-    "battle_ongoing": "Você está lutando!"
+    "battle_ongoing": "Você está lutando!",
+    "missed": "Missed!",
+    "status_removed": "Status removed: %s",
+    "status_added": "Status added: %s",
+    "results_lost": "Lost:",
+    "results_gain": "Gain:",
+    "results_health_points": "%d hp.",
+    "results_mana_points": "%d mp.",
+    "results_energy_points": "%d energy.",
+    "cant_do_anything": "Can't do anything"
   },
   "rarities": {
     "common": "Comum",
@@ -521,7 +629,8 @@
     "ru": "Russo",
     "es": "Espanhol",
     "list_of_languages": "Lista de línguas disponíveis (use o atalho para mudar de língua)",
-    "lang_changed": "Língua alterada com sucesso, o bot agora responderá em %s"
+    "lang_changed": "Língua alterada com sucesso, o bot agora responderá em %s",
+    "vi": "Vietnamese"
   },
   "other": {
     "loading_character": "Carregando seu personagem",
@@ -550,7 +659,7 @@
     "plant": "Planta",
     "sword": "Espada",
     "whip": "Chicote",
-    "armor": "Armadura",
+    "metal": "Metal",
     "loot_box_equipment": "Caixa de Equipamento",
     "reset_time_potion": "Anti-Cansaço",
     "founder_box": "Recompensa de Fundador",
@@ -560,7 +669,13 @@
     "energy_potion": "Poção de Tonificação",
     "salamander": "Salamandra",
     "camel": "Camelo",
-    "polar_bear": "Urso Polar"
+    "polar_bear": "Urso Polar",
+    "cloth": "Cloth",
+    "leather": "Leather",
+    "bow": "Bow",
+    "dagger": "Dagger",
+    "wand": "Wand",
+    "staff": "Staff"
   },
   "stats": {
     "strength": "Força",
@@ -572,7 +687,26 @@
     "will": "Vontade",
     "perception": "Percepção",
     "charisma": "Carisma",
-    "luck": "Sorte"
+    "luck": "Sorte",
+    "hitRate": "Hit Rate",
+    "evadeRate": "Physical Evade Rate",
+    "criticalRate": "Critical Rate",
+    "regenHp": "Regen HP",
+    "regenMp": "Regen MP",
+    "regenEnergy": "Regen Energy",
+    "skillManaCost": "Skill Mana Cost",
+    "skillEnergyCost": "Skill Energy Cost",
+    "criticalEvadeRate": "Critical Evade Rate",
+    "magicalEvadeRate": "Magical Evade Rate",
+    "threat": "Threat",
+    "physicalResist": "Physical Resist",
+    "fireResist": "Fire Resist",
+    "waterResist": "Water Resist",
+    "earthResist": "Earth Resist",
+    "airResist": "Air Resist",
+    "darkResist": "Dark Resist",
+    "lightResist": "Light Resist",
+    "initiative": "Initiative"
   },
   "lootboxes": {
     "open_message": "Você abriu uma caixa de espólios, você ganhou:\n",
@@ -603,10 +737,12 @@
     "boss_already_dead": "Este chefe global já faleceu",
     "now_unmuted": "Notificações de Chefes Globais agora estão ativadas",
     "now_muted": "Notificações de Chefes Globais agora estão desativadas",
-    "settings_menu_mute": "%s notificações de Chefes Globais"
+    "settings_menu_mute": "%s notificações de Chefes Globais",
+    "skill_used": "Skill Used"
   },
   "potions": {
     "drink": "Você bebeu: \"%s\"\n",
+    "drink_plur": "You drank: \"%s\" %d times\n",
     "reset_time": "Você sente seu cansaço indo embora, seu tempo de cansaço foi redefinido",
     "reduce_time": "Você se sente revigorado, seu tempo de cansaço foi reduzido em: %d%"
   },
@@ -642,6 +778,7 @@
     "up": "Adiciona ao atributo <statName> um número de Pontos",
     "leaderboard": "Mostra sua classificação baseado no argumento (arena, gold, level, craftlevel, power)",
     "reset": "Lhe permite redefinir seus atributos",
+    "resettalents": "Allows you to reset your talents",
     "fight_title": "Lutas",
     "fight": "Lhe permite tentar atacar o(s) monstro(s) selecionado(s)",
     "grpfight": "Lhe permite tentar atacar o(s) monstro(s) selecionado(s) com seu grupo",
@@ -727,7 +864,20 @@
     "tadd": "Adiciona um ou mais itens usando <idItemNoInventário> à troca",
     "tremove": "Remove um ou mais itens da troca",
     "tsetmoney": "Define a quantia de ouro que você quer oferecer",
-    "tvalidate": "Valida a troca. Você precisa estar na mesma área que a pessoa com quem está negociando. Quando ambos validarem, a troca é efetuada. Todos precisam re-validar a troca após mudanças serem feitas"
+    "tvalidate": "Valida a troca. Você precisa estar na mesma área que a pessoa com quem está negociando. Quando ambos validarem, a troca é efetuada. Todos precisam re-validar a troca após mudanças serem feitas",
+    "talents_title": "Talents/Skill Tree",
+    "talents": "Displays information on unlocked and unlockable talents",
+    "talentshow": "Displays talent information with the <idTalent> identifier",
+    "talentup": "Unlocks the talent with the <idTalent> identifier",
+    "skillshow": "Displays the information of the skill with the identifier <idSkill>",
+    "buildshow": "Displays your skill bar",
+    "buildadd": "Adds the skill with the <idSkill> identifier to your skill bar",
+    "buildremove": "Removes the skill with the <idSkill> identifier from your skill bar",
+    "buildmove": "Moves the skill with the <idSkill> identifier from your skill bar to the <slotNumber> slot",
+    "buildclear": "Removes all skills from your skill bar",
+    "talentexport": "Export your talents",
+    "talentimport": "Imports talent",
+    "setmobile": "Activate or deactivate the mobile friendly display mode. \"Arg\" could be: yes or no"
   },
   "settings_menu": {
     "title": "Configurações"
