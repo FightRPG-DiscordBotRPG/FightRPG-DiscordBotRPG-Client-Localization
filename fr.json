@@ -549,7 +549,8 @@
     "sure_to_travel_title": "Êtes-vous sûr de vouloir voyager ?",
     "sure_to_travel_body": "%s → Oui\n%s → Non",
     "travel_cancel": "Vous avez annulé votre voyage",
-    "travel_without_weather": "Temps total de trajet sans l'impact de la météo"
+    "travel_without_weather": "Temps total de trajet sans l'impact de la météo",
+    "tavel_cancel_easter_egg": "Vous étiez sur le point de partir, mais vous avez eu la flemme et avez décidé de rester. Êtes-vous bipolaire ?"
   },
   "fight_pve": {
     "ganked_by_monster": "Vous n'avez pas été assez discret, vous vous faites attaquer par un monstre ! (Il vous faut plus de perception)",
