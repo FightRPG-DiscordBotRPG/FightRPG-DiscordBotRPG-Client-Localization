@@ -446,7 +446,8 @@
     "sellall_cancel": "Vous avez annulé la vente",
     "sellall_going_to_sell_power_sup": "Tous les objets dont la puissance est supérieure ou égale à %d",
     "sellall_going_to_sell_power_inf": "Tous les objets dont la puissance est inférieure ou égale à %d",
-    "sellall_going_to_sell_name": "Tous les objets dont le nom contient \"%s\""
+    "sellall_going_to_sell_name": "Tous les objets dont le nom contient \"%s\"",
+    "sellall_going_to_sell_subtype": "Tous les objets de sous-type \"%s\" qui ne sont pas marqué comme favori"
   },
   "mounts": {
     "reduction": "Bonus/Malus en temps de voyage pour les climats/terrains suivants:",
