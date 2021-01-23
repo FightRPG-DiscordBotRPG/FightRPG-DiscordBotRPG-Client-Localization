@@ -123,6 +123,7 @@
     "craft_dont_have_required_items": "У вас нет всех необходимых ресурсов для создания этого предмета",
     "craft_tired_wait_x_seconds": "Вы слишком устали, чтобы создать предмет, вам все равно придется подождать: %s секунд",
     "craft_level_incorrect": "Ты не можешь создать здесь элемент этого уровня",
+    "craft_rebirth_level_incorrect": "You can't craft an item of this rebirth level here",
     "prefix_max_length": "Префикс не должен превышать длину %d символов",
     "prefix_undefined": "Префикс должен содержать не менее 1 символа",
     "prefix_not_owner_server": "Вы должны владеть этим сервером, чтобы изменить префикс",

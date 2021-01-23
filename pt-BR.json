@@ -123,6 +123,7 @@
     "craft_dont_have_required_items": "Você não tem todos os recursos necessários para criar este item",
     "craft_tired_wait_x_seconds": "Você está cansado demais para criar um item, você ainda tem que esperar: %s segundos",
     "craft_level_incorrect": "Você não pode criar um item deste nível aqui",
+    "craft_rebirth_level_incorrect": "You can't craft an item of this rebirth level here",
     "prefix_max_length": "O prefixo não deve exceder o comprimento de %d caracteres",
     "prefix_undefined": "O prefixo deve ter pelo menos 1 caractere",
     "prefix_not_owner_server": "Você precisa ser o dono deste servidor para mudar o prefixo",
