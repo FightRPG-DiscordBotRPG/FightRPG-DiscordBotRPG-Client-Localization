@@ -66,6 +66,7 @@
     "item_you_cant_use": "You can't use this item",
     "item_enter_id_to_use": "You must enter the ID of the item to use.",
     "character_you_dont_have_enough_to_reset": "You don't have enough money to reset your stats!",
+    "character_you_dont_have_enough_to_reset_talents": "You don't have enough money to reset your talents!",
     "economic_enter_id_item_to_sell": "You must enter the item's ID to sell it",
     "economic_have_to_be_in_town": "You must be in a town to sell your items",
     "economic_cant_sell_nothing": "Nothing to sell! All items are protected, no matches or your inventory is empty",
@@ -147,7 +148,86 @@
     "trade_not_enough_money": "You don't have that much money to put in the trade",
     "trade_unable_find_item": "Unable to find this item",
     "trade_not_accepted": "The other person must accept the trade before you can do this action",
-    "travel_area_cant_travel": "You are unable to travel to this area"
+    "travel_area_cant_travel": "You are unable to travel to this area",
+    "talents_show_missing_id": "Please enter the ID of the talent",
+    "talents_show_node_dont_exist": "This talent doesn't exist",
+    "talents_node_not_reachable": "This talent is not reachable",
+    "talents_not_enough_points": "You don't have enough talent points",
+    "talents_already_unlocked": "You've already unlocked that talent",
+    "skill_show_dont_exist": "That skill doesn't exist",
+    "skill_build_cant_add_more": "You can't add more skills to your skills bar",
+    "skill_build_already_equipped": "That skill is already equipped",
+    "skill_build_not_unlocked": "You have not unlocked this skill",
+    "skill_build_not_equipped": "That skill isn't equipped",
+    "skill_build_incorrect_priority": "Incorrect priority value",
+    "antispam_remaining": "Challenge failed (%d tries left before being ban for %s minutes)",
+    "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes..."
+  },
+  "lootbox": {
+    "contains": "This loot box may contain %d of the following items:"
+  },
+  "antispam": {
+    "title": "Anti-Spam Challenge",
+    "select_emoji": "Select the %s emoji to continue playing.",
+    "success": "Challenge successfully passed!",
+    "in_progress": "You have a challenge in progress, you must resolve it to continue playing."
+  },
+  "skills_builds": {
+    "add_success": "You have successfully added the \"%s\" skill to your build",
+    "swap_succes": "Skill priority change successful",
+    "reset_success": "All your skills have been unequipped",
+    "remove_success": "You have successfully removed the \"%s\" skill to your build",
+    "title_show": "All equipped skills (%d/%d)",
+    "maximum_reached": "Maximum number of skill equipped reached",
+    "nothing": "You don't have any skill equipped",
+    "priority": "Cast Order Priority"
+  },
+  "talents": {
+    "header_talents": "Information on all unlocked talent",
+    "unlocked_skills": "Available skills",
+    "reachable_talents_ids": "Accessible Talent Ids",
+    "unlockable_skills": "Unlockable skills",
+    "x_point": "%d talent point",
+    "x_point_plural": "%d talent points",
+    "cost": "Talent Unlocking Cost",
+    "up_success_unlock": "The talent %s is now unlocked",
+    "up_success_unlock_skills": "The following skills are now unlocked: %s",
+    "talents_import_successful": "Import successfully completed",
+    "talents_import_not_totally_successful": "The import was only partially done, the following talents were not unlocked: \"%s\". Possible error: %s"
+  },
+  "skills": {
+    "damage_information": "Damage Information",
+    "damage_type": "Damage Type",
+    "formula": "Formula",
+    "hpDamage": "Damage to Hp",
+    "manaDamage": "Damage to Mp",
+    "lifeSteal": "Life Steal",
+    "manaSteal": "Mana Steal",
+    "healHp": "Heal",
+    "healMp": "Regenerate Mp",
+    "variance": "Variance",
+    "number_of_targets": "Number of targets",
+    "success_rate": "Success Rate",
+    "required_preparation_points": "Required Prepration Points",
+    "no_desc": "No description for skill"
+  },
+  "effects": {
+    "type": "Effect Type",
+    "hpHeal": "Heal",
+    "manaHeal": "Regenerate Mp",
+    "energyHeal": "Regenerate Energy",
+    "addState": "Add Status",
+    "removeState": "Remove Status"
+  },
+  "elements": {
+    "type": "Element Type",
+    "physical": "Physical",
+    "fire": "Fire",
+    "water": "Water",
+    "earth": "Earth",
+    "air": "Air",
+    "dark": "Dark",
+    "light": "Light"
   },
   "craft": {
     "header_required": "Name - Type - Subtype - Rarity - Number",
@@ -225,7 +305,7 @@
     "list_regions_connected": "Connected regions",
     "no_connected_regions": "No regions connected to this region",
     "follow_the_link": "You can have the list of resources at the link bellow.",
-    "services":  "Services",
+    "services": "Services",
     "service_marketplace": "Marketplace (Tax: %d%)",
     "service_forge": "Blacksmith (Craft: Lvl. %d - %d)",
     "service_shop": "Shop (Tax: %d%)",
@@ -280,7 +360,14 @@
     "disable": "Disable",
     "region": "Region",
     "modular": "Modular",
-    "and":  "and"
+    "and": "and",
+    "aquired": "Aquired",
+    "unlockable": "Unlockable",
+    "locked": "Locked",
+    "equipable": "Equipable",
+    "yes": "Yes",
+    "no": "No",
+    "mobile_set":  "Mobile Detection Mode: %s. Is user on mobile: %s"
   },
   "guild": {
     "you_dont_have_a_guild": "You don't have a guild",
@@ -341,6 +428,7 @@
     "page_x_out_of": "Page %d/%d",
     "currently_equipped": "Currently Equipped",
     "attributes": "Attributes",
+    "secondary_attributes": "Secondary Attributes",
     "nothing_in_this_slot": "You don't have any equipped item in this slot",
     "nothing_equipped": "You don't have any equipped item",
     "power": "Power",
@@ -353,13 +441,15 @@
     "sellall_going_to_sell_all": "All items that are not marked as favorites",
     "sellall_going_to_sell_rarity": "All items of \"%s\" quality that are not marked as favorites",
     "sellall_going_to_sell_type": "All items of \"%s\" type that are not marked as favorites",
-    "sellall_going_to_sell_level": "All items with their level greater then or equal to %d that are not marked as favorites",
+    "sellall_going_to_sell_level_sup": "All items with their level greater than or equal to %d that are not marked as favorites",
+    "sellall_going_to_sell_level_inf": "All items with their level lower than or equal to %d that are not marked as favorites",
     "sellall_total_value": "Total value of items",
     "sellall_are_you_sure": "Are you sure you want to sell these items?",
     "sellall_cancel": "You cancelled the sale",
     "sellall_going_to_sell_power_sup": "All items with a power greater than or equal to %d",
     "sellall_going_to_sell_power_inf": "All items with a power lower than or equal to %d",
-    "sellall_going_to_sell_name": "All items whose name contains \"%s\""
+    "sellall_going_to_sell_name": "All items whose name contains \"%s\"",
+    "sellall_going_to_sell_subtype": "All items of \"%s\" subtype that are not marked as favorites"
   },
   "mounts": {
     "reduction": "Bonuses/Penalties in travel time for the following climate/terrain:",
@@ -418,6 +508,7 @@
     "info_attributes_title": "Attributes | %d point to distribute (Reset price %dG)",
     "info_attributes_title_plur": "Attributes | %d points to distribute (Reset price %dG)",
     "maximum_level": "Max. Level",
+    "character_advancement": "Character Advancement",
     "level": "Level",
     "craft_level": "Craft Level",
     "money": "Money",
@@ -432,8 +523,14 @@
     "no_desc": "No desciption for this achievement",
     "maximum_stun_chance": "Maximum Stun Chance",
     "reset_price_title": "Reseting your attributes",
+    "reset_talents_price_title": "Reseting your talents",
     "sure_to_reset_title": "Are you sure to reset your attributes?",
-    "reset_cancel": "You've cancelled your attributes reset"
+    "reset_cancel": "You've cancelled your attributes reset",
+    "sure_to_reset_talents_title": "Are you sure to reset your talents?",
+    "reset_talents_cancel": "You've cancelled your talents reset",
+    "mana_points": "Mana Points",
+    "energy_points": "Energy Points",
+    "character_resources": "Character Resources"
   },
   "economic": {
     "sell_for_x": "You sold your item for %dG",
@@ -456,7 +553,8 @@
     "sure_to_travel_title": "Are you sure you want to travel?",
     "sure_to_travel_body": "%s → Yes\n%s → No",
     "travel_cancel": "You've cancelled your trip",
-    "total_without_weather": "Total travel time without weather impact"
+    "total_without_weather": "Total travel time without weather impact",
+    "travel_cancel_easter_egg": "You were about to head off, but got lazy and decided to stay. Maybe you're bipolar?"
   },
   "fight_pve": {
     "ganked_by_monster": "You weren't stealthy enough, a monster is attacking you! (You need more perception)",
@@ -507,7 +605,16 @@
     "now_unmuted": "Fight notifications are now activated",
     "settings_menu_mute": "%s Fight notifications",
     "status_of_fight": "Battle status: %s",
-    "battle_ongoing": "You're fighting!"
+    "battle_ongoing": "You're fighting!",
+    "missed": "Missed!",
+    "status_removed": "Status removed: %s",
+    "status_added": "Status added: %s",
+    "results_lost": "Lost:",
+    "results_gain": "Gain:",
+    "results_health_points": "%d hp.",
+    "results_mana_points": "%d mp.",
+    "results_energy_points": "%d energy.",
+    "cant_do_anything": "Can't do anything"
   },
   "rarities": {
     "common": "Common",
@@ -524,7 +631,8 @@
     "ru": "Russian",
     "es": "Spanish",
     "list_of_languages": "List of available languages (use the shortcut to switch languages)",
-    "lang_changed": "Language successfully changed, the bot will now answer in %s"
+    "lang_changed": "Language successfully changed, the bot will now answer in %s",
+    "vi": "Vietnamese"
   },
   "other": {
     "loading_character": "Loading your character",
@@ -553,7 +661,7 @@
     "plant": "Plant",
     "sword": "Sword",
     "whip": "Whip",
-    "armor": "Armor",
+    "metal": "Metal",
     "loot_box_equipment": "Equipment Box",
     "reset_time_potion": "Anti-Tiredness",
     "founder_box": "Founder Reward",
@@ -563,7 +671,13 @@
     "energy_potion": "Toning Potion",
     "salamander": "Salamander",
     "camel": "Camel",
-    "polar_bear":  "Polar Bear"
+    "polar_bear": "Polar Bear",
+    "cloth": "Cloth",
+    "leather": "Leather",
+    "bow": "Bow",
+    "dagger": "Dagger",
+    "wand": "Wand",
+    "staff": "Staff"
   },
   "stats": {
     "strength": "Strength",
@@ -575,7 +689,26 @@
     "will": "Will",
     "perception": "Perception",
     "charisma": "Charisma",
-    "luck": "Luck"
+    "luck": "Luck",
+    "hitRate": "Hit Rate",
+    "evadeRate": "Physical Evade Rate",
+    "criticalRate": "Critical Rate",
+    "regenHp": "Regen HP",
+    "regenMp": "Regen MP",
+    "regenEnergy": "Regen Energy",
+    "skillManaCost": "Skill Mana Cost",
+    "skillEnergyCost": "Skill Energy Cost",
+    "criticalEvadeRate": "Critical Evade Rate",
+    "magicalEvadeRate": "Magical Evade Rate",
+    "threat": "Threat",
+    "physicalResist": "Physical Resist",
+    "fireResist": "Fire Resist",
+    "waterResist": "Water Resist",
+    "earthResist": "Earth Resist",
+    "airResist": "Air Resist",
+    "darkResist": "Dark Resist",
+    "lightResist": "Light Resist",
+    "initiative":  "Initiative"
   },
   "lootboxes": {
     "open_message": "You opened a loot box, you get:\n",
@@ -592,7 +725,7 @@
     "wb_attacks": "World Boss: Attack Count",
     "wb_have_not_participate": "You have not yet participated in a boss fight",
     "your_rank": "Your rank: #%d out of %d players",
-    "power":  "Power Leaderboard | Total power among all players: %d"
+    "power": "Power Leaderboard | Total power among all players: %d"
   },
   "world_bosses": {
     "no_world_boss": "There is no world boss here",
@@ -606,10 +739,12 @@
     "boss_already_dead": "This world boss is already dead",
     "now_unmuted": "World Bosses notifications are now activated",
     "now_muted": "World Bosses notifications are now deactivated",
-    "settings_menu_mute": "%s World Bosses notifications"
+    "settings_menu_mute": "%s World Bosses notifications",
+    "skill_used":  "Skill Used"
   },
   "potions": {
     "drink": "You drank: \"%s\"\n",
+    "drink_plur": "You drank: \"%s\" %d times\n",
     "reset_time": "You feel your tiredness leaving, your tiredness time has been reset",
     "reduce_time": "You feel invigorated, your tiredness time has been reduced by: %d%"
   },
@@ -645,6 +780,7 @@
     "up": "Adds to attribute statName number Points",
     "leaderboard": "Shows your ranking based on the argument (arena, gold, level, craftlevel, power)",
     "reset": "Allows you to reset your attributes",
+    "resettalents": "Allows you to reset your talents",
     "fight_title": "Fights",
     "fight": "Allows you to try to attack the selected monster/monsters",
     "grpfight": "Allow you to try to attack the selected monster/monsters with your group",
@@ -730,7 +866,20 @@
     "tadd": "Add one or more item using <idItemInInventory> to the trade",
     "tremove": "Remove one or more item from the trade",
     "tsetmoney": "Set the amount of gold you want to trade",
-    "tvalidate": "Validates the trade. You must be in the same area as the person you are trading with. When you both validated, the trade is over. Everyone must re-validate the trade after changes were made"
+    "tvalidate": "Validates the trade. You must be in the same area as the person you are trading with. When you both validated, the trade is over. Everyone must re-validate the trade after changes were made",
+    "talents_title": "Talents/Skill Tree",
+    "talents": "Displays information on unlocked and unlockable talents",
+    "talentshow": "Displays talent information with the <idTalent> identifier",
+    "talentup": "Unlocks the talent with the <idTalent> identifier",
+    "skillshow": "Displays the information of the skill with the identifier <idSkill>",
+    "buildshow": "Displays your skill bar",
+    "buildadd": "Adds the skill with the <idSkill> identifier to your skill bar",
+    "buildremove": "Removes the skill with the <idSkill> identifier from your skill bar",
+    "buildmove": "Moves the skill with the <idSkill> identifier from your skill bar to the <slotNumber> slot",
+    "buildclear": "Removes all skills from your skill bar",
+    "talentexport": "Export your talents",
+    "talentimport": "Imports talent",
+    "setmobile": "Activate or deactivate the mobile friendly display mode. \"Arg\" could be: yes or no"
   },
   "settings_menu": {
     "title": "Settings"
