@@ -61,6 +61,7 @@
     "item_you_dont_have_item_equiped_here": "Você não tem nenhum item equipado aqui",
     "item_you_have_to_choose_type_to_unequip": "Você precisa escolher o tipo de item que quer desequipar",
     "item_cant_equip_higher_level": "Você precisa ser pelo menos nível %d para equipar este item",
+    "item_cant_equip_higher_rebirth_level": "You must be at least at rebirth level %d to equip this item",
     "item_cant_sell_favorite": "Você não pode vender um item marcado como favorito",
     "item_you_cant_use": "Você não pode usar este item",
     "item_enter_id_to_use": "Você precisa digitar o ID do item para usar.",

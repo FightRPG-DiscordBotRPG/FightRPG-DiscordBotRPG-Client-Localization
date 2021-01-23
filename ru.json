@@ -61,6 +61,7 @@
     "item_you_dont_have_item_equiped_here": "У вас нет экипированного предмета в этом слоте",
     "item_you_have_to_choose_type_to_unequip": "Вы должны выбрать тип предмета, который вы хотите снять",
     "item_cant_equip_higher_level": "Вы должны быть по крайней мере %d уровня, чтобы экипировать этот предмет",
+    "item_cant_equip_higher_rebirth_level": "You must be at least at rebirth level %d to equip this item",
     "item_cant_sell_favorite": "Вы не можете продавать предметы, помеченные как избранные",
     "item_you_cant_use": "Вы не можете использовать этот предмет",
     "item_enter_id_to_use": "Необходимо ввести ID предмета для использования.",

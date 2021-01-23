@@ -61,6 +61,7 @@
     "item_you_dont_have_item_equiped_here": "You don't have an equipped item in this slot",
     "item_you_have_to_choose_type_to_unequip": "You must choose the kind of item you want to unequip",
     "item_cant_equip_higher_level": "You must be at least at level %d to equip this item",
+    "item_cant_equip_higher_rebirth_level": "You must be at least at rebirth level %d to equip this item",
     "item_cant_sell_favorite": "You can't sell an item tagged as favorite",
     "item_you_cant_use": "You can't use this item",
     "item_enter_id_to_use": "You must enter the ID of the item to use.",
