@@ -416,7 +416,7 @@
   },
   "inventory_equipment": {
     "item_equiped": "Bạn đã trang bị vật phẩm (%s)",
-    "item_unequiped": "Bạn đã gỡ trang bị",
+    "item_unequiped": "Bạn đã gỡ trang bị (%s)",
     "id": "id",
     "name": "Tên",
     "type": "Type",

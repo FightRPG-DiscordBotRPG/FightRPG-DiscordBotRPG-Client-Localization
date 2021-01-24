@@ -416,7 +416,7 @@
   },
   "inventory_equipment": {
     "item_equiped": "Votre objet a été équipé (%s)",
-    "item_unequiped": "L'objet a été déséquipé",
+    "item_unequiped": "L'objet a été déséquipé (%s)",
     "id": "id",
     "name": "Nom",
     "type": "Type",

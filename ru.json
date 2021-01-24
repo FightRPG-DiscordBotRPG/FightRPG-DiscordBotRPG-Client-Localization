@@ -416,7 +416,7 @@
   },
   "inventory_equipment": {
     "item_equiped": "Теперь ваш предмет экипирован (%s)",
-    "item_unequiped": "Предмет был снят",
+    "item_unequiped": "Предмет был снят (%s)",
     "id": "id",
     "name": "Имя",
     "type": "Тип",

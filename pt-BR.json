@@ -416,7 +416,7 @@
   },
   "inventory_equipment": {
     "item_equiped": "Seu item agora está equipado (%s)",
-    "item_unequiped": "O item foi desequipado",
+    "item_unequiped": "O item foi desequipado (%s)",
     "id": "ID",
     "name": "Nome",
     "type": "Tipo",
