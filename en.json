@@ -289,6 +289,8 @@
     "no_description": "No description available for this area",
     "maximum_quality": "Maximum quality for an item:",
     "minimum_quality": "Minimum quality for an item:",
+    "minimum_rebirth_level": "Minimum monsters rebirth level",
+    "maximum_rebirth_level": "Maximum monsters rebirth level",
     "you_claimed": "You've claimed this area",
     "owned_by": "Owned by: %s",
     "monster_group": "ID: %s | %s (+%d more) | Avg Lv: %s | Type: %s",
