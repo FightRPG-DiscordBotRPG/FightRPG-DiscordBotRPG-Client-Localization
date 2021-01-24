@@ -422,6 +422,7 @@
     "type": "Tipo",
     "subtype": "Subtipo",
     "level": "Nível",
+    "rebirth_level": "Rebirth Level",
     "rarity": "Raridade",
     "empty_inventory": "Inventário Vazio",
     "no_desc": "Sem descrição para este item",

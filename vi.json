@@ -422,6 +422,7 @@
     "type": "Type",
     "subtype": "Subtype",
     "level": "Lv",
+    "rebirth_level": "Rebirth Level",
     "rarity": "Rarity",
     "empty_inventory": "Rương đồ trống",
     "no_desc": "Không có mô tả về vật phẩm này",

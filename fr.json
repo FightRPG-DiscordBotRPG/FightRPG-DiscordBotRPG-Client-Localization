@@ -422,6 +422,7 @@
     "type": "Type",
     "subtype": "Sous-type",
     "level": "Niveau",
+    "rebirth_level": "Niveau de Renaissance",
     "rarity": "Rareté",
     "empty_inventory": "Inventaire Vide",
     "no_desc": "Pas de description pour cet objet",

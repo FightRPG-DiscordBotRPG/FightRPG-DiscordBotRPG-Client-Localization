@@ -422,6 +422,7 @@
     "type": "Type",
     "subtype": "Subtype",
     "level": "Level",
+    "rebirth_level": "Rebirth Level",
     "rarity": "Rarity",
     "empty_inventory": "Empty Inventory",
     "no_desc": "No description for this item",
