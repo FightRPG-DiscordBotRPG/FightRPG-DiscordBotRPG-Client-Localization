@@ -729,7 +729,8 @@
     "wb_attacks": "Chefe Global: Número de Ataques",
     "wb_have_not_participate": "Você não participou ainda em uma luta de chefe",
     "your_rank": "Seu ranque: #%d dentre %d jogadores",
-    "power": "Classificação de Poder | Poder total entre todos jogadores: %d"
+    "power": "Classificação de Poder | Poder total entre todos jogadores: %d",
+    "achievements": "Achievements Leaderboard | Total achievement points among all players: %d"
   },
   "world_bosses": {
     "no_world_boss": "Não há chefe global aqui",

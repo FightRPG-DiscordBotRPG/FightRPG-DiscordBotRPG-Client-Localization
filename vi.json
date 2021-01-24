@@ -722,7 +722,8 @@
     "wb_attacks": "World Boss: Số lần Atk",
     "wb_have_not_participate": "Bạn chưa tham gia vào trận chiến World Boss nào",
     "your_rank": "Xếp hạng: #%d / %d Người chơi",
-    "power": "Top Power | Tổng power: %d"
+    "power": "Top Power | Tổng power: %d",
+    "achievements": "Achievements Leaderboard | Total achievement points among all players: %d"
   },
   "world_bosses": {
     "no_world_boss": "Hiện tại chưa xuất hiện World Boss",
