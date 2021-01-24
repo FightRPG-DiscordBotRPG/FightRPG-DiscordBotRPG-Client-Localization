@@ -417,6 +417,7 @@
     "disband_cancelled": "Hủy bỏ giải tán Guild",
     "total_player_power": "Tổng Power của thành viên là %d",
     "total_player_level": "Tổng Lv của thành viên là %d",
+    "total_player_rebirth_level": "Total Rebirth Level of members %d",
     "current_applications": "Danh sách hiện tại"
   },
   "inventory_equipment": {

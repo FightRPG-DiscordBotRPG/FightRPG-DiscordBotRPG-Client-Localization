@@ -417,6 +417,7 @@
     "disband_cancelled": "Dissolution annulée",
     "total_player_power": "Puissance Totale des membres %d",
     "total_player_level": "Niveau Total des membres %d",
+    "total_player_rebirth_level": "Niveau de Renaissance Total des membres %d",
     "current_applications": "Candidatures en cours"
   },
   "inventory_equipment": {
