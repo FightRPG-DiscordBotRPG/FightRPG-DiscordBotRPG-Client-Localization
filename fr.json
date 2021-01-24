@@ -291,6 +291,7 @@
     "minimum_quality": "Qualité minimale pour un objet :",
     "minimum_rebirth_level": "Niveau de renaissance minimum des monstres :",
     "maximum_rebirth_level": "Niveau de renaissance maximum des monstres :",
+    "monsters_rebirth_level": "Niveaux de renaissance des monstres :",
     "you_claimed": "Vous avez conquis cette zone",
     "owned_by": "Propriétaire : %s",
     "monster_group": "ID : %s | %s (+%d autres) | Lv. Moy. : %s | Type : %s",

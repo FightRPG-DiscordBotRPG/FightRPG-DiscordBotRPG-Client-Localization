@@ -291,6 +291,7 @@
     "minimum_quality": "Qualidade mínima para um item:",
     "minimum_rebirth_level": "Minimum monsters rebirth level:",
     "maximum_rebirth_level": "Maximum monsters rebirth level:",
+    "monsters_rebirth_level": "Monster Rebirth Levels:",
     "you_claimed": "Você reivindicou esta área",
     "owned_by": "Propriedade de: %s",
     "monster_group": "ID: %s | %s (+%d mais) | Nvl. Méd: %s | Tipo: %s",

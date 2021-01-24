@@ -291,6 +291,7 @@
     "minimum_quality": "Минимальное качество предмета:",
     "minimum_rebirth_level": "Minimum monsters rebirth level:",
     "maximum_rebirth_level": "Maximum monsters rebirth level:",
+    "monsters_rebirth_level": "Monster Rebirth Levels:",
     "you_claimed": "Вы претендуете на эту территорию",
     "owned_by": "Принадлежит: %s",
     "monster_group": "ID: %s | %s (+%d более) | Сред Ур: %s | Тип: %s",
