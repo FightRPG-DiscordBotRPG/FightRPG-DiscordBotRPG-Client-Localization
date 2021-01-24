@@ -418,7 +418,9 @@
     "total_player_power": "Puissance Totale des membres %d",
     "total_player_level": "Niveau Total des membres %d",
     "total_player_rebirth_level": "Niveau de Renaissance Total des membres %d",
-    "current_applications": "Candidatures en cours"
+    "current_applications": "Candidatures en cours",
+    "you_ve_been_accepted": "Vous avez été accepté dans la guilde \"%s\"",
+    "you_ve_been_kicked": "Vous avez été expulser de votre guilde"
   },
   "inventory_equipment": {
     "item_equiped": "Votre objet a été équipé (%s)",

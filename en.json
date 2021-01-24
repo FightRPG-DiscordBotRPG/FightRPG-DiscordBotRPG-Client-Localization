@@ -418,7 +418,9 @@
     "total_player_power": "Total Power of members %d",
     "total_player_level": "Total Level of members %d",
     "total_player_rebirth_level": "Total Rebirth Level of members %d",
-    "current_applications": "Current applications"
+    "current_applications": "Current applications",
+    "you_ve_been_accepted": "You have been accepted in the guild \"%s\"",
+    "you_ve_been_kicked": "You have been kicked from your guild"
   },
   "inventory_equipment": {
     "item_equiped": "Your item is now equipped (%s)",

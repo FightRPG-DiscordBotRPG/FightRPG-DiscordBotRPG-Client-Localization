@@ -418,7 +418,9 @@
     "total_player_power": "Tổng Power của thành viên là %d",
     "total_player_level": "Tổng Lv của thành viên là %d",
     "total_player_rebirth_level": "Total Rebirth Level of members %d",
-    "current_applications": "Danh sách hiện tại"
+    "current_applications": "Danh sách hiện tại",
+    "you_ve_been_accepted": "You have been accepted in the guild \"%s\"",
+    "you_ve_been_kicked": "You have been kicked from your guild"
   },
   "inventory_equipment": {
     "item_equiped": "Bạn đã trang bị vật phẩm (%s)",
