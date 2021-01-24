@@ -370,7 +370,9 @@
     "equipable": "Équipable",
     "yes": "Oui",
     "no": "Non",
-    "mobile_set": "Mode de détection d'affichage réduit: %s. L'utilisateur utilise un affichage réduit: %s"
+    "mobile_set": "Mode de détection d'affichage réduit: %s. L'utilisateur utilise un affichage réduit: %s",
+    "points": "%d Point",
+    "points_plur": "%d Points"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",
@@ -534,7 +536,7 @@
     "reset_talents_cancel": "Vous avez annulé la réinitialisation de vos talents",
     "mana_points": "Points de Mana",
     "energy_points": "Points d'Energie",
-    "character_resources": "Ressources du Personnage"
+    "achievement_points": "Points de Haut Fait (%d / %d)"
   },
   "economic": {
     "sell_for_x": "Vous avez vendu votre objet pour %dG",

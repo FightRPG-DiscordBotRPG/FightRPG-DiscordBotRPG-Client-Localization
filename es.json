@@ -370,7 +370,9 @@
     "equipable": "Equipable",
     "yes": "Yes",
     "no": "No",
-    "mobile_set": "Mobile Detection Mode: %s. Is user on mobile: %s"
+    "mobile_set": "Mobile Detection Mode: %s. Is user on mobile: %s",
+    "points": "%d Point",
+    "points_plur": "%d Points"
   },
   "guild": {
     "you_dont_have_a_guild": "No tienes un gremio",
@@ -533,7 +535,9 @@
     "sure_to_reset_talents_title": "Are you sure to reset your talents?",
     "reset_talents_cancel": "You've cancelled your talents reset",
     "mana_points": "Mana Points",
-    "energy_points": "Energy Points"
+    "energy_points": "Energy Points",
+    "character_resources": "Character Resources",
+    "achievement_points": "Achievement Points (%d / %d)"
   },
   "economic": {
     "sell_for_x": "Has vendido tu objeto por %dG",
