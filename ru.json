@@ -551,7 +551,8 @@
     "rebirth_items_stats": "Items of rebirth level %d, will have %d% more stats compared to no rebirth level.",
     "rebirth_monsters_stats": "Monsters of rebirth level %d, will have %d% more stats compared to no rebirth level.",
     "rebirth_stats_points_more": "You will have %d points to distribute each level in stats.",
-    "rebirth_talents_points_more": "You will start with %d more talents points to distribute."
+    "rebirth_talents_points_more": "You will start with %d more talents points to distribute.",
+    "rebirth_title": "Rebirth Information"
   },
   "economic": {
     "sell_for_x": "Вы продали свой предмет за %dG",
