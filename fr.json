@@ -538,7 +538,19 @@
     "reset_talents_cancel": "Vous avez annulé la réinitialisation de vos talents",
     "mana_points": "Points de Mana",
     "energy_points": "Points d'Energie",
-    "achievement_points": "Points de Haut Fait (%d / %d)"
+    "character_resources": "Resources du Personnage",
+    "achievement_points": "Points de Haut Fait (%d / %d)",
+    "rebirth_available": "Renaissance Disponible",
+    "rebirth_unavailable": "Renaissance Indisponible",
+    "rebirth_do_you_want": "Que voulez-vous faire renaître ?",
+    "rebirth_sure_to": "Voulez-vous vraiment renaître en : %s?",
+    "rebirth_sure_to_description": "Tous vos objets seront déséquipés, vos statistiques principales, secondaires et vos talents vont être réinitialisés. Vous ne perdrez rien d'autre.",
+    "rebirht_items_loot": "Les objets que vous allez droper seront au moins de niveau de renaissance : %d.",
+    "rebirht_items_craft": "Les objets que vous fabriquerez seront au niveau de renaissance maximum : %d.",
+    "rebirth_items_stats": "Les éléments de niveau de renaissance %d, auront %d% de statistiques en plus par rapport à aucun niveau de renaissance.",
+    "rebirth_monsters_stats": "Les monstres de niveau de renaissance %d, auront %d% de statistiques en plus par rapport à aucun niveau de renaissance.",
+    "rebirth_stats_points_more": "Vous aurez %d points à distribuer chaque niveau dans les statistiques.",
+    "rebirth_talents_points_more": "Vous commencerez avec %d plus de points de talents à distribuer."
   },
   "economic": {
     "sell_for_x": "Vous avez vendu votre objet pour %dG",

@@ -540,7 +540,18 @@
     "mana_points": "Mana Points",
     "energy_points": "Energy Points",
     "character_resources": "Character Resources",
-    "achievement_points": "Achievement Points (%d / %d)"
+    "achievement_points": "Achievement Points (%d / %d)",
+    "rebirth_available": "Rebirth Available",
+    "rebirth_unavailable": "Rebirth Unavailable",
+    "rebirth_do_you_want": "What do you want to rebirth?",
+    "rebirth_sure_to": "Do you really want to rebirth : %s?",
+    "rebirth_sure_to_description": "All your items will be un-equipped, your stats, secondary stats, talents are going to be reseted. You won't loose anything else.",
+    "rebirht_items_loot": "Items you will loot will be at least rebirth level: %d.",
+    "rebirht_items_craft": "Items you will craft will be at max rebirth level: %d.",
+    "rebirth_items_stats": "Items of rebirth level %d, will have %d% more stats compared to no rebirth level.",
+    "rebirth_monsters_stats": "Monsters of rebirth level %d, will have %d% more stats compared to no rebirth level.",
+    "rebirth_stats_points_more": "You will have %d points to distribute each level in stats.",
+    "rebirth_talents_points_more": "You will start with %d more talents points to distribute."
   },
   "economic": {
     "sell_for_x": "Você vendeu seu item por %dG",
