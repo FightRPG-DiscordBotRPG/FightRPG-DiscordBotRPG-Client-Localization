@@ -161,7 +161,9 @@
     "skill_build_not_equipped": "Cette compétence n'est pas équippée",
     "skill_build_incorrect_priority": "Priorité incorrecte",
     "antispam_remaining": "Challenge raté (%d essais restants avant d'être banni pour %s minutes)",
-    "antispam_end": "Challenge raté, il ne vous reste plus d'essais restant, vous ne pouvez plus jouer pendant %s minutes."
+    "antispam_end": "Challenge raté, il ne vous reste plus d'essais restant, vous ne pouvez plus jouer pendant %s minutes.",
+    "rebirth_cant_rebirth": "Vous ne pouvez pas faire renaître cela",
+    "rebirth_cant_rebirth_max_level": "Vous êtes déjà au niveau maximum de renaissance pour cela"
   },
   "lootbox": {
     "contains": "Cette boite à butin peut contenir %d des éléments suivants:"
@@ -544,7 +546,8 @@
     "rebirth_unavailable": "Renaissance Indisponible",
     "rebirth_do_you_want": "Que voulez-vous faire renaître ?",
     "rebirth_sure_to": "Voulez-vous vraiment renaître en : %s?",
-    "rebirth_sure_to_description": "Tous vos objets seront déséquipés, vos statistiques principales, secondaires et vos talents vont être réinitialisés. Vous ne perdrez rien d'autre.",
+    "rebirth_sure_to_description": "Tous vos objets seront déséquipés, vos statistiques principales, secondaires, votre niveau et vos talents vont être réinitialisés. Vous ne perdrez rien d'autre.",
+    "rebirth_sure_to_description_craft": "Votre niveau de fabrication sera réinitialisé. Vous ne perdrez rien d'autre.",
     "rebirht_items_loot": "Les objets que vous allez droper seront au moins de niveau de renaissance : %d.",
     "rebirht_items_craft": "Les objets que vous fabriquerez seront au niveau de renaissance maximum : %d.",
     "rebirth_items_stats": "Les éléments de niveau de renaissance %d, auront %d% de statistiques en plus par rapport à aucun niveau de renaissance.",
@@ -552,7 +555,8 @@
     "rebirth_stats_points_more": "Vous aurez %d points à distribuer chaque niveau dans les statistiques.",
     "rebirth_talents_points_more": "Vous commencerez avec %d plus de points de talents à distribuer.",
     "rebirth_title": "Information de Renaissance",
-    "current_bonuses": "Bonus actuels"
+    "current_bonuses": "Bonus actuels",
+    "rebirth_successful": "Renaissance Réussite"
   },
   "economic": {
     "sell_for_x": "Vous avez vendu votre objet pour %dG",

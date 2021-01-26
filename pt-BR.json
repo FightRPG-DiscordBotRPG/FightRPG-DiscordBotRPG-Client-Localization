@@ -161,7 +161,9 @@
     "skill_build_not_equipped": "That skill isn't equipped",
     "skill_build_incorrect_priority": "Incorrect priority value",
     "antispam_remaining": "Challenge failed (%d tries left before being ban for %s minutes)",
-    "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes..."
+    "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes...",
+    "rebirth_cant_rebirth": "You can't rebirth that",
+    "rebirth_cant_rebirth_max_level": "You are already at the max rebirth level for that"
   },
   "lootbox": {
     "contains": "This loot box may contain %d of the following items:"
@@ -546,6 +548,7 @@
     "rebirth_do_you_want": "What do you want to rebirth?",
     "rebirth_sure_to": "Do you really want to rebirth : %s?",
     "rebirth_sure_to_description": "All your items will be un-equipped, your stats, secondary stats, talents are going to be reseted. You won't loose anything else.",
+    "rebirth_sure_to_description_craft": "Your crafting level will be reseted. You won't loose anything else.",
     "rebirht_items_loot": "Items you will loot will be at least rebirth level: %d.",
     "rebirht_items_craft": "Items you will craft will be at max rebirth level: %d.",
     "rebirth_items_stats": "Items of rebirth level %d, will have %d% more stats compared to no rebirth level.",
@@ -553,7 +556,8 @@
     "rebirth_stats_points_more": "You will have %d points to distribute each level in stats.",
     "rebirth_talents_points_more": "You will start with %d more talents points to distribute.",
     "rebirth_title": "Rebirth Information",
-    "current_bonuses": "Current Bonuses"
+    "current_bonuses": "Current Bonuses",
+    "rebirth_successful": "Rebirth Successful"
   },
   "economic": {
     "sell_for_x": "Você vendeu seu item por %dG",
