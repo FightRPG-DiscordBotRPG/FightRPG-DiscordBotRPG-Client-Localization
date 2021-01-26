@@ -557,7 +557,8 @@
     "rebirth_talents_points_more": "You will start with %d more talents points to distribute.",
     "rebirth_title": "Rebirth Information",
     "current_bonuses": "Current Bonuses",
-    "rebirth_successful": "Rebirth Successful"
+    "rebirth_successful": "Rebirth Successful",
+    "rebirth_cancelled": "You've cancelled your rebirth"
   },
   "economic": {
     "sell_for_x": "Has vendido tu objeto por %dG",

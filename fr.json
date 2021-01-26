@@ -556,7 +556,8 @@
     "rebirth_talents_points_more": "Vous commencerez avec %d plus de points de talents à distribuer.",
     "rebirth_title": "Information de Renaissance",
     "current_bonuses": "Bonus actuels",
-    "rebirth_successful": "Renaissance Réussite"
+    "rebirth_successful": "Renaissance Réussite",
+    "rebirth_cancelled": "Vous avez annulé votre renaissance"
   },
   "economic": {
     "sell_for_x": "Vous avez vendu votre objet pour %dG",

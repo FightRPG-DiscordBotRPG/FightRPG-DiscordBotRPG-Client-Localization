@@ -162,8 +162,8 @@
     "skill_build_incorrect_priority": "Incorrect priority value",
     "antispam_remaining": "Challenge failed (%d tries left before being ban for %s minutes)",
     "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes...",
-    "rebirth_cant_rebirth":  "You can't rebirth that",
-    "rebirth_cant_rebirth_max_level":  "You are already at the max rebirth level for that"
+    "rebirth_cant_rebirth": "You can't rebirth that",
+    "rebirth_cant_rebirth_max_level": "You are already at the max rebirth level for that"
   },
   "lootbox": {
     "contains": "This loot box may contain %d of the following items:"
@@ -557,7 +557,8 @@
     "rebirth_talents_points_more": "You will start with %d more talents points to distribute.",
     "rebirth_title": "Rebirth Information",
     "current_bonuses": "Current Bonuses",
-    "rebirth_successful":  "Rebirth Successful"
+    "rebirth_successful": "Rebirth Successful",
+    "rebirth_cancelled": "You've cancelled your rebirth"
   },
   "economic": {
     "sell_for_x": "You sold your item for %dG",
@@ -735,7 +736,7 @@
     "airResist": "Air Resist",
     "darkResist": "Dark Resist",
     "lightResist": "Light Resist",
-    "initiative":  "Initiative"
+    "initiative": "Initiative"
   },
   "lootboxes": {
     "open_message": "You opened a loot box, you get:\n",
@@ -768,7 +769,7 @@
     "now_unmuted": "World Bosses notifications are now activated",
     "now_muted": "World Bosses notifications are now deactivated",
     "settings_menu_mute": "%s World Bosses notifications",
-    "skill_used":  "Skill Used"
+    "skill_used": "Skill Used"
   },
   "potions": {
     "drink": "You drank: \"%s\"\n",
