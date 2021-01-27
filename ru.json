@@ -163,7 +163,8 @@
     "antispam_remaining": "Challenge failed (%d tries left before being ban for %s minutes)",
     "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes...",
     "rebirth_cant_rebirth": "You can't rebirth that",
-    "rebirth_cant_rebirth_max_level": "You are already at the max rebirth level for that"
+    "rebirth_cant_rebirth_max_level": "You are already at the max rebirth level for that",
+    "rebirth_dont_have_required_items": "You don't have all the required resources to rebirth"
   },
   "lootbox": {
     "contains": "This loot box may contain %d of the following items:"

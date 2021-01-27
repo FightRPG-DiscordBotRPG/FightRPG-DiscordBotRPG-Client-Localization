@@ -163,7 +163,8 @@
     "antispam_remaining": "Challenge raté (%d essais restants avant d'être banni pour %s minutes)",
     "antispam_end": "Challenge raté, il ne vous reste plus d'essais restant, vous ne pouvez plus jouer pendant %s minutes.",
     "rebirth_cant_rebirth": "Vous ne pouvez pas faire renaître cela",
-    "rebirth_cant_rebirth_max_level": "Vous êtes déjà au niveau maximum de renaissance pour cela"
+    "rebirth_cant_rebirth_max_level": "Vous êtes déjà au niveau maximum de renaissance pour cela",
+    "rebirth_dont_have_required_items": "Vous n'avez pas toutes les ressources requises pour renaître"
   },
   "lootbox": {
     "contains": "Cette boite à butin peut contenir %d des éléments suivants:"
