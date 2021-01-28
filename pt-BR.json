@@ -462,7 +462,9 @@
     "sellall_going_to_sell_power_sup": "Todos os itens com uma potência maior ou igual a %d",
     "sellall_going_to_sell_power_inf": "Todos os itens com uma potência menor ou igual a %d",
     "sellall_going_to_sell_name": "Todos itens cujo nome conter \"%s\"",
-    "sellall_going_to_sell_subtype": "All items of \"%s\" subtype that are not marked as favorites"
+    "sellall_going_to_sell_subtype": "All items of \"%s\" subtype that are not marked as favorites",
+    "sellall_going_to_sell_rebirth_sup": "All items with their rebirth level greater than or equal to %d that are not marked as favorites",
+    "sellall_going_to_sell_rebirth_inf": "All items with their rebirth level lower than or equal to %d that are not marked as favorites"
   },
   "mounts": {
     "reduction": "Bônus/Penalidades em tempo de viagem para o seguinte clima/terreno:",
