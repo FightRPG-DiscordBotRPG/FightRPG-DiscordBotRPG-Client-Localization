@@ -464,7 +464,9 @@
     "sellall_going_to_sell_name": "All items whose name contains \"%s\"",
     "sellall_going_to_sell_subtype": "All items of \"%s\" subtype that are not marked as favorites",
     "sellall_going_to_sell_rebirth_sup": "All items with their rebirth level greater than or equal to %d that are not marked as favorites",
-    "sellall_going_to_sell_rebirth_inf": "All items with their rebirth level lower than or equal to %d that are not marked as favorites"
+    "sellall_going_to_sell_rebirth_inf": "All items with their rebirth level lower than or equal to %d that are not marked as favorites",
+    "item_tag_as_favorite_filtered": "All items corresponding to the filter are now tagged as favorites",
+    "item_untag_as_favorite_filtered": "All items corresponding to the filter are no longer tagged as favorites"
   },
   "mounts": {
     "reduction": "Ảnh hưởng khi di chuyển theo khí hậu/địa hình:",

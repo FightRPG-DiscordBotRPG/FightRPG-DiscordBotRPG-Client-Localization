@@ -463,7 +463,9 @@
     "sellall_going_to_sell_name": "Tous les objets dont le nom contient \"%s\"",
     "sellall_going_to_sell_subtype": "Tous les objets de sous-type \"%s\" qui ne sont pas marqué comme favori",
     "sellall_going_to_sell_rebirth_sup": "Tous les objets de niveau de renaissance %d ou supérieur qui ne sont pas marqué comme favori",
-    "sellall_going_to_sell_rebirth_inf": "Tous les objets de niveau de renaissance %d ou inférieur qui ne sont pas marqué comme favori"
+    "sellall_going_to_sell_rebirth_inf": "Tous les objets de niveau de renaissance %d ou inférieur qui ne sont pas marqué comme favori",
+    "item_tag_as_favorite_filtered": "Tous les objets correspondants au filtre sont maintenant marqués comme favoris",
+    "item_untag_as_favorite_filtered": "tous les objets correspondants au filtre ne sont plus marqués comme favoris"
   },
   "mounts": {
     "reduction": "Bonus/Malus en temps de voyage pour les climats/terrains suivants:",
