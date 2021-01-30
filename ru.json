@@ -564,7 +564,8 @@
     "rebirth_title": "Rebirth Information",
     "current_bonuses": "Current Bonuses",
     "rebirth_successful": "Rebirth Successful",
-    "rebirth_cancelled": "You've cancelled your rebirth"
+    "rebirth_cancelled": "You've cancelled your rebirth",
+    "achievement_count": "Achievements (%d / %d)"
   },
   "economic": {
     "sell_for_x": "Вы продали свой предмет за %dG",

@@ -563,7 +563,8 @@
     "rebirth_title": "Information de Renaissance",
     "current_bonuses": "Bonus actuels",
     "rebirth_successful": "Renaissance Réussite",
-    "rebirth_cancelled": "Vous avez annulé votre renaissance"
+    "rebirth_cancelled": "Vous avez annulé votre renaissance",
+    "achievement_count": "Hauts Faits (%d / %d)"
   },
   "economic": {
     "sell_for_x": "Vous avez vendu votre objet pour %dG",
