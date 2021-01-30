@@ -913,7 +913,10 @@
     "buildclear": "Retire toutes les compétences de votre barre de compétence",
     "talentexport": "Exporte vos talent",
     "talentimport": "Importe des talents",
-    "setmobile": "Activez ou désactivez le mode d'affichage adapté aux téléphones portables. \"Arg\" peut être : oui ou non"
+    "setmobile": "Activez ou désactivez le mode d'affichage adapté aux téléphones portables. \"Arg\" peut être : oui ou non",
+    "rebirth": "Permet d'afficher vos bonus de renaissance actuels, vous pouvez également réagir avec les emojis afin de renaître : niveau ou artisanat",
+    "rebirth_level": "Vous permet d'afficher les prochains bonus de renaissance pour le niveau, vous aurez également la possibilité de faire renaître le niveau de votre personnage, une confirmation vous sera demandée",
+    "rebirth_craft_level": "Vous permet d'afficher les prochains bonus de renaissance pour le niveau d'artisanat, vous aurez également la possibilité de renaître le niveau d'artisanat de votre personnage, une confirmation vous sera demandée"
   },
   "settings_menu": {
     "title": "Paramètres"
