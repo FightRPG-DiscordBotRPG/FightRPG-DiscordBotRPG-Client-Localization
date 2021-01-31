@@ -60,7 +60,8 @@
     "item_enter_id_to_equip": "Vous devez entrer l'identifiant de l'objet à équiper",
     "item_you_dont_have_item_equiped_here": "Vous n'avez pas d'objets équipé dans cet emplacement",
     "item_you_have_to_choose_type_to_unequip": "Vous devez choisir le type d'objet à déséquiper",
-    "item_cant_equip_higher_level": "Vous devez être au minimum level %d pour équiper cet objet",
+    "item_cant_equip_higher_level": "Vous devez être au minimum niveau %d pour équiper cet objet",
+    "item_cant_equip_higher_rebirth_level": "Vous devez être au minimum d'un niveau de renaissance de %d pour équiper cet objet",
     "item_cant_sell_favorite": "Vous ne pouvez pas vendre un objet marqué comme favori",
     "item_you_cant_use": "Vous ne pouvez pas utiliser cet objet",
     "item_enter_id_to_use": "Vous devez entrer l'id de l'objet à utiliser.",
@@ -123,6 +124,7 @@
     "craft_dont_have_required_items": "Vous n'avez pas toutes les ressources requises pour fabriquer cet objet",
     "craft_tired_wait_x_seconds": "Vous êtes trop fatigué pour fabriquer des objets vous devez encore attendre : %s secondes",
     "craft_level_incorrect": "Vous ne pouvez pas fabriquer un objet de ce niveau ici",
+    "craft_rebirth_level_incorrect": "Vous ne pouvez pas fabriquer un objet de ce niveau de renaissance ici",
     "prefix_max_length": "Le préfixe ne doit pas dépasser %d caractères",
     "prefix_undefined": "Le préfixe doit au moins contenir 1 caractère",
     "prefix_not_owner_server": "Vous devez posséder ce serveur pour changer le préfixe",
@@ -159,7 +161,11 @@
     "skill_build_not_equipped": "Cette compétence n'est pas équippée",
     "skill_build_incorrect_priority": "Priorité incorrecte",
     "antispam_remaining": "Challenge raté (%d essais restants avant d'être banni pour %s minutes)",
-    "antispam_end": "Challenge raté, il ne vous reste plus d'essais restant, vous ne pouvez plus jouer pendant %s minutes."
+    "antispam_end": "Challenge raté, il ne vous reste plus d'essais restant, vous ne pouvez plus jouer pendant %s minutes.",
+    "rebirth_cant_rebirth": "Vous ne pouvez pas faire renaître cela",
+    "rebirth_cant_rebirth_max_level": "Vous êtes déjà au niveau maximum de renaissance pour cela",
+    "rebirth_dont_have_required_items": "Vous n'avez pas toutes les ressources requises pour renaître",
+    "rebirth_not_max_level": "Vous devez être au niveau maximum pour renâitre"
   },
   "lootbox": {
     "contains": "Cette boite à butin peut contenir %d des éléments suivants:"
@@ -205,8 +211,7 @@
     "healMp": "Régénère le mana",
     "variance": "Variance",
     "number_of_targets": "Nombre de cibles",
-    "success_rate": "Taux de réussite",
-    "required_preparation_points": "Points de préparation requis",
+    "required_preparation_points": "Temps de Rechargement (Bonus Inclus)",
     "no_desc": "Pas de description pour cette compétence"
   },
   "effects": {
@@ -287,6 +292,9 @@
     "no_description": "Aucune description pour cette zone",
     "maximum_quality": "Qualité maximale pour un objet :",
     "minimum_quality": "Qualité minimale pour un objet :",
+    "minimum_rebirth_level": "Niveau de renaissance minimum des monstres :",
+    "maximum_rebirth_level": "Niveau de renaissance maximum des monstres :",
+    "monsters_rebirth_level": "Niveaux de renaissance des monstres :",
     "you_claimed": "Vous avez conquis cette zone",
     "owned_by": "Propriétaire : %s",
     "monster_group": "ID : %s | %s (+%d autres) | Lv. Moy. : %s | Type : %s",
@@ -365,7 +373,9 @@
     "equipable": "Équipable",
     "yes": "Oui",
     "no": "Non",
-    "mobile_set": "Mode de détection d'affichage réduit: %s. L'utilisateur utilise un affichage réduit: %s"
+    "mobile_set": "Mode de détection d'affichage réduit: %s. L'utilisateur utilise un affichage réduit: %s",
+    "points": "%d Point",
+    "points_plur": "%d Points"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",
@@ -410,16 +420,20 @@
     "disband_cancelled": "Dissolution annulée",
     "total_player_power": "Puissance Totale des membres %d",
     "total_player_level": "Niveau Total des membres %d",
-    "current_applications": "Candidatures en cours"
+    "total_player_rebirth_level": "Niveau de Renaissance Total des membres %d",
+    "current_applications": "Candidatures en cours",
+    "you_ve_been_accepted": "Vous avez été accepté dans la guilde \"%s\"",
+    "you_ve_been_kicked": "Vous avez été expulser de votre guilde"
   },
   "inventory_equipment": {
     "item_equiped": "Votre objet a été équipé (%s)",
-    "item_unequiped": "L'objet a été déséquipé",
+    "item_unequiped": "L'objet a été déséquipé (%s)",
     "id": "id",
     "name": "Nom",
     "type": "Type",
     "subtype": "Sous-type",
     "level": "Niveau",
+    "rebirth_level": "Niveau de Renaissance",
     "rarity": "Rareté",
     "empty_inventory": "Inventaire Vide",
     "no_desc": "Pas de description pour cet objet",
@@ -447,7 +461,11 @@
     "sellall_going_to_sell_power_sup": "Tous les objets dont la puissance est supérieure ou égale à %d",
     "sellall_going_to_sell_power_inf": "Tous les objets dont la puissance est inférieure ou égale à %d",
     "sellall_going_to_sell_name": "Tous les objets dont le nom contient \"%s\"",
-    "sellall_going_to_sell_subtype": "Tous les objets de sous-type \"%s\" qui ne sont pas marqué comme favori"
+    "sellall_going_to_sell_subtype": "Tous les objets de sous-type \"%s\" qui ne sont pas marqué comme favori",
+    "sellall_going_to_sell_rebirth_sup": "Tous les objets de niveau de renaissance %d ou supérieur qui ne sont pas marqué comme favori",
+    "sellall_going_to_sell_rebirth_inf": "Tous les objets de niveau de renaissance %d ou inférieur qui ne sont pas marqué comme favori",
+    "item_tag_as_favorite_filtered": "Tous les objets correspondants au filtre sont maintenant marqués comme favoris",
+    "item_untag_as_favorite_filtered": "tous les objets correspondants au filtre ne sont plus marqués comme favoris"
   },
   "mounts": {
     "reduction": "Bonus/Malus en temps de voyage pour les climats/terrains suivants:",
@@ -528,7 +546,27 @@
     "reset_talents_cancel": "Vous avez annulé la réinitialisation de vos talents",
     "mana_points": "Points de Mana",
     "energy_points": "Points d'Energie",
-    "character_resources": "Ressources du Personnage"
+    "character_resources": "Resources du Personnage",
+    "achievement_points": "Points de Haut Fait (%d / %d)",
+    "rebirth_available": "Renaissance Disponible",
+    "rebirth_unavailable": "Renaissance Indisponible",
+    "rebirth_do_you_want": "Que voulez-vous faire renaître ?",
+    "rebirth_sure_to": "Voulez-vous vraiment renaître en : %s?",
+    "rebirth_sure_to_description": "Tous vos objets seront déséquipés, vos statistiques principales, secondaires, votre niveau et vos talents vont être réinitialisés. Vous serez déplacé vers la première zone du jeu. Vous ne perdrez rien d'autre.",
+    "rebirth_sure_to_description_craft": "Votre niveau de fabrication sera réinitialisé. Vous ne perdrez rien d'autre.",
+    "rebirht_items_loot": "Les objets que vous allez droper seront au moins de niveau de renaissance : %d.",
+    "rebirht_items_craft": "Les objets que vous fabriquerez seront au niveau de renaissance maximum : %d.",
+    "rebirth_items_stats": "Les éléments de niveau de renaissance %d, auront %d% de statistiques en plus par rapport à aucun niveau de renaissance.",
+    "rebirth_monsters_stats": "Les monstres de niveau de renaissance %d, auront %d% de statistiques en plus par rapport à aucun niveau de renaissance.",
+    "rebirth_stats_points_more": "Vous aurez %d points à distribuer chaque niveau dans les statistiques.",
+    "rebirth_talents_points_more": "Vous commencerez avec %d plus de points de talents à distribuer.",
+    "rebirth_title": "Information de Renaissance",
+    "current_bonuses": "Bonus actuels",
+    "rebirth_successful": "Renaissance Réussite",
+    "rebirth_successful_level": "Votre force s'amenuise, votre champ de vision baisse et vous vous évanouissez. À votre réveil, vous vous rendez compte que vous êtes nu, à l'endroit même où votre aventure a commencé. Cependant, vous vous sentez différent, plus puissant...",
+    "rebirth_successful_craft_level": "Après un long périple pour devenir le meilleur des artisans, vous avez trouvé un maitre en la matière, un vieil homme. Celui-ci a promis de vous aider, vous le suivez, il vous raconte que pour devenir encore meilleur, il faut savoir recommencer. Pendant que vous prenez votre thé, le vieil homme s'empresse de vous donner un coup à la tête. À votre réveil, il n'est plus là, mais pire encore, vous ne vous souvenez plus comment vous fabriquiez vos objets. Mais vous avez l'impression, que vous allez encore mieux faire que votre première fois !",
+    "rebirth_cancelled": "Vous avez annulé votre renaissance",
+    "achievement_count": "Hauts Faits (%d / %d)"
   },
   "economic": {
     "sell_for_x": "Vous avez vendu votre objet pour %dG",
@@ -723,7 +761,8 @@
     "wb_attacks": "Boss Mondial: Nombre d'Attaques",
     "wb_have_not_participate": "Vous n'avez pas encore participé à un combat de boss",
     "your_rank": "Votre rang: #%d sur %d joueurs",
-    "power": "Classement de Puissance | Puissance totale des joueurs: %d"
+    "power": "Classement de Puissance | Puissance totale des joueurs : %d",
+    "achievements": "Classement des Hauts Faits | Points de haut fait total parmi les joueurs : %d"
   },
   "world_bosses": {
     "no_world_boss": "Il n'y a pas de Boss Mondiaux ici",
@@ -877,7 +916,10 @@
     "buildclear": "Retire toutes les compétences de votre barre de compétence",
     "talentexport": "Exporte vos talent",
     "talentimport": "Importe des talents",
-    "setmobile": "Activez ou désactivez le mode d'affichage adapté aux téléphones portables. \"Arg\" peut être : oui ou non"
+    "setmobile": "Activez ou désactivez le mode d'affichage adapté aux téléphones portables. \"Arg\" peut être : oui ou non",
+    "rebirth": "Permet d'afficher vos bonus de renaissance actuels, vous pouvez également réagir avec les emojis afin de renaître : niveau ou artisanat",
+    "rebirth_level": "Vous permet d'afficher les prochains bonus de renaissance pour le niveau, vous aurez également la possibilité de faire renaître le niveau de votre personnage, une confirmation vous sera demandée",
+    "rebirth_craft_level": "Vous permet d'afficher les prochains bonus de renaissance pour le niveau d'artisanat, vous aurez également la possibilité de renaître le niveau d'artisanat de votre personnage, une confirmation vous sera demandée"
   },
   "settings_menu": {
     "title": "Paramètres"

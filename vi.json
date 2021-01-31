@@ -61,6 +61,7 @@
     "item_you_dont_have_item_equiped_here": "You don't have an equipped item in this slot",
     "item_you_have_to_choose_type_to_unequip": "You must choose the kind of item you want to unequip",
     "item_cant_equip_higher_level": "Bạn phải đạt Lv tối thiểu là %d để trang bị vật phẩm này",
+    "item_cant_equip_higher_rebirth_level": "You must be at least at rebirth level %d to equip this item",
     "item_cant_sell_favorite": "Bạn không thể bán vật phẩm đã được gắn Tag yêu thích",
     "item_you_cant_use": "Bạn không thể sử dụng vật phẩm này",
     "item_enter_id_to_use": "Bạn cần nhập ID vật phẩm để sử dụng.",
@@ -123,6 +124,7 @@
     "craft_dont_have_required_items": "Bạn không đủ nguyên liệu cần thiết để Craft vật phẩm này",
     "craft_tired_wait_x_seconds": "Mệt mỏi vì Craft vật phẩm, hãy nghỉ ngơi và thử lại sau: %s giây",
     "craft_level_incorrect": "You can't craft an item of this level here",
+    "craft_rebirth_level_incorrect": "You can't craft an item of this rebirth level here",
     "prefix_max_length": "The prefix must not exceed a length of %d characters",
     "prefix_undefined": "The prefix must at least be 1 character long",
     "prefix_not_owner_server": "You must own this server to change the prefix",
@@ -159,7 +161,11 @@
     "skill_build_not_equipped": "That skill isn't equipped",
     "skill_build_incorrect_priority": "Incorrect priority value",
     "antispam_remaining": "Challenge failed (%d tries left before being ban for %s minutes)",
-    "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes..."
+    "antispam_end": "Challenge failed, you have no more tries left, you can't play for %s minutes...",
+    "rebirth_cant_rebirth": "You can't rebirth that",
+    "rebirth_cant_rebirth_max_level": "You are already at the max rebirth level for that",
+    "rebirth_dont_have_required_items": "You don't have all the required resources to rebirth",
+    "rebirth_not_max_level": "You must be at max level to rebirth"
   },
   "lootbox": {
     "contains": "This loot box may contain %d of the following items:"
@@ -206,7 +212,7 @@
     "variance": "Variance",
     "number_of_targets": "Number of targets",
     "success_rate": "Success Rate",
-    "required_preparation_points": "Required Prepration Points",
+    "required_preparation_points": "Skill Cooldown (Including Bonuses)",
     "no_desc": "No description for skill"
   },
   "effects": {
@@ -287,6 +293,9 @@
     "no_description": "Không có thông tin mô tả cho khu vực này",
     "maximum_quality": "Chất lượng vật phẩm cao nhất:",
     "minimum_quality": "Chất lượng vật phẩm thấp nhất:",
+    "minimum_rebirth_level": "Minimum monsters rebirth level:",
+    "maximum_rebirth_level": "Maximum monsters rebirth level:",
+    "monsters_rebirth_level": "Monster Rebirth Levels:",
     "you_claimed": "Bạn đã tuyên bố chủ quyền khu vực này",
     "owned_by": "Chủ quyền: %s",
     "monster_group": "ID: %s | %s (+%d more) | Lv Trung Bình: %s | %s",
@@ -365,7 +374,9 @@
     "equipable": "Equipable",
     "yes": "Yes",
     "no": "No",
-    "mobile_set": "Mobile Detection Mode: %s. Is user on mobile: %s"
+    "mobile_set": "Mobile Detection Mode: %s. Is user on mobile: %s",
+    "points": "%d Point",
+    "points_plur": "%d Points"
   },
   "guild": {
     "you_dont_have_a_guild": "Bạn không có Guild",
@@ -410,16 +421,20 @@
     "disband_cancelled": "Hủy bỏ giải tán Guild",
     "total_player_power": "Tổng Power của thành viên là %d",
     "total_player_level": "Tổng Lv của thành viên là %d",
-    "current_applications": "Danh sách hiện tại"
+    "total_player_rebirth_level": "Total Rebirth Level of members %d",
+    "current_applications": "Danh sách hiện tại",
+    "you_ve_been_accepted": "You have been accepted in the guild \"%s\"",
+    "you_ve_been_kicked": "You have been kicked from your guild"
   },
   "inventory_equipment": {
     "item_equiped": "Bạn đã trang bị vật phẩm (%s)",
-    "item_unequiped": "Bạn đã gỡ trang bị",
+    "item_unequiped": "Bạn đã gỡ trang bị (%s)",
     "id": "id",
     "name": "Tên",
     "type": "Type",
     "subtype": "Subtype",
     "level": "Lv",
+    "rebirth_level": "Rebirth Level",
     "rarity": "Rarity",
     "empty_inventory": "Rương đồ trống",
     "no_desc": "Không có mô tả về vật phẩm này",
@@ -447,7 +462,11 @@
     "sellall_going_to_sell_power_sup": "All items with a power greater than or equal to %d",
     "sellall_going_to_sell_power_inf": "All items with a power lower than or equal to %d",
     "sellall_going_to_sell_name": "All items whose name contains \"%s\"",
-    "sellall_going_to_sell_subtype": "All items of \"%s\" subtype that are not marked as favorites"
+    "sellall_going_to_sell_subtype": "All items of \"%s\" subtype that are not marked as favorites",
+    "sellall_going_to_sell_rebirth_sup": "All items with their rebirth level greater than or equal to %d that are not marked as favorites",
+    "sellall_going_to_sell_rebirth_inf": "All items with their rebirth level lower than or equal to %d that are not marked as favorites",
+    "item_tag_as_favorite_filtered": "All items corresponding to the filter are now tagged as favorites",
+    "item_untag_as_favorite_filtered": "All items corresponding to the filter are no longer tagged as favorites"
   },
   "mounts": {
     "reduction": "Ảnh hưởng khi di chuyển theo khí hậu/địa hình:",
@@ -528,7 +547,27 @@
     "reset_talents_cancel": "You've cancelled your talents reset",
     "mana_points": "Mana Points",
     "energy_points": "Energy Points",
-    "character_resources": "Character Resources"
+    "character_resources": "Character Resources",
+    "achievement_points": "Achievement Points (%d / %d)",
+    "rebirth_available": "Rebirth Available",
+    "rebirth_unavailable": "Rebirth Unavailable",
+    "rebirth_do_you_want": "What do you want to rebirth?",
+    "rebirth_sure_to": "Do you really want to rebirth : %s?",
+    "rebirth_sure_to_description": "All your items will be un-equipped, your stats, secondary stats, level and talents are going to be reset. You will move to the first area of the game. You won't lose anything else.",
+    "rebirth_sure_to_description_craft": "Your crafting level will be reset. You won't lose anything else.",
+    "rebirht_items_loot": "Items you loot will be at least rebirth level: %d.",
+    "rebirht_items_craft": "Items you craft will be at max rebirth level: %d.",
+    "rebirth_items_stats": "Items of rebirth level %d, will have %d% more stats compared to no rebirth level.",
+    "rebirth_monsters_stats": "Monsters of rebirth level %d, will have %d% more stats compared to no rebirth level.",
+    "rebirth_stats_points_more": "You will have %d points to distribute each level in stats.",
+    "rebirth_talents_points_more": "You will start with %d more talents points to distribute.",
+    "rebirth_title": "Rebirth Information",
+    "current_bonuses": "Current Bonuses",
+    "rebirth_successful": "Rebirth Successful",
+    "rebirth_successful_level": "Your strength diminishes, your field of view decreases and you faint. When you wake up, you realize that you are naked, right where your adventure began. However, you feel different, more powerful...",
+    "rebirth_successful_craft_level": "After a long journey to become the best craftsman, you have found a master in this art, an old man. He has promised to help you, you follow him, he tells you that to become even better, you have to know how to start again. While you are having your tea, the old man quickly gives you a blow to the head. When you wake up, he's gone, but worse, you can't remember how you used to make your things. But you have the impression, that you will do even better than your first time!",
+    "rebirth_cancelled": "You've cancelled your rebirth",
+    "achievement_count": "Achievements (%d / %d)"
   },
   "economic": {
     "sell_for_x": "Bạn đã bán vật phẩm của bạn với giá %dG",
@@ -716,7 +755,8 @@
     "wb_attacks": "World Boss: Số lần Atk",
     "wb_have_not_participate": "Bạn chưa tham gia vào trận chiến World Boss nào",
     "your_rank": "Xếp hạng: #%d / %d Người chơi",
-    "power": "Top Power | Tổng power: %d"
+    "power": "Top Power | Tổng power: %d",
+    "achievements": "Achievements Leaderboard | Total achievement points among all players: %d"
   },
   "world_bosses": {
     "no_world_boss": "Hiện tại chưa xuất hiện World Boss",
@@ -870,7 +910,10 @@
     "buildclear": "Removes all skills from your skill bar",
     "talentexport": "Export your talents",
     "talentimport": "Imports talent",
-    "setmobile": "Activate or deactivate the mobile friendly display mode. \"Arg\" could be: yes or no"
+    "setmobile": "Activate or deactivate the mobile friendly display mode. \"Arg\" could be: yes or no",
+    "rebirth": "Allows you to display your current rebirth bonuses, you can also react with the emojis to rebirth: level or craft level",
+    "rebirth_level": "Allows you to display the next rebirth bonuses for level, you will also have the possibility to rebirth your character level, a confirmation will be prompt",
+    "rebirth_craft_level": "Allows you to display the next rebirth bonuses for craft level, you will also have the possibility to rebirth your character craft level, a confirmation will be prompt"
   },
   "settings_menu": {
     "title": "Settings"
