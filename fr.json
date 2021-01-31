@@ -552,7 +552,7 @@
     "rebirth_unavailable": "Renaissance Indisponible",
     "rebirth_do_you_want": "Que voulez-vous faire renaître ?",
     "rebirth_sure_to": "Voulez-vous vraiment renaître en : %s?",
-    "rebirth_sure_to_description": "Tous vos objets seront déséquipés, vos statistiques principales, secondaires, votre niveau et vos talents vont être réinitialisés. Vous ne perdrez rien d'autre.",
+    "rebirth_sure_to_description": "Tous vos objets seront déséquipés, vos statistiques principales, secondaires, votre niveau et vos talents vont être réinitialisés. Vous serez déplacé vers la première zone du jeu. Vous ne perdrez rien d'autre.",
     "rebirth_sure_to_description_craft": "Votre niveau de fabrication sera réinitialisé. Vous ne perdrez rien d'autre.",
     "rebirht_items_loot": "Les objets que vous allez droper seront au moins de niveau de renaissance : %d.",
     "rebirht_items_craft": "Les objets que vous fabriquerez seront au niveau de renaissance maximum : %d.",
@@ -563,6 +563,8 @@
     "rebirth_title": "Information de Renaissance",
     "current_bonuses": "Bonus actuels",
     "rebirth_successful": "Renaissance Réussite",
+    "rebirth_successful_level": "Votre force s'amenuise, votre champ de vision baisse et vous vous évanouissez. À votre réveil, vous vous rendez compte que vous êtes nu, à l'endroit même où votre aventure a commencé. Cependant, vous vous sentez différent, plus puissant...",
+    "rebirth_successful_craft_level": "Après un long périple pour devenir le meilleur des artisans, vous avez trouvé un maitre en la matière, un vieil homme. Celui-ci a promis de vous aider, vous le suivez, il vous raconte que pour devenir encore meilleur, il faut savoir recommencer. Pendant que vous prenez votre thé, le vieil homme s'empresse de vous donner un coup à la tête. À votre réveil, il n'est plus là, mais pire encore, vous ne vous souvenez plus comment vous fabriquiez vos objets. Mais vous avez l'impression, que vous allez encore mieux faire que votre première fois !",
     "rebirth_cancelled": "Vous avez annulé votre renaissance",
     "achievement_count": "Hauts Faits (%d / %d)"
   },
