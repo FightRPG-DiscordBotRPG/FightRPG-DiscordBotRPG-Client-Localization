@@ -212,7 +212,8 @@
     "variance": "Variance",
     "number_of_targets": "Nombre de cibles",
     "required_preparation_points": "Temps de Rechargement (Bonus Inclus)",
-    "no_desc": "Pas de description pour cette compétence"
+    "no_desc": "Pas de description pour cette compétence",
+    "formula_result": "Résultat de la Formule"
   },
   "effects": {
     "type": "Type d'effet",

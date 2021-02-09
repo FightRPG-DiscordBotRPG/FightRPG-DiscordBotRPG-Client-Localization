@@ -213,7 +213,8 @@
     "number_of_targets": "Number of targets",
     "success_rate": "Success Rate",
     "required_preparation_points": "Skill Cooldown (Including Bonuses)",
-    "no_desc": "No description for skill"
+    "no_desc": "No description for skill",
+    "formula_result": "Formula Result"
   },
   "effects": {
     "type": "Effect Type",
