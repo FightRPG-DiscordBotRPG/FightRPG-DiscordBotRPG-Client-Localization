@@ -648,7 +648,7 @@
     "status_removed": "Status removed: %s",
     "status_added": "Status added: %s",
     "results_lost": "Lost:",
-    "results_gain": "Gain:",
+    "results_gain": "Gained:",
     "results_health_points": "%d hp.",
     "results_mana_points": "%d mp.",
     "results_energy_points": "%d energy.",
