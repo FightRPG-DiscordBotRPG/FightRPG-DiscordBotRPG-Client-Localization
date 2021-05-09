@@ -174,7 +174,8 @@
     "starts": "Commence à partir",
     "ends": "Fini le",
     "started": "Commencé le",
-    "ongoing": "Événement en cours"
+    "ongoing": "Événement en cours",
+    "duration":  "Durée de l'événement"
   },
   "lootbox": {
     "contains": "Cette boite à butin peut contenir %d des éléments suivants:"

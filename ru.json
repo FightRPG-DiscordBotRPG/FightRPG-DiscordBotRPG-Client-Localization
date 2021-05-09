@@ -174,7 +174,8 @@
     "starts": "Starts at",
     "ends": "Ends",
     "started": "Started on",
-    "ongoing": "Ongoing Event"
+    "ongoing": "Ongoing Event",
+    "duration": "Duration of the event"
   },
   "lootbox": {
     "contains": "This loot box may contain %d of the following items:"
