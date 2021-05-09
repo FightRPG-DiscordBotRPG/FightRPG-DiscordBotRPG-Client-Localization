@@ -175,7 +175,8 @@
     "ends": "Fini le",
     "started": "Commencé le",
     "ongoing": "Événement en cours",
-    "duration":  "Durée de l'événement"
+    "duration": "Durée de l'événement",
+    "no_events": "Il n'y a aucun événements en cours"
   },
   "lootbox": {
     "contains": "Cette boite à butin peut contenir %d des éléments suivants:"
