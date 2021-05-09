@@ -165,7 +165,8 @@
     "rebirth_cant_rebirth": "You can't rebirth that",
     "rebirth_cant_rebirth_max_level": "You are already at the max rebirth level for that",
     "rebirth_dont_have_required_items": "You don't have all the required resources to rebirth",
-    "rebirth_not_max_level": "You must be at max level to rebirth"
+    "rebirth_not_max_level": "You must be at max level to rebirth",
+    "events_dont_exist": "This event doesn't exist"
   },
   "lootbox": {
     "contains": "This loot box may contain %d of the following items:"
@@ -320,7 +321,10 @@
     "conquest_actual_level": "Фактический уровень: %d",
     "conquest_points_to_distribute": "Очки для распространения: %d",
     "conquest_price_to_next_level": "Цена до следующего уровня: %dG",
-    "region": "Регион: %s"
+    "region": "Регион: %s",
+    "wild": "Wilderness",
+    "city": "Town",
+    "dungeon": "Dungeon"
   },
   "bonuses": {
     "bonuses": "Бонусы",
