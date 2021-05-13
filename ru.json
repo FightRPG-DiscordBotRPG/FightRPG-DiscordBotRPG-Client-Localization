@@ -357,6 +357,8 @@
     "ores": "Руды",
     "trees": "Деревья",
     "plants": "Растения",
+    "animal": "Animal",
+    "animals": "Animals",
     "noresources": "Здесь нет ресурсов",
     "not_collected": "Вам не удалось собрать ресурс",
     "collected_x_resource": "Вы собрали %d %s",

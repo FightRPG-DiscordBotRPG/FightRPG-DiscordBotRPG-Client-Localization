@@ -357,6 +357,8 @@
     "ores": "Minerales",
     "trees": "Arboles",
     "plants": "Plantas",
+    "animal": "Animal",
+    "animals": "Animals",
     "noresources": "No hay recursos aqui",
     "not_collected": "No tuviste éxito en recoger este recurso",
     "collected_x_resource": "Has conseguido%d %s",

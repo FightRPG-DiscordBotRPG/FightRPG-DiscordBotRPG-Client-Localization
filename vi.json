@@ -357,6 +357,8 @@
     "ores": "Ores",
     "trees": "Trees",
     "plants": "Thực vật",
+    "animal": "Animal",
+    "animals": "Animals",
     "noresources": "Không có tài nguyên ở đây",
     "not_collected": "Bạn thu thập tài nguyên không thành công",
     "collected_x_resource": "Bạn đã thu thập được %d %s",
