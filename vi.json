@@ -52,7 +52,7 @@
     "area_already_reset": "This area has no points allocated to be refunded",
     "collect_enter_id_to_collect": "Vui lòng nhập ID tài nguyên để thu thập",
     "collect_tired_wait_x_seconds": "Bạn đang trong trạng thái mệt mỏi, hãy nghỉ ngơi và thử lại sau: %s giây",
-    "collect_dont_have_required_level": "Để thu thập tài nguyên này bạn phải đạt Lv Craft là %d",
+    "collect_dont_have_required_level": "Để thu thập tài nguyên này bạn phải đạt Lv Craft là %d and of rebirth level %d",
     "item_you_dont_have_this_item": "Bạn không có vật phẩm này",
     "item_choose_id_or_equipement": "You must enter the ID of your inventory slot or choose between \"head, chest, legs, weapon, mount\"",
     "item_you_cant_equip": "Bạn không thể trang bị vật phẩm này",

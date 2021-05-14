@@ -52,7 +52,7 @@
     "area_already_reset": "This area has no points allocated to be refunded",
     "collect_enter_id_to_collect": "Por favor ingrese la ID del recurso a recolectar",
     "collect_tired_wait_x_seconds": "Estas demasiado cansado para recolectar estos recursos, todavía tienes que esperar: %s segundos",
-    "collect_dont_have_required_level": "No tienes el nivel de elaboración requerido para recolectar este recurso, tienes que ser al menos nivel %d",
+    "collect_dont_have_required_level": "No tienes el nivel de elaboración requerido para recolectar este recurso, tienes que ser al menos nivel %d and of rebirth level %d",
     "item_you_dont_have_this_item": "No tienes este item",
     "item_choose_id_or_equipement": "Tienes que ingresar la ID del espacio en tu inventario, o elegir entre \"head (casco), chest (pechera), legs (piernas) , weapon (arma), mount (montura)\"",
     "item_you_cant_equip": "No puedes equipar este item",

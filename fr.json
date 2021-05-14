@@ -52,7 +52,7 @@
     "area_already_reset": "Cette zone n'a pas de points attribués à rembourser",
     "collect_enter_id_to_collect": "Veuillez entrer l'identifiant de la ressource à récolter",
     "collect_tired_wait_x_seconds": "Vous êtes trop fatigué pour récolter des ressources vous devez encore attendre : %s secondes",
-    "collect_dont_have_required_level": "Vous n'avez pas le niveau de métier nécessaire pour récolter cette ressource. Vous devez au moins être niveau : %d",
+    "collect_dont_have_required_level": "Vous n'avez pas le niveau de métier nécessaire pour récolter cette ressource. Vous devez au moins être niveau : %d et de niveau de renaissance : %d",
     "item_you_dont_have_this_item": "Vous n'avez pas cet objet",
     "item_choose_id_or_equipement": "Vous devez entrer l'identifiant de l'emplacement d'inventaire ou bien choisir parmi \"head,chest,legs,weapon\"",
     "item_you_cant_equip": "Vous ne pouvez pas équiper cet objet",

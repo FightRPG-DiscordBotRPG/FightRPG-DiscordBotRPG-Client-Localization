@@ -52,7 +52,7 @@
     "area_already_reset": "Esta área não possui pontos alocados para serem reembolsados",
     "collect_enter_id_to_collect": "Por favor digite o ID do recurso à coletar",
     "collect_tired_wait_x_seconds": "Você está cansado demais para coletar esses recursos, você ainda tem que esperar: %s segundos",
-    "collect_dont_have_required_level": "Você não tem o nível de criação necessário para coletar este recurso, você precisa ser pelo menos nível %d",
+    "collect_dont_have_required_level": "Você não tem o nível de criação necessário para coletar este recurso, você precisa ser pelo menos nível %d and of rebirth level %d",
     "item_you_dont_have_this_item": "Você não tem este item",
     "item_choose_id_or_equipement": "Você precisa digitar o ID do seu espaço de inventário ou escolher entre  \"head, chest, legs, weapon, mount\"",
     "item_you_cant_equip": "Você não pode equipar este item",

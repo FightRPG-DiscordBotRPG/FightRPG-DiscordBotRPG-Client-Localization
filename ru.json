@@ -52,7 +52,7 @@
     "area_already_reset": "This area has no points allocated to be refunded",
     "collect_enter_id_to_collect": "Пожалуйста, введите ID ресурса, чтобы его собрать",
     "collect_tired_wait_x_seconds": "Вы слишком устали, чтобы собрать эти ресурсы, вам все равно придется подождать: %s секунд",
-    "collect_dont_have_required_level": "У вас нет необходимого уровня Ремесла для сбора этого ресурса, вы должны быть как минимум %d уровня",
+    "collect_dont_have_required_level": "У вас нет необходимого уровня Ремесла для сбора этого ресурса, вы должны быть как минимум %d уровня and of rebirth level %d",
     "item_you_dont_have_this_item": "У вас нет этого предмета",
     "item_choose_id_or_equipement": "Необходимо ввести ID слота инвентаря или выбрать между \"head,chest,legs,weapon\"",
     "item_you_cant_equip": "Вы не можете экипировать этот предмет",
