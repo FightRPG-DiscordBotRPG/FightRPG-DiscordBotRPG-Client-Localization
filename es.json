@@ -359,6 +359,8 @@
     "plants": "Plantas",
     "animal": "Animal",
     "animals": "Animals",
+    "fabric": "Fabric",
+    "fabrics": "Fabrics",
     "noresources": "No hay recursos aqui",
     "not_collected": "No tuviste éxito en recoger este recurso",
     "collected_x_resource": "Has conseguido%d %s",

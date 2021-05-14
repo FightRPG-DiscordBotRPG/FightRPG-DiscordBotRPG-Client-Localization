@@ -358,6 +358,8 @@
     "plants": "Plantes",
     "animal": "Animal",
     "animals": "Animaux",
+    "fabric": "Tissu",
+    "fabrics": "Tissus",
     "noresources": "Pas de ressources ici",
     "not_collected": "Vous n'avez pas réussi a récolter la ressource",
     "collected_x_resource": "Vous avez récolté %d %s",

@@ -359,6 +359,8 @@
     "plants": "Растения",
     "animal": "Animal",
     "animals": "Animals",
+    "fabric": "Fabric",
+    "fabrics": "Fabrics",
     "noresources": "Здесь нет ресурсов",
     "not_collected": "Вам не удалось собрать ресурс",
     "collected_x_resource": "Вы собрали %d %s",
