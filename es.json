@@ -168,6 +168,24 @@
     "rebirth_not_max_level": "You must be at max level to rebirth",
     "events_dont_exist": "This event doesn't exist"
   },
+  "appearance": {
+    "title": "Appearance change",
+    "desc_select": "Here is the appearance of your character, this appearance contains the current changes you may have made. To go to the modification use the emoji: \"%s\"",
+    "choose_modify": "Choose what to change:",
+    "ears": "Ears",
+    "eyes": "Eyes",
+    "eyebrows": "Eyebrows",
+    "nose": "Nose",
+    "facial_hair": "Facial Hair",
+    "haircut": "Haircut",
+    "mouth": "Mouth",
+    "body_type": "Body Type",
+    "desc_select_one": "Between brackets and in bold, means that this is the selected choice.\nUse the arrows to change the appearance, the colored emoji to change the color (if available for this type), and use the other emoji to validate",
+    "list_of_possible_for_type": "List of possible choices for the selected type",
+    "list_of_possible_color": "List of possible colors for the selected type",
+    "modifying_elsewhere": "Modification in progress on another message...",
+    "success": "Successful appearance change!"
+  },
   "tutorial": {
     "start": "Welcome to the FightRPG guided tutorial, if this language does not suit you, use the command \"lang\".\nFor your first step, use the command \"info\" to continue the tutorial.",
     "info_first": "This command allows you to display all the informations about your character. The emojis that the bot adds (if it has the rights) allow you to hide or show some parts of the panel. Now it's time to display the area your character is in. Use the \"area\" command to continue the tutorial.",
@@ -412,7 +430,8 @@
     "no": "No",
     "mobile_set": "Mobile Detection Mode: %s. Is user on mobile: %s",
     "points": "%d Point",
-    "points_plur": "%d Points"
+    "points_plur": "%d Points",
+    "validate": "Validate"
   },
   "guild": {
     "you_dont_have_a_guild": "No tienes un gremio",

@@ -168,6 +168,24 @@
     "rebirth_not_max_level": "Vous devez être au niveau maximum pour renâitre",
     "events_dont_exist": "Cet événement n'existe pas"
   },
+  "appearance": {
+    "title": "Changement d'apparence",
+    "desc_select": "Voici l'apparence de votre personnage, cette apparence contient les modifications en cours que vous avez peut-être effectué. Pour passer à la modification utilisez l'émoji : \"%s\"",
+    "choose_modify": "Choisir ce qu'il faut modifier :",
+    "ears": "Oreilles",
+    "eyes": "Yeux",
+    "eyebrows": "Sourcils",
+    "nose": "Nez",
+    "facial_hair": "Pilosité faciale",
+    "haircut": "Coiffure",
+    "mouth": "Bouche",
+    "body_type": "Type de corps",
+    "desc_select_one": "Entre crochet et en gras, signifie que c'est le choix sélectionné.\nUtilisez les flèches pour changer l'apparence, l'émoji en couleur pour changer la couleur (si disponible pour ce type), et utiliser l'autre émoji pour valider",
+    "list_of_possible_for_type": "Liste des choix possibles pour le type sélectionné",
+    "list_of_possible_color": "Liste des couleurs possibles pour le type sélectionné",
+    "modifying_elsewhere": "Modification en cours sur un autre message...",
+    "success": "Modification de l'apparence réussie !"
+  },
   "tutorial": {
     "start": "Bienvenue dans le tutoriel guidé de FightRPG, si cette langue ne vous convient pas, utilisez la commande \"lang\".\nPour votre premier pas, utiliser la commande \"info\" pour poursuivre le tutoriel.",
     "info_first": "Cette commande vous permet d'afficher toutes les informations sur votre personnage. Les émojis que le bot ajoute (s'il en a les droits) permettent de cacher ou d'afficher certaines parties du panneau. Il est maintenant temps d'afficher la zone dans laquelle votre personnage se trouve. Utilisez la commande \"area\" pour poursuivre le tutoriel.",
@@ -411,7 +429,8 @@
     "no": "Non",
     "mobile_set": "Mode de détection d'affichage réduit: %s. L'utilisateur utilise un affichage réduit: %s",
     "points": "%d Point",
-    "points_plur": "%d Points"
+    "points_plur": "%d Points",
+    "validate":  "Valider"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",
