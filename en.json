@@ -184,7 +184,8 @@
     "list_of_possible_for_type": "List of possible choices for the selected type",
     "list_of_possible_color": "List of possible colors for the selected type",
     "modifying_elsewhere": "Modification in progress on another message...",
-    "success": "Successful appearance change!"
+    "success": "Successful appearance change!",
+    "helmet": "Helmet Display"
   },
   "tutorial": {
     "start": "Welcome to the FightRPG guided tutorial, if this language does not suit you, use the command \"lang\".\nFor your first step, use the command \"info\" to continue the tutorial.",

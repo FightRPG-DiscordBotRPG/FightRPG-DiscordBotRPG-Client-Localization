@@ -184,7 +184,8 @@
     "list_of_possible_for_type": "Liste des choix possibles pour le type sélectionné",
     "list_of_possible_color": "Liste des couleurs possibles pour le type sélectionné",
     "modifying_elsewhere": "Modification en cours sur un autre message...",
-    "success": "Modification de l'apparence réussie !"
+    "success": "Modification de l'apparence réussie !",
+    "helmet":  "Affichage du Casque"
   },
   "tutorial": {
     "start": "Bienvenue dans le tutoriel guidé de FightRPG, si cette langue ne vous convient pas, utilisez la commande \"lang\".\nPour votre premier pas, utiliser la commande \"info\" pour poursuivre le tutoriel.",
