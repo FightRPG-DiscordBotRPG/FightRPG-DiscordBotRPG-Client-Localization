@@ -979,7 +979,8 @@
     "rebirth_craft_level": "Vous permet d'afficher les prochains bonus de renaissance pour le niveau d'artisanat, vous aurez également la possibilité de renaître le niveau d'artisanat de votre personnage, une confirmation vous sera demandée",
     "events_title": "Événements",
     "event": "Affiche des informations sur l'événement avec l'identifiant <idEvent>",
-    "event_ongoing": "Affiche les événements en cours"
+    "event_ongoing": "Affiche les événements en cours",
+    "appearance": "Permet de modifier l'apparence de votre personnage"
   },
   "settings_menu": {
     "title": "Paramètres"

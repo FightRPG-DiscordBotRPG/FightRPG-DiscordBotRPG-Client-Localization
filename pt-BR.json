@@ -980,7 +980,8 @@
     "rebirth_craft_level": "Allows you to display the next rebirth bonuses for craft level, you will also have the possibility to rebirth your character craft level, a confirmation will be prompt",
     "events_title": "Events",
     "event": "Displays information about the event with the <idEvent> identifier",
-    "event_ongoing": "Displays ongoing events"
+    "event_ongoing": "Displays ongoing events",
+    "appearance": "Allows you to modify the appearance of your character"
   },
   "settings_menu": {
     "title": "Configurações"
