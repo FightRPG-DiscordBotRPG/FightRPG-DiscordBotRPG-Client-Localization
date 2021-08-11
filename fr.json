@@ -431,7 +431,9 @@
     "mobile_set": "Mode de détection d'affichage réduit: %s. L'utilisateur utilise un affichage réduit: %s",
     "points": "%d Point",
     "points_plur": "%d Points",
-    "validate":  "Valider"
+    "validate": "Valider",
+    "back": "Retour",
+    "next": "Suivant"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",

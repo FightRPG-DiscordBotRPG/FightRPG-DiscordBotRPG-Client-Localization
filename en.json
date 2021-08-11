@@ -432,7 +432,9 @@
     "mobile_set": "Mobile Detection Mode: %s. Is user on mobile: %s",
     "points": "%d Point",
     "points_plur": "%d Points",
-    "validate": "Validate"
+    "validate": "Validate",
+    "back": "Back",
+    "next":  "Next"
   },
   "guild": {
     "you_dont_have_a_guild": "You don't have a guild",
