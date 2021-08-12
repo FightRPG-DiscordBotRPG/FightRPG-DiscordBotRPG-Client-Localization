@@ -185,7 +185,11 @@
     "list_of_possible_color": "Liste des couleurs possibles pour le type sélectionné",
     "modifying_elsewhere": "Modification en cours sur un autre message...",
     "success": "Modification de l'apparence réussie !",
-    "helmet":  "Affichage du Casque"
+    "helmet": "Affichage du Casque",
+    "left": "Gauche",
+    "right": "Droite",
+    "color": "Changer la couleur",
+    "confirm": "Valider"
   },
   "tutorial": {
     "start": "Bienvenue dans le tutoriel guidé de FightRPG, si cette langue ne vous convient pas, utilisez la commande \"lang\".\nPour votre premier pas, utiliser la commande \"info\" pour poursuivre le tutoriel.",
@@ -433,7 +437,8 @@
     "points_plur": "%d Points",
     "validate": "Valider",
     "back": "Retour",
-    "next": "Suivant"
+    "next": "Suivant",
+    "edit":  "Éditer"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",

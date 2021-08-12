@@ -185,7 +185,11 @@
     "list_of_possible_color": "List of possible colors for the selected type",
     "modifying_elsewhere": "Modification in progress on another message...",
     "success": "Successful appearance change!",
-    "helmet": "Helmet Display"
+    "helmet": "Helmet Display",
+    "left": "Left",
+    "right": "Right",
+    "color": "Change the color",
+    "confirm": "Validate"
   },
   "tutorial": {
     "start": "Welcome to the FightRPG guided tutorial, if this language does not suit you, use the command \"lang\".\nFor your first step, use the command \"info\" to continue the tutorial.",
@@ -434,7 +438,8 @@
     "points_plur": "%d Points",
     "validate": "Validate",
     "back": "Back",
-    "next": "Next"
+    "next": "Next",
+    "edit": "Edit"
   },
   "guild": {
     "you_dont_have_a_guild": "Bạn không có Guild",
