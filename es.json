@@ -440,7 +440,8 @@
     "validate": "Validate",
     "back": "Back",
     "next": "Next",
-    "edit": "Edit"
+    "edit": "Edit",
+    "skip": "Skip"
   },
   "guild": {
     "you_dont_have_a_guild": "No tienes un gremio",

@@ -438,7 +438,8 @@
     "validate": "Valider",
     "back": "Retour",
     "next": "Suivant",
-    "edit":  "Éditer"
+    "edit": "Éditer",
+    "skip": "Passer"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",
