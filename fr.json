@@ -168,6 +168,19 @@
     "rebirth_not_max_level": "Vous devez être au niveau maximum pour renâitre",
     "events_dont_exist": "Cet événement n'existe pas"
   },
+  "filters": {
+    "name": "Nom",
+    "rarity": "Rareté",
+    "type": "Type",
+    "subtype": "Sous-Type",
+    "level_up": "Niveau >=",
+    "level_down": "Niveau <=",
+    "rebirth_up": "Niveau de renaissance >=",
+    "rebirth_down": "Niveau de renaissance <=",
+    "power_up": "Puissance >=",
+    "power_down": "Puissance <=",
+    "fav": "Favori"
+  },
   "appearance": {
     "title": "Changement d'apparence",
     "desc_select": "Voici l'apparence de votre personnage, cette apparence contient les modifications en cours que vous avez peut-être effectué. Pour passer à la modification utilisez l'émoji : \"%s\"",
