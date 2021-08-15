@@ -441,8 +441,10 @@
     "next": "Next",
     "edit": "Edit",
     "skip": "Skip",
-    "unlock":  "Unlock",
-    "take":  "Take"
+    "unlock": "Unlock",
+    "take": "Take",
+    "image": "Image",
+    "reset":  "Reset"
   },
   "guild": {
     "you_dont_have_a_guild": "You don't have a guild",

@@ -441,7 +441,9 @@
     "edit": "Éditer",
     "skip": "Passer",
     "unlock": "Débloquer",
-    "take": "Prendre"
+    "take": "Prendre",
+    "image": "Image",
+    "reset": "Réinitialiser"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",
