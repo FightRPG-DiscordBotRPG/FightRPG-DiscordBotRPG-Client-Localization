@@ -633,7 +633,9 @@
     "rebirth_successful_level": "Your strength diminishes, your field of view decreases and you faint. When you wake up, you realize that you are naked, right where your adventure began. However, you feel different, more powerful...",
     "rebirth_successful_craft_level": "After a long journey to become the best craftsman, you have found a master in this art, an old man. He has promised to help you, you follow him, he tells you that to become even better, you have to know how to start again. While you are having your tea, the old man quickly gives you a blow to the head. When you wake up, he's gone, but worse, you can't remember how you used to make your things. But you have the impression that you will do even better than your first time!",
     "rebirth_cancelled": "You've cancelled your rebirth",
-    "achievement_count": "Achievements (%d / %d)"
+    "achievement_count": "Achievements (%d / %d)",
+    "rebirth_level": "Rebirth your Character",
+    "rebirth_craft_level": "Rebirth your Craft"
   },
   "economic": {
     "sell_for_x": "You sold your item for %dG",

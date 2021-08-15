@@ -632,7 +632,9 @@
     "rebirth_successful_level": "Votre force s'amenuise, votre champ de vision baisse et vous vous évanouissez. À votre réveil, vous vous rendez compte que vous êtes nu, à l'endroit même où votre aventure a commencé. Cependant, vous vous sentez différent, plus puissant...",
     "rebirth_successful_craft_level": "Après un long périple pour devenir le meilleur des artisans, vous avez trouvé un maitre en la matière, un vieil homme. Celui-ci a promis de vous aider, vous le suivez, il vous raconte que pour devenir encore meilleur, il faut savoir recommencer. Pendant que vous prenez votre thé, le vieil homme s'empresse de vous donner un coup à la tête. À votre réveil, il n'est plus là, mais pire encore, vous ne vous souvenez plus comment vous fabriquiez vos objets. Mais vous avez l'impression, que vous allez encore mieux faire que votre première fois !",
     "rebirth_cancelled": "Vous avez annulé votre renaissance",
-    "achievement_count": "Hauts Faits (%d / %d)"
+    "achievement_count": "Hauts Faits (%d / %d)",
+    "rebirth_level": "Faire renaître votre personnage",
+    "rebirth_craft_level": "Faire renaître votre artisanat"
   },
   "economic": {
     "sell_for_x": "Vous avez vendu votre objet pour %dG",
