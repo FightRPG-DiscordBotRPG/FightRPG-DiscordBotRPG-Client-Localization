@@ -440,7 +440,9 @@
     "back": "Back",
     "next": "Next",
     "edit": "Edit",
-    "skip": "Skip"
+    "skip": "Skip",
+    "unlock": "Unlock",
+    "take": "Take"
   },
   "guild": {
     "you_dont_have_a_guild": "Bạn không có Guild",

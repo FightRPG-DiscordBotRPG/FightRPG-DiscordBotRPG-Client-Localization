@@ -439,7 +439,9 @@
     "back": "Retour",
     "next": "Suivant",
     "edit": "Éditer",
-    "skip": "Passer"
+    "skip": "Passer",
+    "unlock": "Débloquer",
+    "take": "Prendre"
   },
   "guild": {
     "you_dont_have_a_guild": "Vous n'avez pas de guilde",
