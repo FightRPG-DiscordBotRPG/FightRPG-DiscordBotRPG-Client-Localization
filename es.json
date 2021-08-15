@@ -856,7 +856,8 @@
     "now_unmuted": "World Bosses notifications are now activated",
     "now_muted": "World Bosses notifications are now deactivated",
     "settings_menu_mute": "%s World Bosses notifications",
-    "skill_used": "Skill Used"
+    "skill_used": "Skill Used",
+    "travel": "Travel to world boss area"
   },
   "potions": {
     "drink": "Bebiste: \"%s\"\n",

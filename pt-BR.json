@@ -855,7 +855,8 @@
     "now_unmuted": "Notificações de Chefes Globais agora estão ativadas",
     "now_muted": "Notificações de Chefes Globais agora estão desativadas",
     "settings_menu_mute": "%s notificações de Chefes Globais",
-    "skill_used": "Skill Used"
+    "skill_used": "Skill Used",
+    "travel": "Travel to world boss area"
   },
   "potions": {
     "drink": "Você bebeu: \"%s\"\n",

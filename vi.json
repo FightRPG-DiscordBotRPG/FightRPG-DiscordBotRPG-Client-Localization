@@ -848,7 +848,8 @@
     "now_unmuted": "Thông báo World Bosses Bật",
     "now_muted": "Tắt thông báo World Bosses",
     "settings_menu_mute": "%s Thông báo World Bosses",
-    "skill_used": "Skill Used"
+    "skill_used": "Skill Used",
+    "travel": "Travel to world boss area"
   },
   "potions": {
     "drink": "Uống: \"%s\"\n",

@@ -854,7 +854,8 @@
     "now_unmuted": "Les notifications en rapport avec les boss mondiaux sont maintenant activées",
     "now_muted": "Les notifications en rapport avec les boss mondiaux sont maintenant désactivées",
     "settings_menu_mute": "%s les notifications en rapport avec les boss mondiaux",
-    "skill_used": "Compétence Utilisée"
+    "skill_used": "Compétence Utilisée",
+    "travel": "Voyager jusqu'au boss mondial"
   },
   "potions": {
     "drink": "Vous avez bu : \"%s\"\n",
