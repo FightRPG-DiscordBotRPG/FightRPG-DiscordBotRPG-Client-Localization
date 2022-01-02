@@ -179,7 +179,7 @@
     "rebirth_down": "Niveau de renaissance <=",
     "power_up": "Puissance >=",
     "power_down": "Puissance <=",
-    "fav": "Favori"
+    "favorite": "Favori"
   },
   "appearance": {
     "title": "Changement d'apparence",

@@ -179,7 +179,7 @@
     "rebirth_down": "Rebirth Level <=",
     "power_up": "Power >=",
     "power_down": "Power <=",
-    "fav": "Favorite"
+    "favorite": "Favorite"
   },
   "appearance": {
     "title": "Appearance change",
