@@ -767,7 +767,8 @@
     "prefix_changed": "Prefix changé",
     "old_prefix": "Ancien préfixe",
     "new_prefix": "Nouveau préfixe",
-    "prefix_title": "Préfixe actuel"
+    "prefix_title": "Préfixe actuel",
+    "check_dm":  "Un message privé vous a été envoyé avec la marche à suivre !"
   },
   "item_types": {
     "weapon": "Arme",

@@ -767,7 +767,8 @@
     "prefix_changed": "Префикс изменен",
     "old_prefix": "Старый префикс",
     "new_prefix": "Новый префикс",
-    "prefix_title": "Current Prefix"
+    "prefix_title": "Current Prefix",
+    "check_dm": "A private message has been sent to you with the procedure to follow!"
   },
   "item_types": {
     "weapon": "Оружие",

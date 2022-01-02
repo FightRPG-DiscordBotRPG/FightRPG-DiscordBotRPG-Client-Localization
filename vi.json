@@ -761,7 +761,8 @@
     "prefix_changed": "Prefix changed",
     "old_prefix": "Old prefix",
     "new_prefix": "New prefix",
-    "prefix_title": "Current Prefix"
+    "prefix_title": "Current Prefix",
+    "check_dm": "A private message has been sent to you with the procedure to follow!"
   },
   "item_types": {
     "weapon": "Vũ khí",

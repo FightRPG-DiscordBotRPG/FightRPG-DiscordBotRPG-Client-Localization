@@ -768,7 +768,8 @@
     "prefix_changed": "Prefijo cambiado",
     "old_prefix": "Prefijo viejo",
     "new_prefix": "Prefijo nuevo",
-    "prefix_title": "Prefijo actual"
+    "prefix_title": "Prefijo actual",
+    "check_dm": "A private message has been sent to you with the procedure to follow!"
   },
   "item_types": {
     "weapon": "Arma",
