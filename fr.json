@@ -229,7 +229,8 @@
     "ongoing": "Événement en cours",
     "duration": "Durée de l'événement",
     "no_events": "Il n'y a aucun événements en cours",
-    "wont_fire_again": "Ne se répètera plus"
+    "wont_fire_again": "Ne se répètera plus",
+    "events_created":  "Les événements ont été ajoutés avec succès à votre serveur."
   },
   "lootbox": {
     "contains": "Cette boite à butin peut contenir %d des éléments suivants:"

@@ -228,7 +228,8 @@
     "ongoing": "Ongoing Event",
     "duration": "Duration of the event",
     "no_events": "There are no ongoing events",
-    "wont_fire_again": "Will not be repeated"
+    "wont_fire_again": "Will not be repeated",
+    "events_created": "Incoming events have been successfully added to your server."
   },
   "lootbox": {
     "contains": "This loot box may contain %d of the following items:"
