@@ -946,7 +946,7 @@
     "gleave": "Abandonar tu gremio",
     "gmod": "cambiar el rango de un miembro del gremio (1: Miembro, 2: Oficial)",
     "gleaderswitch": "Cambia tu rango de maestro del gremio con algún otro miembro del gremio",
-    "grename": "Cambia el nombre de tu gremio. Cuando escribas el nombre de tu gremio usa comillas para rodear el nombre, así los espacios se tomarán en cuenta. Costo: %dG",
+    "grename": "Cambia el nombre de tu gremio. Costo: %dG",
     "gterritories": "Muestra los territorios de tu gremio",
     "gkick": "expulsa al miembro seleccionado de tu gremio",
     "other_title": "Otros",

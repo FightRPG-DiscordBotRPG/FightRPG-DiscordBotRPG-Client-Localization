@@ -946,7 +946,7 @@
     "gleave": "Leave your guild",
     "gmod": "Change the member rank (1: Member, 2: Officer)",
     "gleaderswitch": "Exchange your guild master position with another guild member",
-    "grename": "Change the name of your guild. When writing the guild name use \"you new guild name\" to take into account white spaces. Cost: %dG",
+    "grename": "Change the name of your guild. Cost: %dG",
     "gterritories": "Shows the territories held by your guild",
     "gkick": "Kick the player from your guild",
     "other_title": "Other",

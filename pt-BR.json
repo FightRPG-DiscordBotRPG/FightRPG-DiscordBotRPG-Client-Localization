@@ -946,7 +946,7 @@
     "gleave": "Sai da sua guilda",
     "gmod": "Muda o ranking do membro (1: Membro, 2: Oficial)",
     "gleaderswitch": "Troca sua posição de líder da guilda com outro membro da guilda",
-    "grename": "Muda o nome da sua guilda. Quando escrever o nome da guilda use \"seu novo nome de guilda\" para levar espaços em branco em consideração. Custo: %dG",
+    "grename": "Muda o nome da sua guilda. Custo: %dG",
     "gterritories": "Mostra os territórios mantidos por sua guilda",
     "gkick": "Remove o jogador da sua guilda",
     "other_title": "Outros",
